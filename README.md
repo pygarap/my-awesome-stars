@@ -395,6 +395,7 @@
 
 ## Python 
 
+- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
@@ -1120,7 +1121,7 @@
 ## TypeScript 
 
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
-- [johannschopplich/toon](https://github.com/johannschopplich/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & TypeScript implementation.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & reference implementation.
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
