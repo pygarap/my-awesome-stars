@@ -1565,6 +1565,8 @@
 
 ## others 
 
+- [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner) - Automatically execute code blocks within a Markdown file and update the output in-place
+- [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [resend/resend-python](https://github.com/resend/resend-python) - resend's python sdk
 - [Erotemic/mkinit](https://github.com/Erotemic/mkinit) - Auto-generate explicit readable __init__.py files without `import *`
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
@@ -2058,6 +2060,8 @@
 
 ## python 
 
+- [modal-labs/synchronicity](https://github.com/modal-labs/synchronicity) - Synchronicity lets you interoperate with asynchronous Python APIs.
+- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
 - [darrenburns/textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) - Easily add autocomplete dropdowns to your Textual apps
 - [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
@@ -2706,6 +2710,7 @@
 
 ## testing 
 
+- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [augustogoulart/awesome-pytest](https://github.com/augustogoulart/awesome-pytest) - A curated list of awesome pytest resources
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
