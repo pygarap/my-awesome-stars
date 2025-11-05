@@ -28,6 +28,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -390,6 +391,10 @@
 ## PHP 
 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+
+## PowerShell 
+
+- [agentflare-ai/agentml](https://github.com/agentflare-ai/agentml) - Agent Markdown Language
 
 ## Python 
 
@@ -981,6 +986,7 @@
 
 ## Rust 
 
+- [penberg/agentfs](https://github.com/penberg/agentfs) - The filesystem for agents
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt) - Format Python TOML configurations.
