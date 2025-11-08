@@ -292,6 +292,7 @@
 
 ## Others 
 
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) - Black Friday deals for developers – templates, devtools, courses, books
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
@@ -399,6 +400,10 @@
 
 ## Python 
 
+- [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
+- [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
+- [Kludex/python-multipart](https://github.com/Kludex/python-multipart) - A streaming multipart parser for Python.
+- [Kludex/uvicorn-worker](https://github.com/Kludex/uvicorn-worker) - Uvicorn worker for Gunicorn! :sparkles:
 - [sirosen/mddj](https://github.com/sirosen/mddj) - The Python MetaData DJ
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either Trio or asyncio
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
