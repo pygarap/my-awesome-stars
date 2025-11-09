@@ -400,6 +400,7 @@
 
 ## Python 
 
+- [hugovk/pypi-tools](https://github.com/hugovk/pypi-tools) - Command-line Python scripts to do things with PyPI
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [Kludex/python-multipart](https://github.com/Kludex/python-multipart) - A streaming multipart parser for Python.
@@ -875,7 +876,7 @@
 - [behave-restful/behave-restful](https://github.com/behave-restful/behave-restful) - BDD Framework to Test REST Services and APIs
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
-- [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - The code coverage tool for Python
+- [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy) - The code coverage tool for Python
 - [spulec/freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
 - [CleanCut/green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [radish-bdd/radish](https://github.com/radish-bdd/radish) - Behavior Driven Development tooling for Python. The root from red to green.
@@ -998,6 +999,7 @@
 
 ## Rust 
 
+- [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs
 - [penberg/agentfs](https://github.com/penberg/agentfs) - The filesystem for agents
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
