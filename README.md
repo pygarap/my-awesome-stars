@@ -1150,13 +1150,13 @@
 
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [openai/codex-action](https://github.com/openai/codex-action) - 
 - [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,and vue
-- [idosal/mcp-ui](https://github.com/idosal/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
+- [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [pydantic/ai-chat-ui](https://github.com/pydantic/ai-chat-ui) - Web UI for Pydantic AI agents, built over the Vercel AI protocol
