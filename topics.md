@@ -1573,6 +1573,7 @@
 
 ## others 
 
+- [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
 - [Kludex/python-multipart](https://github.com/Kludex/python-multipart) - A streaming multipart parser for Python.
 - [Kludex/uvicorn-worker](https://github.com/Kludex/uvicorn-worker) - Uvicorn worker for Gunicorn! :sparkles:
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
