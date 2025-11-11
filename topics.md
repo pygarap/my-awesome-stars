@@ -42,6 +42,7 @@
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [csharp](#csharp)
 - [css](#css)
 - [data](#data)
@@ -85,6 +86,7 @@
 - [haskell](#haskell)
 - [homebrew](#homebrew)
 - [html](#html)
+- [html5](#html5)
 - [http](#http)
 - [https](#https)
 - [icon-font](#icon-font)
@@ -544,6 +546,7 @@
 
 ## cli 
 
+- [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) - GitKraken CLI Releases and Documentation
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ewels/rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with rich.
@@ -652,12 +655,18 @@
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
 
+## crawler 
+
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
+
 ## csharp 
 
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 
 ## css 
 
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
+- [lorien/domselect](https://github.com/lorien/domselect) - Universal interface to work with DOM built by different HTML parsing engines.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
 ## data 
@@ -927,6 +936,7 @@
 
 ## git 
 
+- [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) - GitKraken CLI Releases and Documentation
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [asottile/all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
@@ -1086,6 +1096,8 @@
 
 ## html 
 
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
+- [lorien/domselect](https://github.com/lorien/domselect) - Universal interface to work with DOM built by different HTML parsing engines.
 - [volfpeter/holm](https://github.com/volfpeter/holm) - Web development framework that brings the Next.js developer experience to Python, built on FastAPI, htmy, and FastHX.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
@@ -1096,6 +1108,10 @@
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine.
 - [volfpeter/fasthx](https://github.com/volfpeter/fasthx) - Declarative server-side rendering utility for FastAPI with built-in HTMX support.
+
+## html5 
+
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 
 ## http 
 
@@ -1573,6 +1589,7 @@
 
 ## others 
 
+- [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [patrick91/rich-toolkit](https://github.com/patrick91/rich-toolkit) - Opinionated components for Rich
 - [fastapi/fastapi-new](https://github.com/fastapi/fastapi-new) - Create a new FastAPI project in one command
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
@@ -2079,6 +2096,8 @@
 
 ## python 
 
+- [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types) - A Python library to map file extensions to MIME types without accessing the file data. #pypackage
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [adamchainz/time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
 - [hugovk/pypi-tools](https://github.com/hugovk/pypi-tools) - Command-line Python scripts to do things with PyPI
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
@@ -2694,6 +2713,7 @@
 
 ## terminal 
 
+- [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) - GitKraken CLI Releases and Documentation
 - [darrenburns/textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) - Easily add autocomplete dropdowns to your Textual apps
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ttygroup/textual-tty](https://github.com/ttygroup/textual-tty) - A pure python terminal for textual
