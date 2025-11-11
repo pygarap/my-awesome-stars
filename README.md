@@ -73,6 +73,7 @@
 
 ## Cython 
 
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ## Dockerfile 
@@ -292,6 +293,7 @@
 
 ## Others 
 
+- [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) - GitKraken CLI Releases and Documentation
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) - Black Friday deals for developers – templates, devtools, courses, books
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
@@ -400,6 +402,9 @@
 
 ## Python 
 
+- [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types) - A Python library to map file extensions to MIME types without accessing the file data. #pypackage
+- [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
+- [lorien/domselect](https://github.com/lorien/domselect) - Universal interface to work with DOM built by different HTML parsing engines.
 - [adamchainz/time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
 - [patrick91/rich-toolkit](https://github.com/patrick91/rich-toolkit) - Opinionated components for Rich
 - [fastapi/fastapi-new](https://github.com/fastapi/fastapi-new) - Create a new FastAPI project in one command
