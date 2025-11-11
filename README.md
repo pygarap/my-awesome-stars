@@ -400,6 +400,9 @@
 
 ## Python 
 
+- [adamchainz/time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
+- [patrick91/rich-toolkit](https://github.com/patrick91/rich-toolkit) - Opinionated components for Rich
+- [fastapi/fastapi-new](https://github.com/fastapi/fastapi-new) - Create a new FastAPI project in one command
 - [hugovk/pypi-tools](https://github.com/hugovk/pypi-tools) - Command-line Python scripts to do things with PyPI
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
@@ -633,7 +636,7 @@
 - [xai-org/xai-sdk-python](https://github.com/xai-org/xai-sdk-python) - The official Python SDK for the xAI API
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [pydantic/pydantic-settings](https://github.com/pydantic/pydantic-settings) - Settings management using pydantic
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
