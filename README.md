@@ -458,6 +458,7 @@
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
 - [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
 - [beartype/pytest-beartype](https://github.com/beartype/pytest-beartype) - Pytest plugin type-checking tests, fixtures, and/or your codebase with @beartype – the unbearably fast near-real-time pure-Python runtime-static type-checker.
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - Logly is a Rust-powered, Loguru-like logging library for Python that combines the familiarity of Python’s standard logging API with high-performance logging capabilities.
 - [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) - 
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
@@ -1099,7 +1100,6 @@
 ## Shell 
 
 - [beartype/ipython-beartype](https://github.com/beartype/ipython-beartype) - IPython extension type-checking IPython environments with @beartype
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [tmatilai/direnv-1password](https://github.com/tmatilai/direnv-1password) - 1Password helpers for direnv
