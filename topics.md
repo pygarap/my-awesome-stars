@@ -273,7 +273,7 @@
 - [jihoonerd/Data_Structures_and_Algorithms_in_Python](https://github.com/jihoonerd/Data_Structures_and_Algorithms_in_Python) - :book: Worked Solutions of "Data Structures & Algorithms in Python", written by Michael T. Goodrich, Roberto Tamassia and Michael H. Goldwasser. ✏️
 - [shushrutsharma/Data-Structures-and-Algorithms-Python](https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python) - All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [Bibeknam/algorithmtutorprograms](https://github.com/Bibeknam/algorithmtutorprograms) - Program Codes for AlgorithmTutor.Com
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -1018,7 +1018,6 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
 - [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
@@ -1098,6 +1097,7 @@
 
 ## html 
 
+- [hasansezertasan/awesome-python-html](https://github.com/hasansezertasan/awesome-python-html) - A curated list of things related to python-based HTML generation.
 - [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Minimal-boilerplate web apps from Python functions.
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [lorien/domselect](https://github.com/lorien/domselect) - Universal interface to work with DOM built by different HTML parsing engines.
@@ -1595,6 +1595,7 @@
 
 ## others 
 
+- [PyO3/pyproject-toml-rs](https://github.com/PyO3/pyproject-toml-rs) - pyproject.toml parser in Rust
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
 - [15r10nk/format-dedent](https://github.com/15r10nk/format-dedent) - formats textwrap.dedent("""multiline string ...""")
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
@@ -2104,6 +2105,7 @@
 
 ## python 
 
+- [hasansezertasan/awesome-python-html](https://github.com/hasansezertasan/awesome-python-html) - A curated list of things related to python-based HTML generation.
 - [feldroy/air](https://github.com/feldroy/air) - The new Python web framework by the authors of Two Scoops of Django
 - [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Minimal-boilerplate web apps from Python functions.
 - [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types) - A Python library to map file extensions to MIME types without accessing the file data. #pypackage
