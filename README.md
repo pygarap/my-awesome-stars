@@ -85,7 +85,7 @@
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [ashish0kumar/typtea](https://github.com/ashish0kumar/typtea) - ⌨️ Minimal terminal-based typing speed tester
+- [ashish0kumar/typtea](https://github.com/ashish0kumar/typtea) - minimal terminal typing tester
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
@@ -681,6 +681,7 @@
 - [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 - [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
 - [br3ndonland/fastenv](https://github.com/br3ndonland/fastenv) - ⚙️ Unified environment variable and settings management for FastAPI and beyond 🚀
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python SDK for the ElevenLabs API.
@@ -1227,7 +1228,6 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
