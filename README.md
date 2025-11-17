@@ -405,6 +405,8 @@
 
 ## Python 
 
+- [psincraian/myfy](https://github.com/psincraian/myfy) - 
+- [psincraian/pepy](https://github.com/psincraian/pepy) - pepy is a site to get statistics information about any Python package.
 - [PythonNest/PyNest](https://github.com/PythonNest/PyNest) - PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
