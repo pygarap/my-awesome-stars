@@ -1101,6 +1101,7 @@
 
 ## html 
 
+- [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [hasansezertasan/awesome-python-html](https://github.com/hasansezertasan/awesome-python-html) - A curated list of things related to python-based HTML generation.
 - [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Minimal-boilerplate web apps from Python functions.
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
@@ -1122,6 +1123,9 @@
 
 ## http 
 
+- [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
+- [karpetrosyan/httpx-aiohttp](https://github.com/karpetrosyan/httpx-aiohttp) - aiohttp-powered httpx client
+- [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
 - [requests-cache/aiohttp-client-cache](https://github.com/requests-cache/aiohttp-client-cache) - An async persistent cache for aiohttp requests
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
@@ -1599,6 +1603,10 @@
 
 ## others 
 
+- [t-strings/awesome-t-strings](https://github.com/t-strings/awesome-t-strings) - 
+- [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent) - textwrap.dedent with t-string support
+- [karpetrosyan/http-snapshot](https://github.com/karpetrosyan/http-snapshot) - pytest plugin that snapshots requests made with popular Python HTTP clients.
+- [MarkusSintonen/pyreqwest](https://github.com/MarkusSintonen/pyreqwest) - Fast Python HTTP client based on Rust reqwest
 - [psincraian/myfy](https://github.com/psincraian/myfy) - 
 - [PythonNest/PyNest](https://github.com/PythonNest/PyNest) - PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS
 - [PyO3/pyproject-toml-rs](https://github.com/PyO3/pyproject-toml-rs) - pyproject.toml parser in Rust
@@ -2111,6 +2119,9 @@
 
 ## python 
 
+- [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
+- [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
+- [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
 - [hasansezertasan/awesome-python-html](https://github.com/hasansezertasan/awesome-python-html) - A curated list of things related to python-based HTML generation.
 - [feldroy/air](https://github.com/feldroy/air) - The new Python web framework by the authors of Two Scoops of Django
 - [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Minimal-boilerplate web apps from Python functions.
@@ -2429,6 +2440,7 @@
 
 ## python3 
 
+- [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [psincraian/pepy](https://github.com/psincraian/pepy) - pepy is a site to get statistics information about any Python package.
 - [geldata/gel-python](https://github.com/geldata/gel-python) - The official Python client library for Gel
 - [beartype/pytest-beartype](https://github.com/beartype/pytest-beartype) - Pytest plugin type-checking tests, fixtures, and/or your codebase with @beartype – the unbearably fast near-real-time pure-Python runtime-static type-checker.
@@ -2866,6 +2878,7 @@
 
 ## web 
 
+- [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
 - [feldroy/air](https://github.com/feldroy/air) - The new Python web framework by the authors of Two Scoops of Django
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
