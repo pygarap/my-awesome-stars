@@ -294,6 +294,7 @@
 
 ## Others 
 
+- [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
 - [hasansezertasan/awesome-python-html](https://github.com/hasansezertasan/awesome-python-html) - A curated list of things related to python-based HTML generation.
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) - GitKraken CLI Releases and Documentation
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
@@ -335,14 +336,12 @@
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
-- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [rochacbruno/my-awesome-stars](https://github.com/rochacbruno/my-awesome-stars) - 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [warner-benjamin/uv-conda](https://github.com/warner-benjamin/uv-conda) - 
 - [augustogoulart/awesome-pytest](https://github.com/augustogoulart/awesome-pytest) - A curated list of awesome pytest resources
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -405,6 +404,10 @@
 
 ## Python 
 
+- [treyhunner/uvrs](https://github.com/treyhunner/uvrs) - Create and run uv scripts with POSIX standardized shebang line
+- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - "see" your data structure
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve turns pydantic from a static data container into a powerful composable component.
+- [autokitteh/kittehub](https://github.com/autokitteh/kittehub) - AutoKitteh projects: ready to deploy with a few clicks
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [t-strings/awesome-t-strings](https://github.com/t-strings/awesome-t-strings) - 
 - [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent) - textwrap.dedent with t-string support
@@ -1025,6 +1028,8 @@
 
 ## Rust 
 
+- [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [PyO3/pyproject-toml-rs](https://github.com/PyO3/pyproject-toml-rs) - pyproject.toml parser in Rust
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
@@ -1235,7 +1240,6 @@
 - [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
