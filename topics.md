@@ -1624,7 +1624,7 @@
 - [Kludex/python-multipart](https://github.com/Kludex/python-multipart) - A streaming multipart parser for Python.
 - [Kludex/uvicorn-worker](https://github.com/Kludex/uvicorn-worker) - Uvicorn worker for Gunicorn! :sparkles:
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
-- [greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) - Black Friday deals for developers – templates, devtools, courses, books
+- [greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) - Black Friday deals for developers and designers – templates, devtools, courses, books
 - [sirosen/mddj](https://github.com/sirosen/mddj) - The Python MetaData DJ
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either Trio or asyncio
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
