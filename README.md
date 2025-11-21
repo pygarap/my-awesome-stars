@@ -405,7 +405,7 @@
 ## Python 
 
 - [treyhunner/uvrs](https://github.com/treyhunner/uvrs) - Create and run uv scripts with POSIX standardized shebang line
-- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - "see" your data structure
+- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - "see" your data
 - [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve turns pydantic from a static data container into a powerful composable component.
 - [autokitteh/kittehub](https://github.com/autokitteh/kittehub) - AutoKitteh projects: ready to deploy with a few clicks
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
