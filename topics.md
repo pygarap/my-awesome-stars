@@ -1703,7 +1703,7 @@
 - [ninoseki/uv-dynamic-versioning](https://github.com/ninoseki/uv-dynamic-versioning) - Dynamic versioning based on VCS tags for uv/hatch project
 - [adamritter/fasttag](https://github.com/adamritter/fasttag) - Library for extremely fast HTML generation from Python
 - [LeetCode-OpenSource/leetcode-cli](https://github.com/LeetCode-OpenSource/leetcode-cli) - A cli tool to enjoy leetcode!
-- [asottile/dict-unpacking-at-home](https://github.com/asottile/dict-unpacking-at-home) - can we have dict unpacking in python?
+- [asottile-archive/dict-unpacking-at-home](https://github.com/asottile-archive/dict-unpacking-at-home) - can we have dict unpacking in python?
 - [mitsuhiko/dotfiles](https://github.com/mitsuhiko/dotfiles) - My dotfiles (vim / bash etc.)
 - [treyhunner/dotfiles](https://github.com/treyhunner/dotfiles) - My dotfiles
 - [pre-commit/sync-pre-commit-deps](https://github.com/pre-commit/sync-pre-commit-deps) - Sync pre-commit hook dependencies based on other installed hooks
