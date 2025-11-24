@@ -680,7 +680,7 @@
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 
 ## data-analysis 
 
@@ -2380,7 +2380,7 @@
 - [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 - [samuelcolvin/dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
 - [typeddjango/pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - pytest plugin for testing mypy types, stubs, and plugins
 - [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the pytest runner
@@ -2830,7 +2830,7 @@
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 - [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the pytest runner
 - [abantos/behave-restful](https://github.com/abantos/behave-restful) - BDD Framework to Test REST Services and APIs
 - [CleanCut/green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
