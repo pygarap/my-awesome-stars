@@ -1717,7 +1717,7 @@
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [jimwhite/agent-client-kernel](https://github.com/jimwhite/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
+- [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent.
 - [fastapi/annotated-doc](https://github.com/fastapi/annotated-doc) - Document parameters, class attributes, return types, and variables inline, with Annotated.
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
