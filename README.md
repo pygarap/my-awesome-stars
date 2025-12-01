@@ -1177,6 +1177,7 @@
 
 ## TeX 
 
+- [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode) - This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
 - [wojtask/clrs4e-solutions](https://github.com/wojtask/clrs4e-solutions) - Solutions to exercises and problems from "Introduction to Algorithms", Fourth Edition by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
