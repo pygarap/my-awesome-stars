@@ -251,7 +251,6 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [Significant-Gravitas/Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
-- [coolmule0/JLPT-N5-N1-Japanese-Vocabulary-Anki](https://github.com/coolmule0/JLPT-N5-N1-Japanese-Vocabulary-Anki) - Script to generate Japanese JLPT Anki deck used in https://ankiweb.net/shared/info/1550984460
 - [PythonFreeCourse/Notebooks](https://github.com/PythonFreeCourse/Notebooks) - Learn Python for free using open-source notebooks in Hebrew.
 
 ## Kotlin 
@@ -401,7 +400,7 @@
 
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [treyhunner/uvrs](https://github.com/treyhunner/uvrs) - Create and run uv scripts with POSIX standardized shebang line
-- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - "see" your data
+- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your FastAPI endpoints and explore them interactively.
 - [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A one-stop solution from designing ER diagram to generating final view data
 - [autokitteh/kittehub](https://github.com/autokitteh/kittehub) - AutoKitteh projects: ready to deploy with a few clicks
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
@@ -947,6 +946,7 @@
 - [pgoonghang/Number-guessing-game](https://github.com/pgoonghang/Number-guessing-game) - Simple Japanese language number guessing game for OS X
 - [Ben-Kerman/anki-jrp](https://github.com/Ben-Kerman/anki-jrp) - Anki add-on for generating furigana and pitch accent coloring & graphs, including optional flexible card styling
 - [neocl/jamdict](https://github.com/neocl/jamdict) - Python 3 library for manipulating Jim Breen's JMdict, KanjiDic2, JMnedict and kanji-radical mappings
+- [coolmule0/JLPT-N5-N1-Japanese-Vocabulary-Anki](https://github.com/coolmule0/JLPT-N5-N1-Japanese-Vocabulary-Anki) - Script to generate Japanese JLPT Anki deck used in https://ankiweb.net/shared/info/1550984460
 - [maxwellmattryan/jisho-search](https://github.com/maxwellmattryan/jisho-search) - Script to scrape data from jisho.org, a comprehensive Japanese-English dictionary.
 - [loic-ehrhardt/pyHonGo](https://github.com/loic-ehrhardt/pyHonGo) - pyHonGo is a pygame-based french-japanese vocabulary quizz using the flashcard method which can be controlled with a TV remote control
 - [matthewmpalen/pyjisho](https://github.com/matthewmpalen/pyjisho) - Python HTTP client for Jisho.org search API
@@ -964,7 +964,6 @@
 - [laurent-radoux/wanikani_notifier](https://github.com/laurent-radoux/wanikani_notifier) - 
 - [Kaniwani/wanikani_api](https://github.com/Kaniwani/wanikani_api) - A Python wrapper for Wanikani API V2.
 - [Bituvo/PyCraiyon-Interface](https://github.com/Bituvo/PyCraiyon-Interface) - A terminal interface to Craiyon's image generation API. (craiyonAPI.exe causes false positives in VirusTotal)
-- [yuxwtf/DrawThis](https://github.com/yuxwtf/DrawThis) - 🎨 DrawThis, using Craiyon AI, formerly DALL-E mini, is an AI model that can draw images from any text prompt in python!
 - [ilevkivskyi/typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - Runtime inspection utilities for Python typing module
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
@@ -1025,6 +1024,7 @@
 
 ## Rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [zackradisic/rust-vs-zig](https://github.com/zackradisic/rust-vs-zig) - Comparing unsafe Rust vs Zig by writing a bytecode interpreter with GC in both langs
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
