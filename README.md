@@ -420,7 +420,7 @@
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [feldroy/air](https://github.com/feldroy/air) - The new Python web framework by the authors of Two Scoops of Django
 - [15r10nk/format-dedent](https://github.com/15r10nk/format-dedent) - formats textwrap.dedent("""multiline string ...""")
-- [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Minimal-boilerplate web apps from Python functions.
+- [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Type hints → Web UI. Minimal-boilerplate web apps from Python functions.
 - [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types) - A Python library to map file extensions to MIME types without accessing the file data. #pypackage
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [lorien/domselect](https://github.com/lorien/domselect) - Universal interface to work with DOM built by different HTML parsing engines.
