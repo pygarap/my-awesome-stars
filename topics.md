@@ -1689,6 +1689,7 @@
 
 ## others 
 
+- [okken/pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failures per test.
 - [zackradisic/rust-vs-zig](https://github.com/zackradisic/rust-vs-zig) - Comparing unsafe Rust vs Zig by writing a bytecode interpreter with GC in both langs
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
