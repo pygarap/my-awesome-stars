@@ -178,6 +178,7 @@
 - [terminal](#terminal)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -225,6 +226,7 @@
 - [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) - Black Friday deals for developers and designers – templates, devtools, courses, books
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [intellectronica/skillz](https://github.com/intellectronica/skillz) - An MCP server for loading skills (shim for non-claude clients).
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
@@ -1920,7 +1922,6 @@
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [ankitects/anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
 - [ankitects/anki-addons](https://github.com/ankitects/anki-addons) - Source code for some Anki add-ons
-- [Zaloog/dotenvhub](https://github.com/Zaloog/dotenvhub) - Terminal App to centrally manage .env files. Written in Python powered by Textual
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [RonitSachdev/ccundo](https://github.com/RonitSachdev/ccundo) - ccundo seamlessly integrates with Claude Code to provide granular undo functionality. It reads directly from Claude Code's session files to track file operations and allows you to selectively revert c
 - [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
@@ -2961,6 +2962,27 @@
 
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python SDK for the ElevenLabs API.
+
+## tui 
+
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+- [darrenburns/textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) - Easily add autocomplete dropdowns to your Textual apps
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
+- [ttygroup/textual-tty](https://github.com/ttygroup/textual-tty) - A pure python terminal for textual
+- [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
+- [ashish0kumar/typtea](https://github.com/ashish0kumar/typtea) - minimal terminal typing tester
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [Zaloog/blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil
+- [Zaloog/dotenvhub](https://github.com/Zaloog/dotenvhub) - Terminal App to centrally manage .env files. Written in Python powered by Textual
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
 ## typescript 
 
