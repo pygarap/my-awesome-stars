@@ -452,6 +452,7 @@
 - [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
