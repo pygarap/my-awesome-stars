@@ -788,6 +788,7 @@
 
 ## data-structures 
 
+- [djiangtw/data-structures-in-practice-public](https://github.com/djiangtw/data-structures-in-practice-public) - A hardware-aware guide to data structures for system software engineers.
 - [lukasmasuch/best-of-python](https://github.com/lukasmasuch/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [F4bbi/manim-dsa](https://github.com/F4bbi/manim-dsa) - A Manim plugin to animate common data structures and algorithms.
 - [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
