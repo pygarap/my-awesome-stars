@@ -399,6 +399,8 @@
 
 ## Python 
 
+- [html5lib/html5lib-tests](https://github.com/html5lib/html5lib-tests) - Testsuite data for html5lib, including the de-facto standard HTML parsing tests.
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [okken/pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failures per test.
