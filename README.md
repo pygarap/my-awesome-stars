@@ -700,7 +700,7 @@
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python SDK for the ElevenLabs API.
 - [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) - The official ElevenLabs MCP server
 - [fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities for FastAPI
-- [reactive-python/reactpy-jupyter](https://github.com/reactive-python/reactpy-jupyter) - It's React, but in Jupyter
+- [reactive-python/reactpy-jupyter](https://github.com/reactive-python/reactpy-jupyter) - Jupyter integration for ReactPy
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine.
