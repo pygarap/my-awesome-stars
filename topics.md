@@ -1989,7 +1989,7 @@
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 - [fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities for FastAPI
-- [reactive-python/reactpy-jupyter](https://github.com/reactive-python/reactpy-jupyter) - It's React, but in Jupyter
+- [reactive-python/reactpy-jupyter](https://github.com/reactive-python/reactpy-jupyter) - Jupyter integration for ReactPy
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [volfpeter/fastapi-htmx-tailwind-example](https://github.com/volfpeter/fastapi-htmx-tailwind-example) - Example application (IoT dashboard) built with FastAPI, HTMX, TailwindCSS, DaisyUI, Jinja, and MongoDB.
 - [ai-evals-course/isaac-fasthtml-workshop](https://github.com/ai-evals-course/isaac-fasthtml-workshop) - 
