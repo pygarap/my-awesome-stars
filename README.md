@@ -399,6 +399,7 @@
 
 ## Python 
 
+- [smorinlabs/py-launch-blueprint](https://github.com/smorinlabs/py-launch-blueprint) - A Production-Ready Python Project Template with Integrated Best Practices
 - [asottile/git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
