@@ -1738,6 +1738,8 @@
 
 ## others 
 
+- [bellini666/pytest-language-server](https://github.com/bellini666/pytest-language-server) - 🔥 Pytest Language Server
+- [johnlindquist/mdflow](https://github.com/johnlindquist/mdflow) - Multi-backend CLI for executable markdown prompts. Run .md files against Claude, Codex, Gemini, or Copilot.
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python
 - [html5lib/html5lib-tests](https://github.com/html5lib/html5lib-tests) - Testsuite data for html5lib, including the de-facto standard HTML parsing tests.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
