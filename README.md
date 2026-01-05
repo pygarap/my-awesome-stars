@@ -155,7 +155,6 @@
 
 ## JavaScript 
 
-- [codervisor/lean-spec](https://github.com/codervisor/lean-spec) - Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -293,6 +292,7 @@
 
 ## Others 
 
+- [rohaquinlop/complexipy-pre-commit](https://github.com/rohaquinlop/complexipy-pre-commit) - A pre-commit hook for complexipy.
 - [djiangtw/data-structures-in-practice-public](https://github.com/djiangtw/data-structures-in-practice-public) - A hardware-aware guide to data structures for system software engineers.
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
 - [hasansezertasan/awesome-python-html](https://github.com/hasansezertasan/awesome-python-html) - A curated list of things related to python-based HTML generation.
@@ -736,7 +736,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [python/typing](https://github.com/python/typing) - Python static typing home. Hosts the documentation and a user help forum.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-- [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run mypy and pyright over millions of lines of code
+- [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run Python type checkers over millions of lines of code
 - [hauntsaninja/no_implicit_optional](https://github.com/hauntsaninja/no_implicit_optional) - A codemod to make your implicit optional type hints PEP 484 compliant.
 - [hauntsaninja/useful_types](https://github.com/hauntsaninja/useful_types) - Useful types for Python
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
@@ -1201,8 +1201,10 @@
 
 ## TypeScript 
 
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [johnlindquist/mdflow](https://github.com/johnlindquist/mdflow) - Multi-backend CLI for executable markdown prompts. Run .md files against Claude, Codex, Gemini, or Copilot.
 - [unhappychoice/mdts](https://github.com/unhappychoice/mdts) - A local markdown preview server. npx mdts — and you're done.
+- [codervisor/lean-spec](https://github.com/codervisor/lean-spec) - Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
