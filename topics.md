@@ -303,6 +303,7 @@
 
 ## ai-agents 
 
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [codervisor/lean-spec](https://github.com/codervisor/lean-spec) - Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
@@ -1791,6 +1792,7 @@
 
 ## others 
 
+- [rohaquinlop/complexipy-pre-commit](https://github.com/rohaquinlop/complexipy-pre-commit) - A pre-commit hook for complexipy.
 - [bellini666/pytest-language-server](https://github.com/bellini666/pytest-language-server) - 🔥 Pytest Language Server
 - [johnlindquist/mdflow](https://github.com/johnlindquist/mdflow) - Multi-backend CLI for executable markdown prompts. Run .md files against Claude, Codex, Gemini, or Copilot.
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python
@@ -2070,7 +2072,7 @@
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
-- [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run mypy and pyright over millions of lines of code
+- [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run Python type checkers over millions of lines of code
 - [hauntsaninja/no_implicit_optional](https://github.com/hauntsaninja/no_implicit_optional) - A codemod to make your implicit optional type hints PEP 484 compliant.
 - [hauntsaninja/useful_types](https://github.com/hauntsaninja/useful_types) - Useful types for Python
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
