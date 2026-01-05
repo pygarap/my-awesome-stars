@@ -400,6 +400,7 @@
 
 ## Python 
 
+- [eclipse-csi/octopin](https://github.com/eclipse-csi/octopin) - Analyses and pins GitHub actions in your workflows.
 - [smorinlabs/py-launch-blueprint](https://github.com/smorinlabs/py-launch-blueprint) - A Production-Ready Python Project Template with Integrated Best Practices
 - [asottile/git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python
