@@ -218,6 +218,7 @@
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
 - [huggingface/education-toolkit](https://github.com/huggingface/education-toolkit) - Educational materials for universities
 - [AnswerDotAI/shell_sage](https://github.com/AnswerDotAI/shell_sage) - ShellSage saves sysadmins’ sanity by solving shell script snafus super swiftly
+- [ai-evals-course/recipe-chatbot](https://github.com/ai-evals-course/recipe-chatbot) - 
 - [pydanny/daniel-blog-fasthtml](https://github.com/pydanny/daniel-blog-fasthtml) - 
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [AnswerDotAI/fastprogress](https://github.com/AnswerDotAI/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console
@@ -401,6 +402,7 @@
 
 ## Python 
 
+- [tsvikas/sync-with-uv](https://github.com/tsvikas/sync-with-uv) - Sync .pre-commit-config.yaml from uv.lock
 - [c0rychu/uvlink](https://github.com/c0rychu/uvlink) - storing venv in a system-wise cache and symbolic link them back into project file
 - [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
@@ -723,7 +725,6 @@
 - [AnswerDotAI/FastHTML-Gallery](https://github.com/AnswerDotAI/FastHTML-Gallery) - 
 - [AnswerDotAI/home-fasthtml](https://github.com/AnswerDotAI/home-fasthtml) - 
 - [AnswerDotAI/fastlucide](https://github.com/AnswerDotAI/fastlucide) - Lucide icons for FastHTML
-- [ai-evals-course/recipe-chatbot](https://github.com/ai-evals-course/recipe-chatbot) - 
 - [AnswerDotAI/uvws](https://github.com/AnswerDotAI/uvws) - A simple uv workspace
 - [pydanny/releases](https://github.com/pydanny/releases) - 
 - [pydanny/cached-property](https://github.com/pydanny/cached-property) - A decorator for caching properties in classes.
