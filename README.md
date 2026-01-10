@@ -402,6 +402,7 @@
 
 ## Python 
 
+- [tombi-toml/tombi-pre-commit](https://github.com/tombi-toml/tombi-pre-commit) - A pre-commit hook for Tombi.
 - [tsvikas/sync-with-uv](https://github.com/tsvikas/sync-with-uv) - Sync .pre-commit-config.yaml from uv.lock
 - [c0rychu/uvlink](https://github.com/c0rychu/uvlink) - storing venv in a system-wise cache and symbolic link them back into project file
 - [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
