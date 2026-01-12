@@ -188,6 +188,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [userscript](#userscript)
+- [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -1818,6 +1819,8 @@
 
 ## others 
 
+- [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [tombi-toml/tombi-pre-commit](https://github.com/tombi-toml/tombi-pre-commit) - A pre-commit hook for Tombi.
 - [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli) - Lighweight CLI to interact with MCP servers
 - [tsvikas/sync-with-uv](https://github.com/tsvikas/sync-with-uv) - Sync .pre-commit-config.yaml from uv.lock
@@ -3162,6 +3165,13 @@
 ## userscript 
 
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
+
+## video 
+
+- [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 GPT for video generation ⚡️
+- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 
 ## vim 
 
