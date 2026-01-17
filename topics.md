@@ -230,7 +230,7 @@
 
 ## ai 
 
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform.
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobser way. 🦞
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [codervisor/lean-spec](https://github.com/codervisor/lean-spec) - Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
@@ -1596,6 +1596,7 @@
 
 ## markdown 
 
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust
 - [unhappychoice/mdts](https://github.com/unhappychoice/mdts) - A local markdown preview server. npx mdts — and you're done.
@@ -1741,7 +1742,7 @@
 
 ## nodejs 
 
-- [bug-ops/fast-yaml](https://github.com/bug-ops/fast-yaml) - Parse YAML at Rust speed. Full 1.2.2 spec, zero unsafe code, built-in linter, parallel processing. Native bindings for Python & Node.js.
+- [bug-ops/fast-yaml](https://github.com/bug-ops/fast-yaml) - Parse YAML at Rust speed. Full 1.2.2 spec, built-in linter, parallel processing. Native bindings for Python & Node.js.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
@@ -2206,7 +2207,7 @@
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
 - [siddhantdubey/Senkovi](https://github.com/siddhantdubey/Senkovi) - Python script that fixes other Python programs with GPT-4.
-- [purfectliterature/PanoptoBookmarklet](https://github.com/purfectliterature/PanoptoBookmarklet) - A bookmarklet to download lecture videos from NUS' Panopto website.
+- [pchunky/PanoptoBookmarklet](https://github.com/pchunky/PanoptoBookmarklet) - A bookmarklet to download lecture videos from NUS' Panopto website.
 - [AvrahamRaviv/Deep-Learning-in-Hebrew](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) - ספר מלא בעברית על למידת מכונה ולמידה עמוקה
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [divamgupta/stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow) - Stable Diffusion in TensorFlow / Keras
@@ -2378,7 +2379,7 @@
 - [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [fredrikaverpil/creosote](https://github.com/fredrikaverpil/creosote) - Identify unused dependencies and avoid a bloated virtual environment.
-- [bug-ops/fast-yaml](https://github.com/bug-ops/fast-yaml) - Parse YAML at Rust speed. Full 1.2.2 spec, zero unsafe code, built-in linter, parallel processing. Native bindings for Python & Node.js.
+- [bug-ops/fast-yaml](https://github.com/bug-ops/fast-yaml) - Parse YAML at Rust speed. Full 1.2.2 spec, built-in linter, parallel processing. Native bindings for Python & Node.js.
 - [eclipse-csi/octopin](https://github.com/eclipse-csi/octopin) - Analyses and pins GitHub actions in your workflows.
 - [smorinlabs/py-launch-blueprint](https://github.com/smorinlabs/py-launch-blueprint) - A Production-Ready Python Project Template with Integrated Best Practices
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
@@ -2850,6 +2851,7 @@
 
 ## rust 
 
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [ya7010/serde_valid](https://github.com/ya7010/serde_valid) - JSON Schema based validation tool using serde.
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
 - [serkanyersen/dotstate](https://github.com/serkanyersen/dotstate) - A modern, secure, and user-friendly dotfile manager built with Rust
@@ -2857,7 +2859,7 @@
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
-- [bug-ops/fast-yaml](https://github.com/bug-ops/fast-yaml) - Parse YAML at Rust speed. Full 1.2.2 spec, zero unsafe code, built-in linter, parallel processing. Native bindings for Python & Node.js.
+- [bug-ops/fast-yaml](https://github.com/bug-ops/fast-yaml) - Parse YAML at Rust speed. Full 1.2.2 spec, built-in linter, parallel processing. Native bindings for Python & Node.js.
 - [AvnerCohen/yamllint-rs](https://github.com/AvnerCohen/yamllint-rs) - A linter for YAML files, in rust.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
