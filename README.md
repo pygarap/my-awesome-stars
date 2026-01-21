@@ -428,7 +428,7 @@
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [treyhunner/uvrs](https://github.com/treyhunner/uvrs) - Create and run uv scripts with POSIX standardized shebang line
 - [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your FastAPI endpoints and explore them interactively.
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A tool capable of handling everything from simple data construction to complex business model management.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve is a Pydantic-based data construction tool that enables you to assemble complex data structures declaratively instead of writing boring imperative glue code.
 - [autokitteh/kittehub](https://github.com/autokitteh/kittehub) - AutoKitteh projects: ready to deploy with a few clicks
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [t-strings/awesome-t-strings](https://github.com/t-strings/awesome-t-strings) - 
@@ -665,7 +665,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a framework, runtime, and control plane for multi-agent systems. Build, run, manage multi-agent systems in your cloud.
 - [mildbyte/poetry-sudoku-solver](https://github.com/mildbyte/poetry-sudoku-solver) - Sudoku solver that uses Poetry's dependency resolver
 - [mildbyte/uv-wordle-solver](https://github.com/mildbyte/uv-wordle-solver) - Solve Wordle using uv's dependency resolver!
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) - 
@@ -797,7 +797,7 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
+- [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 - [kennethreitz/simplechat](https://github.com/kennethreitz/simplechat) - A chat interface for AI models using Simplemind, with memory.
