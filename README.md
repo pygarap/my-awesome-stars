@@ -405,6 +405,7 @@
 
 ## Python 
 
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [pre-commit/pre-commit-mirror-maker](https://github.com/pre-commit/pre-commit-mirror-maker) - Scripts for creating mirror repositories that do not have .pre-commit-hooks.yaml
 - [tombi-toml/tombi-pre-commit](https://github.com/tombi-toml/tombi-pre-commit) - A pre-commit hook for Tombi.
@@ -665,7 +666,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
 - [mildbyte/poetry-sudoku-solver](https://github.com/mildbyte/poetry-sudoku-solver) - Sudoku solver that uses Poetry's dependency resolver
 - [mildbyte/uv-wordle-solver](https://github.com/mildbyte/uv-wordle-solver) - Solve Wordle using uv's dependency resolver!
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) - 
