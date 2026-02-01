@@ -91,7 +91,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [ashish0kumar/typtea](https://github.com/ashish0kumar/typtea) - minimal terminal typing tester
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
@@ -389,6 +389,7 @@
 - [kanjialive/kanji-data-media](https://github.com/kanjialive/kanji-data-media) - Japanese language data on kanji, radicals, media files, fonts and related resources from Kanji alive
 - [Matchoo95/JP-Subtitles](https://github.com/Matchoo95/JP-Subtitles) - A bunch of subtitle files for a wide range of shows. Not all are perfectly timed so feel free to correct them and upload changes.
 - [trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python) - awesome-python with :octocat: :star: and :fork_and_knife:
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [himkt/awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) - 📝 A list of pre-trained BERT models for Japanese with word/subword tokenization + vocabulary construction algorithm information
 - [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) - A curated list of resources dedicated to Python libraries, LLMs, dictionaries, and corpora of NLP for Japanese
 - [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
@@ -405,6 +406,8 @@
 
 ## Python 
 
+- [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter) - Visualizes GitHub contribution graphs as Space Shooter!
+- [m98/fluent](https://github.com/m98/fluent) - The AI Language Learning Kit for Claude Code and others
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [pre-commit/pre-commit-mirror-maker](https://github.com/pre-commit/pre-commit-mirror-maker) - Scripts for creating mirror repositories that do not have .pre-commit-hooks.yaml
@@ -1156,7 +1159,6 @@
 ## SCSS 
 
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Shell 
 
