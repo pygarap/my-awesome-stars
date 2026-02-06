@@ -134,6 +134,7 @@
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [yoninazarathy/MathematicalEngineeringDeepLearning](https://github.com/yoninazarathy/MathematicalEngineeringDeepLearning) - Material for The Mathematical Engineering of Deep Learning. See https://deeplearningmath.org
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [AvrahamRaviv/Deep-Learning-in-Hebrew](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) - ספר מלא בעברית על למידת מכונה ולמידה עמוקה
 - [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [ygzgxyz/awesome-sphinxdoc](https://github.com/ygzgxyz/awesome-sphinxdoc) - Awesome Sphinxdoc is a curated collection of valuable resources for Sphinx
@@ -278,7 +279,6 @@
 - [sanyuan0704/mintlify-docs](https://github.com/sanyuan0704/mintlify-docs) - 
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -444,7 +444,7 @@
 - [okken/pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failures per test.
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [treyhunner/uvrs](https://github.com/treyhunner/uvrs) - Create and run uv scripts with POSIX standardized shebang line
-- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your FastAPI endpoints and explore them interactively.
+- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your API endpoints and explore them interactively, also support Django ninja & Litestar
 - [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve is a Pydantic-based data construction tool that enables you to assemble complex data structures declaratively instead of writing boring imperative glue code.
 - [autokitteh/kittehub](https://github.com/autokitteh/kittehub) - AutoKitteh projects: ready to deploy with a few clicks
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
