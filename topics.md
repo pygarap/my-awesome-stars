@@ -315,6 +315,7 @@
 
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [codervisor/lean-spec](https://github.com/codervisor/lean-spec) - Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [The-Focus-AI/june-2025-coding-agent-report](https://github.com/The-Focus-AI/june-2025-coding-agent-report) - Comprehensive evaluation of 15 AI coding agents (Cursor, Copilot, Claude, Replit, v0, Warp, etc.) with implementations, screenshots, and professional scoring. Published on Turing Post.
@@ -418,6 +419,7 @@
 
 ## automation 
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
@@ -429,7 +431,6 @@
 
 ## awesome 
 
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
@@ -1633,6 +1634,7 @@
 
 ## mcp 
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
 - [intellectronica/skillz](https://github.com/intellectronica/skillz) - An MCP server for loading skills (shim for non-claude clients).
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
@@ -3265,7 +3267,7 @@
 ## visualization 
 
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your FastAPI endpoints and explore them interactively.
+- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your API endpoints and explore them interactively, also support Django ninja & Litestar
 - [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
