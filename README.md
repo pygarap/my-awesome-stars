@@ -417,6 +417,7 @@
 
 ## Python 
 
+- [mikeckennedy/tallyman](https://github.com/mikeckennedy/tallyman) - A command-line tool that summarizes the size of a codebase by language, showing lines of code with and without comments and blank lines.
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 - [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel) - Wrap Go binaries in Python wheels
 - [prabhupant/python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
@@ -1258,6 +1259,7 @@
 
 ## TypeScript 
 
+- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - 🍄 Give your Codex CLI an extra life
 - [iannuttall/ralph](https://github.com/iannuttall/ralph) - A minimal, file‑based agent loop for autonomous coding.
