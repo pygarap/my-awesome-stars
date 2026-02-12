@@ -1863,6 +1863,7 @@
 
 ## others 
 
+- [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
 - [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent's work
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [mikeckennedy/tallyman](https://github.com/mikeckennedy/tallyman) - A command-line tool that summarizes the size of a codebase by language, showing lines of code with and without comments and blank lines.
