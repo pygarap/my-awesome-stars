@@ -419,6 +419,7 @@
 
 ## Python 
 
+- [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
 - [mikeckennedy/tallyman](https://github.com/mikeckennedy/tallyman) - A command-line tool that summarizes the size of a codebase by language, showing lines of code with and without comments and blank lines.
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 - [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel) - Wrap Go binaries in Python wheels
