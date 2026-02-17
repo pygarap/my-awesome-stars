@@ -1977,7 +1977,7 @@
 - [cameroncooke/mcpli](https://github.com/cameroncooke/mcpli) - 
 - [pydantic/mcp-run-python](https://github.com/pydantic/mcp-run-python) - MCP server to run Python code in a sandbox.
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
-- [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
+- [zed-industries/claude-agent-acp](https://github.com/zed-industries/claude-agent-acp) - Use Claude Agent SDK from any ACP client such as Zed!
 - [facebook/pyrefly-pre-commit](https://github.com/facebook/pyrefly-pre-commit) - A pre-commit hook for Pyrefly.
 - [davidhalter/parso](https://github.com/davidhalter/parso) - A Python Parser
 - [zauberzeug/nicegui-template](https://github.com/zauberzeug/nicegui-template) - A copier template for a basic NiceGUI project
