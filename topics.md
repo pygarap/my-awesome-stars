@@ -2025,13 +2025,6 @@
 - [nunombispo/PydanticAlternatives-Article](https://github.com/nunombispo/PydanticAlternatives-Article) - 
 - [yudame/pydantic-to-html](https://github.com/yudame/pydantic-to-html) - A Python library that automatically converts Pydantic models into structured HTML using safe and semantic defaults.
 - [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) - Do you understand f-strings?
-- [feldroy/air-svgs](https://github.com/feldroy/air-svgs) - SVGs for the Air web framework project
-- [feldroy/AirConvert](https://github.com/feldroy/AirConvert) - Utility for converting HTML to Air Tags
-- [feldroy/AirCLI](https://github.com/feldroy/AirCLI) - 
-- [feldroy/AirMarkdown](https://github.com/feldroy/AirMarkdown) - 
-- [feldroy/air.feldroy.com](https://github.com/feldroy/air.feldroy.com) - Documentation for the Air static site generator created by @audreyfeldroy
-- [feldroy/air-by-example](https://github.com/feldroy/air-by-example) - The "Air by Example" book
-- [feldroy/airdocs](https://github.com/feldroy/airdocs) - 
 - [davila7/gemini-cli-templates](https://github.com/davila7/gemini-cli-templates) - Gemini CLI Local Dashboard
 - [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
 - [Alhadis/OSC8-Adoption](https://github.com/Alhadis/OSC8-Adoption) - List of terminal emulators that support hyperlinks (OSC 8 escape sequences).
@@ -2056,7 +2049,6 @@
 - [realpython/pytest-mypy](https://github.com/realpython/pytest-mypy) - Mypy static type checker plugin for Pytest
 - [pydanny/fastapi-blog](https://github.com/pydanny/fastapi-blog) - A markdown-powered blog engine and light CMS for FastAPI.
 - [pydanny/fastapi-tags](https://github.com/pydanny/fastapi-tags) - Adds fastcore fast tags to FastAPI views.
-- [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
 - [1Password/install-cli-action](https://github.com/1Password/install-cli-action) - Install 1Password CLI into your GitHub Actions jobs.
@@ -2523,7 +2515,6 @@
 - [hackebrot/pytest-emoji](https://github.com/hackebrot/pytest-emoji) - A pytest plugin that adds emojis to your test result report 😍
 - [hackebrot/pytest-cookies](https://github.com/hackebrot/pytest-cookies) - The pytest plugin for your Cookiecutter templates. 🍪
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
