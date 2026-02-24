@@ -1868,6 +1868,7 @@
 
 ## others 
 
+- [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [mfranzon/tdd](https://github.com/mfranzon/tdd) - tdd skill for coding agents
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and claude code (or other agents).
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
@@ -2109,7 +2110,7 @@
 - [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
 - [mildbyte/poetry-sudoku-solver](https://github.com/mildbyte/poetry-sudoku-solver) - Sudoku solver that uses Poetry's dependency resolver
 - [mildbyte/uv-wordle-solver](https://github.com/mildbyte/uv-wordle-solver) - Solve Wordle using uv's dependency resolver!
-- [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) - 
+- [IBM/mcp-cli](https://github.com/IBM/mcp-cli) - 
 - [bentoml/openllm-models](https://github.com/bentoml/openllm-models) - 
 - [Significant-Gravitas/AutoGPT-Code-Ability](https://github.com/Significant-Gravitas/AutoGPT-Code-Ability) - 🖥️ AutoGPT's Coding Ability - empowering everyone to build software using AI
 - [modelcontextprotocol-community/working-groups](https://github.com/modelcontextprotocol-community/working-groups) - MCP Community Working Group repository
