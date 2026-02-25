@@ -1868,6 +1868,7 @@
 
 ## others 
 
+- [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [mfranzon/tdd](https://github.com/mfranzon/tdd) - tdd skill for coding agents
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and claude code (or other agents).
