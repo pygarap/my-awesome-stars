@@ -127,7 +127,7 @@
 
 ## HTML 
 
-- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and claude code (or other agents).
+- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [kennethreitz/pep8.org](https://github.com/kennethreitz/pep8.org) - PEP 8, for Humans.
 - [huggingface/yourbench](https://github.com/huggingface/yourbench) - 🤗 Benchmark Large Language Models Reliably On Your Data
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
@@ -423,6 +423,7 @@
 
 ## Python 
 
+- [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 - [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
 - [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
@@ -1263,6 +1264,7 @@
 
 ## TypeScript 
 
+- [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - 🍄 Give your Codex CLI an extra life
