@@ -233,6 +233,7 @@
 
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
 - [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
+- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
@@ -318,6 +319,7 @@
 ## ai-agents 
 
 - [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
+- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [codervisor/lean-spec](https://github.com/codervisor/lean-spec) - Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -644,6 +646,7 @@
 ## cli 
 
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
+- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
 - [serkanyersen/dotstate](https://github.com/serkanyersen/dotstate) - A modern, secure, and user-friendly dotfile manager built with Rust
@@ -1868,11 +1871,12 @@
 
 ## others 
 
+- [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
+- [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 - [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices) - Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
 - [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [mfranzon/tdd](https://github.com/mfranzon/tdd) - tdd skill for coding agents
-- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and claude code (or other agents).
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook) - All the links, books, and creators you need to follow to stay up to date with AI!
 - [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
