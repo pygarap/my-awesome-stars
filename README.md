@@ -311,7 +311,6 @@
 - [mfranzon/tdd](https://github.com/mfranzon/tdd) - tdd skill for coding agents
 - [DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook) - All the links, books, and creators you need to follow to stay up to date with AI!
 - [am-will/swarms](https://github.com/am-will/swarms) - Multi-agent orchestration skills for Claude Code and Codex
-- [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [pi0/config-dir](https://github.com/pi0/config-dir) - 📁  A proposal for the .config/ directory.
 - [rohaquinlop/complexipy-pre-commit](https://github.com/rohaquinlop/complexipy-pre-commit) - A pre-commit hook for complexipy.
 - [djiangtw/data-structures-in-practice-public](https://github.com/djiangtw/data-structures-in-practice-public) - A hardware-aware guide to data structures for system software engineers.
@@ -431,6 +430,7 @@
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 - [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel) - Wrap Go binaries in Python wheels
 - [prabhupant/python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
+- [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [shaanmajid/llmstxt-standalone](https://github.com/shaanmajid/llmstxt-standalone) - 
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
