@@ -71,6 +71,7 @@
 - [elixir](#elixir)
 - [emoji](#emoji)
 - [english](#english)
+- [fastapi](#fastapi)
 - [firefox](#firefox)
 - [flask](#flask)
 - [font](#font)
@@ -1036,6 +1037,43 @@
 - [luke-c/jmdict-simplified-python](https://github.com/luke-c/jmdict-simplified-python) - Simplified version of JMdict in JSON
 - [obfusk/jiten](https://github.com/obfusk/jiten) - jiten - japanese android/cli/web dictionary based on jmdict/kanjidic — 日本語　辞典　和英辞典　漢英字典　和独辞典　和蘭辞典
 
+## fastapi 
+
+- [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your API endpoints and explore them interactively, also support Django ninja & Litestar
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A tool for building domain layer modeling and use case assembly.
+- [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Type hints → Web UI. Minimal-boilerplate web apps from Python functions.
+- [volfpeter/holm](https://github.com/volfpeter/holm) - Hypermedia web development framework that brings the Next.js developer experience to Python, built on FastAPI.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [aekasitt/fastapi-csrf-protect](https://github.com/aekasitt/fastapi-csrf-protect) - Stateless implementation of Cross-Site Request Forgery (XSRF) Protection by using Double Submit Cookie mitigation pattern
+- [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi
+- [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
+- [Buuntu/fastapi-react](https://github.com/Buuntu/fastapi-react) - 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker
+- [art049/odmantic](https://github.com/art049/odmantic) - Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints
+- [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
+- [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
+- [pydanny/fastapi-blog](https://github.com/pydanny/fastapi-blog) - A markdown-powered blog engine and light CMS for FastAPI.
+- [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
+- [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse) - Modern Jupyter server based on FastAPI
+- [br3ndonland/fastenv](https://github.com/br3ndonland/fastenv) - ⚙️ Unified environment variable and settings management for FastAPI and beyond 🚀
+- [fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities for FastAPI
+- [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine for hypermedia applications.
+- [volfpeter/fasthx](https://github.com/volfpeter/fasthx) - Declarative Python server-side rendering utility for FastAPI with built-in HTMX support.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [nanotaboada/python-samples-fastapi-restful](https://github.com/nanotaboada/python-samples-fastapi-restful) - 🧪 Proof of Concept for a RESTful API made with Python 3 and FastAPI
+- [fastapi/fastapi-cli](https://github.com/fastapi/fastapi-cli) - Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
+- [Lancetnik/FastDepends](https://github.com/Lancetnik/FastDepends) - FastDepends - FastAPI Dependency Injection system extracted from FastAPI and cleared of all HTTP logic. Async and sync modes are both supported.
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+- [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
+- [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+- [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
+- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
+- [didmar/jamdict-api](https://github.com/didmar/jamdict-api) - API to use Jamdict library (Japanese language study)
+
 ## firefox 
 
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
@@ -1982,9 +2020,7 @@
 - [pydantic/ai-chat-ui](https://github.com/pydantic/ai-chat-ui) - Web UI for Pydantic AI agents, built over the Vercel AI protocol
 - [DavidVujic/python-polylith-example-uv](https://github.com/DavidVujic/python-polylith-example-uv) - Example Polylith setup for Python and uv
 - [carderne/postmodern-mono](https://github.com/carderne/postmodern-mono) - Python monorepo template with uv
-- [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi
 - [sysid/sse-starlette](https://github.com/sysid/sse-starlette) - 
-- [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
 - [nhtgl/dripdrop](https://github.com/nhtgl/dripdrop) - Server support for Progressive JSON.
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
 - [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
@@ -2060,7 +2096,6 @@
 - [realpython/list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [kennethreitz/mcp-applemusic](https://github.com/kennethreitz/mcp-applemusic) - An experimental MCP server for controlling Apple Music.
 - [realpython/pytest-mypy](https://github.com/realpython/pytest-mypy) - Mypy static type checker plugin for Pytest
-- [pydanny/fastapi-blog](https://github.com/pydanny/fastapi-blog) - A markdown-powered blog engine and light CMS for FastAPI.
 - [pydanny/fastapi-tags](https://github.com/pydanny/fastapi-tags) - Adds fastcore fast tags to FastAPI views.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
@@ -2076,7 +2111,6 @@
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [simonw/symbex](https://github.com/simonw/symbex) - Find the Python code for specified symbols
 - [jupyter-server/extension-cookiecutter](https://github.com/jupyter-server/extension-cookiecutter) - A Cookiecutter recipe for Jupyter Server extensions
-- [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse) - Modern Jupyter server based on FastAPI
 - [AbdullahAbuHassann/GenerativeAICourse](https://github.com/AbdullahAbuHassann/GenerativeAICourse) - 
 - [AnswerDotAI/msglm](https://github.com/AnswerDotAI/msglm) - msglm makes it a little easier to create messages for language models like Claude and OpenAI GPTs.
 - [AnswerDotAI/cosette](https://github.com/AnswerDotAI/cosette) - Claudette's sister, a helper for OpenAI GPT
@@ -2164,7 +2198,6 @@
 - [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
-- [fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities for FastAPI
 - [reactive-python/reactpy-jupyter](https://github.com/reactive-python/reactpy-jupyter) - Jupyter integration for ReactPy
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [volfpeter/fastapi-htmx-tailwind-example](https://github.com/volfpeter/fastapi-htmx-tailwind-example) - Example application (IoT dashboard) built with FastAPI, HTMX, TailwindCSS, DaisyUI, Jinja, and MongoDB.
@@ -2268,8 +2301,6 @@
 - [AvrahamRaviv/Deep-Learning-in-Hebrew](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) - ספר מלא בעברית על למידת מכונה ולמידה עמוקה
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [divamgupta/stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow) - Stable Diffusion in TensorFlow / Keras
-- [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [nicolashainaux/sphinx-autodoc-annotation](https://github.com/nicolashainaux/sphinx-autodoc-annotation) - Use Python 3 annotations in sphinx-enabled docstrings
 - [albertsokol/bunpo-check](https://github.com/albertsokol/bunpo-check) - Models and code for bunpo-check.com
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
