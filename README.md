@@ -12,6 +12,7 @@
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -124,6 +125,10 @@
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 - [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 
+## Go Template 
+
+- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
+
 ## HTML 
 
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
@@ -162,6 +167,7 @@
 
 ## JavaScript 
 
+- [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
@@ -1035,8 +1041,8 @@
 - [fedejaure/cookiecutter-modern-pypackage](https://github.com/fedejaure/cookiecutter-modern-pypackage) - Cookiecutter 🍪 template for a modern Python package 🐍📦.
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
 - [nficano/tangerine](https://github.com/nficano/tangerine) - A Flask inspired, decorator based API wrapper for Python-Slack.
-- [johnthagen/python-blueprint](https://github.com/johnthagen/python-blueprint) - 🗺️ Example Python project using best practices 🐍
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
+- [johnthagen/python-blueprint](https://github.com/johnthagen/python-blueprint) - 🗺️ Example Python project using best practices 🐍 https://github.com/johnthagen/python-blueprint
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
 - [coleifer/walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
@@ -1199,7 +1205,6 @@
 - [tmatilai/direnv-1password](https://github.com/tmatilai/direnv-1password) - 1Password helpers for direnv
 - [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
 - [abereghici/dotfiles](https://github.com/abereghici/dotfiles) - 💻 My personal dotfiles: zsh, git, neovim, alacritty, wezterm, zellij, etc.
-- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [zhaohongxuan/dotfiles](https://github.com/zhaohongxuan/dotfiles) - My Personal dotfiles include zsh,nvim,tmux,wezterm Managed by chezmoi🤖
 - [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
 - [zpm-zsh/colors](https://github.com/zpm-zsh/colors) - Enhanced colors for zsh
@@ -1326,7 +1331,7 @@
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 - [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [cameroncooke/reloaderoo](https://github.com/cameroncooke/reloaderoo) - Powerful MCP debugging proxy and CLI inspection tool.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
