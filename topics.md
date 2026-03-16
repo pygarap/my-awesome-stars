@@ -1913,6 +1913,7 @@
 
 ## others 
 
+- [rvben/rumdl-chrome-extension](https://github.com/rvben/rumdl-chrome-extension) - 
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 - [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices) - Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
