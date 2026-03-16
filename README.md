@@ -1281,7 +1281,7 @@
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - 🍄 Give your Codex CLI an extra life
 - [iannuttall/ralph](https://github.com/iannuttall/ralph) - A minimal, file‑based agent loop for autonomous coding.
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
-- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
