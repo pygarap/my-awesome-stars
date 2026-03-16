@@ -1273,6 +1273,7 @@
 
 ## TypeScript 
 
+- [rvben/rumdl-chrome-extension](https://github.com/rvben/rumdl-chrome-extension) - 
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
