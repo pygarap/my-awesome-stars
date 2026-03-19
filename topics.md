@@ -504,6 +504,7 @@
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
 - [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
@@ -1485,6 +1486,7 @@
 
 ## learning 
 
+- [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
@@ -2142,7 +2144,6 @@
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 - [getsentry/pytest-responses](https://github.com/getsentry/pytest-responses) - py.test integration for responses
 - [get-convex/convex-py](https://github.com/get-convex/convex-py) - Python Client Library for Convex
-- [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) - Python Package for FSRS Spaced Repetition
 - [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
 - [supermemoryai/install-mcp](https://github.com/supermemoryai/install-mcp) - A simple CLI to install MCP servers into any client - auth included!
