@@ -179,7 +179,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [entropitor/dotenv-cli](https://github.com/entropitor/dotenv-cli) - A cli to load dotenv files
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - Secrets for developers–from the creator of `dotenv`
 - [LeetCode-OpenSource/leetcode-cli](https://github.com/LeetCode-OpenSource/leetcode-cli) - A cli tool to enjoy leetcode!
 - [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) - Do you understand f-strings?
 - [davila7/gemini-cli-templates](https://github.com/davila7/gemini-cli-templates) - Gemini CLI Local Dashboard
