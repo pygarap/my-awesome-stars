@@ -1057,7 +1057,7 @@
 - [reagento/adaptix](https://github.com/reagento/adaptix) - An extremely flexible and configurable data model conversion library.
 - [ltworf/typedload](https://github.com/ltworf/typedload) - MIGRATED TO CODEBERG. Python library to load dynamically typed data into statically typed data structures
 - [karlicoss/cachew](https://github.com/karlicoss/cachew) - Transparent and persistent cache/serialization powered by type hints
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [google/pinject](https://github.com/google/pinject) - A pythonic dependency injection library.
 - [wemake-services/wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
