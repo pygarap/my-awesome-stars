@@ -1581,6 +1581,7 @@
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [zabirauf/AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) - A curated list of resources dedicated to Python libraries, LLMs, dictionaries, and corpora of NLP for Japanese
 
