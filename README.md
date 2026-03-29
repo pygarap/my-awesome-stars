@@ -771,7 +771,7 @@
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - pytest fixture for benchmarking code
-- [nanotaboada/python-samples-fastapi-restful](https://github.com/nanotaboada/python-samples-fastapi-restful) - 🧪 Proof of Concept for a RESTful API made with Python 3 and FastAPI
+- [nanotaboada/python-samples-fastapi-restful](https://github.com/nanotaboada/python-samples-fastapi-restful) - 🧪 Proof of Concept for a RESTful API built with Python 3 and FastAPI
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [MaximeRivest/attachments](https://github.com/MaximeRivest/attachments) - Easiest way to give context to LLMs; Attachments has the ambition to be the general funnel for any files to be transformed into images+text for large language models context by only adding 2 lines to 
 - [googleapis/python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
