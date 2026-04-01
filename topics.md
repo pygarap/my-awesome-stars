@@ -1144,7 +1144,6 @@
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [massgen/MassGen](https://github.com/massgen/MassGen) - 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Joi
-- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [google-gemini/genai-processors](https://github.com/google-gemini/genai-processors) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
 - [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) - Official Python SDK for the Agent2Agent (A2A) Protocol
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
@@ -2122,6 +2121,7 @@
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [simonw/symbex](https://github.com/simonw/symbex) - Find the Python code for specified symbols
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - An open source extension that connects AI agents to computational notebooks in JupyterLab.
 - [jupyter-server/extension-cookiecutter](https://github.com/jupyter-server/extension-cookiecutter) - A Cookiecutter recipe for Jupyter Server extensions
 - [AbdullahAbuHassann/GenerativeAICourse](https://github.com/AbdullahAbuHassann/GenerativeAICourse) - 
 - [AnswerDotAI/msglm](https://github.com/AnswerDotAI/msglm) - msglm makes it a little easier to create messages for language models like Claude and OpenAI GPTs.
