@@ -556,6 +556,7 @@
 ## backend 
 
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [nanotaboada/python-samples-fastapi-restful](https://github.com/nanotaboada/python-samples-fastapi-restful) - 🧪 Proof of Concept for a RESTful API built with Python 3 and FastAPI
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 
 ## bash 
@@ -787,6 +788,7 @@
 ## continuous-integration 
 
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+- [nanotaboada/python-samples-fastapi-restful](https://github.com/nanotaboada/python-samples-fastapi-restful) - 🧪 Proof of Concept for a RESTful API built with Python 3 and FastAPI
 
 ## cpp 
 
@@ -1946,7 +1948,7 @@
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [shaanmajid/llmstxt-standalone](https://github.com/shaanmajid/llmstxt-standalone) - 
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [agno-agi/dash](https://github.com/agno-agi/dash) - Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - 🍄 Give your Codex CLI an extra life
 - [m98/fluent](https://github.com/m98/fluent) - The AI Language Learning Kit for Claude Code and others
