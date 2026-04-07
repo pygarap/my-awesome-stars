@@ -262,6 +262,7 @@
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source autonomous agent powered by Grok.
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [mcp-use/mcp-use-cli](https://github.com/mcp-use/mcp-use-cli) - mcp-use powered CLI to connect to any MCP server with any LLM, from your terminal
@@ -329,6 +330,7 @@
 - [codervisor/lean-spec](https://github.com/codervisor/lean-spec) - Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [The-Focus-AI/june-2025-coding-agent-report](https://github.com/The-Focus-AI/june-2025-coding-agent-report) - Comprehensive evaluation of 15 AI coding agents (Cursor, Copilot, Claude, Replit, v0, Warp, etc.) with implementations, screenshots, and professional scoring. Published on Turing Post.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
@@ -364,7 +366,7 @@
 - [OmkarPathak/Data-Structures-using-Python](https://github.com/OmkarPathak/Data-Structures-using-Python) - This is my repository for Data Structures using Python
 - [OmkarPathak/pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learning technical interview questions
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learn technical interview questions
 - [gahogg/Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [msambol/dsa](https://github.com/msambol/dsa) - Data structures and algorithms in X minutes. Code examples from my YouTube channel.
@@ -873,7 +875,7 @@
 - [OmkarPathak/pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
 - [drageelr/manim-data-structures](https://github.com/drageelr/manim-data-structures) - A Manim plugin that contains common data structures to create Manimations.
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learning technical interview questions
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learn technical interview questions
 - [msambol/dsa](https://github.com/msambol/dsa) - Data structures and algorithms in X minutes. Code examples from my YouTube channel.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode) - This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
@@ -1726,7 +1728,7 @@
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [toolprint/just-mcp](https://github.com/toolprint/just-mcp) - Share the same project justfile tasks with your AI Coding Agent.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [mcp-use/mcp-use-cli](https://github.com/mcp-use/mcp-use-cli) - mcp-use powered CLI to connect to any MCP server with any LLM, from your terminal
@@ -1987,6 +1989,7 @@
 - [iannuttall/dotagents](https://github.com/iannuttall/dotagents) - One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files.
 - [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
+- [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [rvben/rumdl-pre-commit](https://github.com/rvben/rumdl-pre-commit) - Pre-commit hook for rumdl, a rust-based Markdown linter.
 - [pi0/config-dir](https://github.com/pi0/config-dir) - 📁  A proposal for the .config/ directory.
 - [rohaquinlop/complexipy-pre-commit](https://github.com/rohaquinlop/complexipy-pre-commit) - A pre-commit hook for complexipy.
@@ -2500,7 +2503,6 @@
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
 - [c0rychu/uvlink](https://github.com/c0rychu/uvlink) - storing venv in a system-wise cache and symbolic link them back into project file
 - [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
-- [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [fredrikaverpil/creosote](https://github.com/fredrikaverpil/creosote) - Identify unused dependencies and avoid a bloated virtual environment.
 - [bug-ops/fast-yaml](https://github.com/bug-ops/fast-yaml) - Parse YAML at Rust speed. Full 1.2.2 spec, built-in linter, parallel processing. Native bindings for Python & Node.js.
 - [eclipse-csi/octopin](https://github.com/eclipse-csi/octopin) - Analyses and pins GitHub actions in your workflows.
@@ -2978,7 +2980,6 @@
 - [ya7010/serde_valid](https://github.com/ya7010/serde_valid) - JSON Schema based validation tool using serde.
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
 - [serkanyersen/dotstate](https://github.com/serkanyersen/dotstate) - A modern, secure, and user-friendly dotfile manager built with Rust
-- [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
