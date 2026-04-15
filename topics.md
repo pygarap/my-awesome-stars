@@ -1081,7 +1081,7 @@
 
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your API endpoints and explore them interactively, also support Django ninja & Litestar
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates JSON RPC, GraphQL, and even MCP.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates complex data, GraphQL, and even MCP.
 - [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Type hints → Web UI. Minimal-boilerplate web apps from Python functions.
 - [volfpeter/holm](https://github.com/volfpeter/holm) - Hypermedia web development framework that brings the Next.js developer experience to Python, built on FastAPI.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -1258,7 +1258,7 @@
 
 ## graphql 
 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates JSON RPC, GraphQL, and even MCP.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates complex data, GraphQL, and even MCP.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [wkei/jlpt-vocab-api](https://github.com/wkei/jlpt-vocab-api) - Open API for JLPT Vocabulary from N5 to N1
@@ -1727,7 +1727,7 @@
 ## mcp 
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates JSON RPC, GraphQL, and even MCP.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates complex data, GraphQL, and even MCP.
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
 - [intellectronica/skillz](https://github.com/intellectronica/skillz) - An MCP server for loading skills (shim for non-claude clients).
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
@@ -2518,7 +2518,7 @@
 - [smorinlabs/py-launch-blueprint](https://github.com/smorinlabs/py-launch-blueprint) - A Production-Ready Python Project Template with Integrated Best Practices
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates JSON RPC, GraphQL, and even MCP.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates complex data, GraphQL, and even MCP.
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
 - [MarkusSintonen/pyreqwest](https://github.com/MarkusSintonen/pyreqwest) - Fast Python HTTP client based on Rust reqwest
