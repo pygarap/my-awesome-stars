@@ -470,7 +470,7 @@
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [treyhunner/uvrs](https://github.com/treyhunner/uvrs) - Create and run uv scripts with POSIX standardized shebang line
 - [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your API endpoints and explore them interactively, also support Django ninja & Litestar
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates JSON RPC, GraphQL, and even MCP.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates complex data, GraphQL, and even MCP.
 - [autokitteh/kittehub](https://github.com/autokitteh/kittehub) - AutoKitteh projects: ready to deploy with a few clicks
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [t-strings/awesome-t-strings](https://github.com/t-strings/awesome-t-strings) - 
