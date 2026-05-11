@@ -172,6 +172,7 @@
 
 ## JavaScript 
 
+- [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - Supercharge Codex Goals
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
