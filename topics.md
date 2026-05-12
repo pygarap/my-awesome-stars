@@ -1998,7 +1998,7 @@
 
 ## others 
 
-- [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - Supercharge Codex Goals
+- [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - A better /goal for Codex and Claude Code
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
