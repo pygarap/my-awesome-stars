@@ -2082,7 +2082,7 @@
 - [elchupanebrej/pytest-bdd-ng](https://github.com/elchupanebrej/pytest-bdd-ng) - BDD library for the py.test runner
 - [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner) - Automatically execute code blocks within a Markdown file and update the output in-place
 - [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
-- [resend/resend-python](https://github.com/resend/resend-python) - resend's python sdk
+- [resend/resend-python](https://github.com/resend/resend-python) - Resend's official python sdk
 - [Erotemic/mkinit](https://github.com/Erotemic/mkinit) - Auto-generate explicit readable __init__.py files without `import *`
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book
