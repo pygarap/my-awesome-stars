@@ -226,7 +226,6 @@
 ## Jupyter Notebook 
 
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
-- [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
 - [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
 - [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [AbdullahAbuHassann/GenerativeAICourse](https://github.com/AbdullahAbuHassann/GenerativeAICourse) - 
@@ -519,6 +518,7 @@
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
 - [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) - A fast TOML library for python implemented in rust.
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
