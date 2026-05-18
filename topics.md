@@ -1998,6 +1998,7 @@
 
 ## others 
 
+- [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
 - [Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer) - Codex skill for safe codebase complexity analysis and performance optimization reports
 - [vercel-labs/zero](https://github.com/vercel-labs/zero) - The programming language for agents
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
