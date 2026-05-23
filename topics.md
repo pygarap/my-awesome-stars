@@ -238,6 +238,7 @@
 
 ## agents 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [agentflare-ai/agentml](https://github.com/agentflare-ai/agentml) - Agent Markdown Language
@@ -273,6 +274,7 @@
 
 ## ai 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
 - [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
@@ -364,6 +366,7 @@
 
 ## ai-agents 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - A Unified Virtual Filesystem For AI Agents
 - [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
@@ -841,6 +844,7 @@
 
 ## computer-vision 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
@@ -956,6 +960,7 @@
 
 ## deep-learning 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
@@ -1132,7 +1137,7 @@
 
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager) - Visualize your API endpoints and explore them interactively, also support Django ninja & Litestar
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - build declarative and ai native application from day 1
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve is a Pythonic clean architecture implementation framework.
 - [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Type hints → Web UI. Minimal-boilerplate web apps from Python functions.
 - [volfpeter/holm](https://github.com/volfpeter/holm) - Hypermedia web development framework that brings the Next.js developer experience to Python, built on FastAPI.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -1221,6 +1226,7 @@
 
 ## generative-ai 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [massgen/MassGen](https://github.com/massgen/MassGen) - 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Joi
@@ -1310,7 +1316,7 @@
 
 ## graphql 
 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - build declarative and ai native application from day 1
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve is a Pythonic clean architecture implementation framework.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [wkei/jlpt-vocab-api](https://github.com/wkei/jlpt-vocab-api) - Open API for JLPT Vocabulary from N5 to N1
@@ -1605,6 +1611,7 @@
 
 ## llm 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
@@ -1682,6 +1689,7 @@
 
 ## machine-learning 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
@@ -1778,8 +1786,9 @@
 
 ## mcp 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - build declarative and ai native application from day 1
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve is a Pythonic clean architecture implementation framework.
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
 - [intellectronica/skillz](https://github.com/intellectronica/skillz) - An MCP server for loading skills (shim for non-claude clients).
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
@@ -1887,6 +1896,7 @@
 
 ## nlp 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [langstruct-ai/langstruct](https://github.com/langstruct-ai/langstruct) - Extract structured data from any content using LLMs.
 - [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free, non-AI python grammar checker 📝✅
@@ -2566,6 +2576,7 @@
 
 ## python 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - A Unified Virtual Filesystem For AI Agents
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
@@ -2582,7 +2593,7 @@
 - [smorinlabs/py-launch-blueprint](https://github.com/smorinlabs/py-launch-blueprint) - A Production-Ready Python Project Template with Integrated Best Practices
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - build declarative and ai native application from day 1
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve is a Pythonic clean architecture implementation framework.
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
 - [MarkusSintonen/pyreqwest](https://github.com/MarkusSintonen/pyreqwest) - Fast Python HTTP client based on Rust reqwest
@@ -3016,6 +3027,7 @@
 
 ## reinforcement-learning 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
@@ -3049,6 +3061,7 @@
 
 ## rust 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [ya7010/serde_valid](https://github.com/ya7010/serde_valid) - JSON Schema based validation tool using serde.
@@ -3364,6 +3377,7 @@
 
 ## typescript 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - A Unified Virtual Filesystem For AI Agents
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
