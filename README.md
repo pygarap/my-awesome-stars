@@ -320,6 +320,7 @@
 
 ## Others 
 
+- [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - 
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
 - [mfranzon/tdd](https://github.com/mfranzon/tdd) - tdd skill for coding agents
