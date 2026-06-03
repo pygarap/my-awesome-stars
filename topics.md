@@ -2034,6 +2034,7 @@
 
 ## others 
 
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 - [Lex-Inc/roughdraft](https://github.com/Lex-Inc/roughdraft) - Review markdown docs in a nice interface that lets you leave comments
 - [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
