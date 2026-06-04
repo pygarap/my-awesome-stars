@@ -174,6 +174,7 @@
 
 ## JavaScript 
 
+- [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 - [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - A better /goal for Codex and Claude Code
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -500,7 +501,7 @@
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [15r10nk/format-dedent](https://github.com/15r10nk/format-dedent) - formats textwrap.dedent("""multiline string ...""")
-- [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Type hints → Web UI. Minimal-boilerplate web apps from Python functions.
+- [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Type hints → Web UI. Turn Python functions into web apps — standalone or mounted inside yours.
 - [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types) - A Python library to map file extensions to MIME types without accessing the file data. #pypackage
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [lorien/domselect](https://github.com/lorien/domselect) - Universal interface to work with DOM built by different HTML parsing engines.
