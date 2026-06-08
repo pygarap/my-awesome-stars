@@ -2058,7 +2058,7 @@
 - [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - 
 - [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
 - [Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer) - Codex skill for safe codebase complexity analysis and performance optimization reports
-- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The programming language for agents
+- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - A better /goal for Codex and Claude Code
