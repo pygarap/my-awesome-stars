@@ -2045,6 +2045,7 @@
 
 ## others 
 
+- [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [astral-sh/ty-pre-commit](https://github.com/astral-sh/ty-pre-commit) - A pre-commit hook for ty.
 - [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
 - [robzilla1738/supergoal](https://github.com/robzilla1738/supergoal) - Plan and autonomously build a software task end-to-end. One ready-to-paste /goal, adaptive phase count, memory preload + writeback, 3-strike self-healing recovery. Works on Claude Code and Codex.
