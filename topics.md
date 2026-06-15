@@ -1451,6 +1451,7 @@
 - [hasansezertasan/awesome-python-html](https://github.com/hasansezertasan/awesome-python-html) - A curated list of things related to python-based HTML generation.
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [lorien/domselect](https://github.com/lorien/domselect) - Universal interface to work with DOM built by different HTML parsing engines.
+- [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [volfpeter/holm](https://github.com/volfpeter/holm) - Hypermedia web development framework that brings the Next.js developer experience to Python, built on FastAPI.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
@@ -2150,7 +2151,6 @@
 - [apache/datafusion-python](https://github.com/apache/datafusion-python) - Apache DataFusion Python Bindings
 - [elchupanebrej/pytest-bdd-ng](https://github.com/elchupanebrej/pytest-bdd-ng) - BDD library for the py.test runner
 - [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner) - Automatically execute code blocks within a Markdown file and update the output in-place
-- [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [resend/resend-python](https://github.com/resend/resend-python) - Resend's official python sdk
 - [Erotemic/mkinit](https://github.com/Erotemic/mkinit) - Auto-generate explicit readable __init__.py files without `import *`
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
@@ -2656,6 +2656,7 @@
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
 - [modal-labs/synchronicity](https://github.com/modal-labs/synchronicity) - Synchronicity lets you interoperate with asynchronous Python APIs.
+- [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
 - [darrenburns/textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) - Easily add autocomplete dropdowns to your Textual apps
 - [dj-bolt/django-bolt](https://github.com/dj-bolt/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
