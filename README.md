@@ -428,7 +428,7 @@
 - [trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python) - awesome-python with :octocat: :star: and :fork_and_knife:
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [himkt/awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) - 📝 A list of pre-trained BERT models for Japanese with word/subword tokenization + vocabulary construction algorithm information
-- [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) - A curated list of resources dedicated to Python libraries, LLMs, dictionaries, and corpora of NLP for Japanese. Includes a Claude Code plugin with skills to search resources.
+- [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) - A curated list of resources for Japanese natural language processing (NLP): Python libraries, LLMs, dictionaries, corpora, and datasets. Includes Claude Code skills to search resources.
 - [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [ciciswann/japanese-language-youtubers](https://github.com/ciciswann/japanese-language-youtubers) - A curated list of Japanese language Youtubers.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
