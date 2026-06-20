@@ -495,7 +495,7 @@
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [treyhunner/uvrs](https://github.com/treyhunner/uvrs) - Create and run uv scripts with POSIX standardized shebang line
 - [KLR-Pattern/fastapi-voyager](https://github.com/KLR-Pattern/fastapi-voyager) - Visualize your API endpoints and explore them interactively, also support Django ninja & Litestar
-- [KLR-Pattern/pydantic-resolve](https://github.com/KLR-Pattern/pydantic-resolve) - pydantic-resolve is a Pythonic clean architecture implementation
+- [KLR-Pattern/pydantic-resolve](https://github.com/KLR-Pattern/pydantic-resolve) - pydantic-resolve is a progressive data assembly framework which follows the stye of clean architecture
 - [autokitteh/kittehub](https://github.com/autokitteh/kittehub) - AutoKitteh projects: ready to deploy with a few clicks
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [t-strings/awesome-t-strings](https://github.com/t-strings/awesome-t-strings) - 
@@ -1143,7 +1143,7 @@
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [PyO3/pyproject-toml-rs](https://github.com/PyO3/pyproject-toml-rs) - pyproject.toml parser in Rust
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
-- [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
+- [casey/intermodal](https://github.com/casey/intermodal) - command-line utility for BitTorrent torrent file creation, verification, and more
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
