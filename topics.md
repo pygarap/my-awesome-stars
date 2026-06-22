@@ -1367,7 +1367,7 @@
 - [fredrikaverpil/creosote](https://github.com/fredrikaverpil/creosote) - Identify unused dependencies and avoid a bloated virtual environment.
 - [psincraian/pepy](https://github.com/psincraian/pepy) - pepy is a site to get statistics information about any Python package.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
-- [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - Logly is a Rust-powered, Loguru-like logging library for Python that combines the familiarity of Python’s standard logging API with high-performance logging capabilities.
+- [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - High-performance Rust-powered logging library for Python.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [open-spaced-repetition/fsrs-rs-python](https://github.com/open-spaced-repetition/fsrs-rs-python) - Python bindings for fsrs-rs, hand-coded gradient, instead of pytorch. 2GB -&gt; 1MB, save your disk!
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
@@ -2671,7 +2671,7 @@
 - [volfpeter/holm](https://github.com/volfpeter/holm) - Hypermedia web development framework that brings the Next.js developer experience to Python, built on FastAPI.
 - [ttygroup/textual-tty](https://github.com/ttygroup/textual-tty) - A pure python terminal for textual
 - [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
-- [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - Logly is a Rust-powered, Loguru-like logging library for Python that combines the familiarity of Python’s standard logging API with high-performance logging capabilities.
+- [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - High-performance Rust-powered logging library for Python.
 - [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt) - Format Python TOML configurations.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
@@ -3135,7 +3135,7 @@
 - [dj-bolt/django-bolt](https://github.com/dj-bolt/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) - A fast TOML library for python implemented in rust.
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
-- [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - Logly is a Rust-powered, Loguru-like logging library for Python that combines the familiarity of Python’s standard logging API with high-performance logging capabilities.
+- [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - High-performance Rust-powered logging library for Python.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
