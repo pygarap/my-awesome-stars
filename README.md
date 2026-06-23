@@ -211,6 +211,7 @@
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [pchunky/PanoptoBookmarklet](https://github.com/pchunky/PanoptoBookmarklet) - A bookmarklet to download lecture videos from NUS' Panopto website.
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
+- [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [mistval/unofficial-jisho-api](https://github.com/mistval/unofficial-jisho-api) - Encapsulates the official Jisho.org API and also provides kanji, example, and stroke diagram search.
 - [Kumirei/Userscripts](https://github.com/Kumirei/Userscripts) - My userscripts for various websites such as Wanikani, Discourse, and Bunpro
 - [yndajas/Nihongo-scripts](https://github.com/yndajas/Nihongo-scripts) - Scripts to extend Japanese language learning sites like WaniKani and Bunpro
@@ -430,7 +431,6 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [himkt/awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) - 📝 A list of pre-trained BERT models for Japanese with word/subword tokenization + vocabulary construction algorithm information
 - [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) - A curated list of resources for Japanese natural language processing (NLP): Python libraries, LLMs, dictionaries, corpora, and datasets. Includes Claude Code skills to search resources.
-- [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [ciciswann/japanese-language-youtubers](https://github.com/ciciswann/japanese-language-youtubers) - A curated list of Japanese language Youtubers.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
