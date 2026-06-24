@@ -1165,6 +1165,7 @@
 
 ## fastapi 
 
+- [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [KLR-Pattern/fastapi-voyager](https://github.com/KLR-Pattern/fastapi-voyager) - Visualize your API endpoints and explore them interactively, also support Django ninja & Litestar
 - [KLR-Pattern/pydantic-resolve](https://github.com/KLR-Pattern/pydantic-resolve) - pydantic-resolve is a progressive data assembly framework which follows the stye of clean architecture
@@ -1799,6 +1800,7 @@
 
 ## markdown 
 
+- [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) - The best notepad for you and your agents
 - [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
