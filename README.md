@@ -444,6 +444,7 @@
 
 ## Python 
 
+- [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis
 - [astral-sh/ty-pre-commit](https://github.com/astral-sh/ty-pre-commit) - A pre-commit hook for ty.
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [neonwatty/machine-learning-refined](https://github.com/neonwatty/machine-learning-refined) - Master the fundamentals of machine learning, deep learning, and mathematical optimization by building key concepts and models from scratch using Python.
@@ -1306,6 +1307,7 @@
 
 ## TypeScript 
 
+- [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) - The best notepad for you and your agents
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 - [Lex-Inc/roughdraft](https://github.com/Lex-Inc/roughdraft) - Review markdown docs in a nice interface that lets you leave comments
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
