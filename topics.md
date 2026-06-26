@@ -2060,6 +2060,8 @@
 
 ## others 
 
+- [ards-project/ard-spec](https://github.com/ards-project/ard-spec) - Agentic Resource Discovery (ARD) specification
+- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [tiangolo/library-skills](https://github.com/tiangolo/library-skills) - Library Agent Skills
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [astral-sh/ty-pre-commit](https://github.com/astral-sh/ty-pre-commit) - A pre-commit hook for ty.
