@@ -2075,7 +2075,7 @@
 
 ## others 
 
-- [alejandro-ao/tau](https://github.com/alejandro-ao/tau) - a minimalist agent that teaches you to create coding agents
+- [huggingface/tau](https://github.com/huggingface/tau) - a minimalist agent that teaches you to create coding agents
 - [ards-project/ard-spec](https://github.com/ards-project/ard-spec) - Agentic Resource Discovery (ARD) specification
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [tiangolo/library-skills](https://github.com/tiangolo/library-skills) - Library Agent Skills
