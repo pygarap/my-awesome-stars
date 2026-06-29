@@ -444,7 +444,7 @@
 
 ## Python 
 
-- [alejandro-ao/tau](https://github.com/alejandro-ao/tau) - a minimalist agent that teaches you to create coding agents
+- [huggingface/tau](https://github.com/huggingface/tau) - a minimalist agent that teaches you to create coding agents
 - [ards-project/ard-spec](https://github.com/ards-project/ard-spec) - Agentic Resource Discovery (ARD) specification
 - [tiangolo/library-skills](https://github.com/tiangolo/library-skills) - Library Agent Skills
 - [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis
