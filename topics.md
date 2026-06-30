@@ -2230,7 +2230,7 @@
 - [entropitor/dotenv-cli](https://github.com/entropitor/dotenv-cli) - A cli to load dotenv files
 - [PromptExecution/just-mcp](https://github.com/PromptExecution/just-mcp) - mcp server for just
 - [jackedney/wanikani-mcp](https://github.com/jackedney/wanikani-mcp) - MCP Server for WaniKani
-- [math-man-123/auto-mnemonic-anki](https://github.com/math-man-123/auto-mnemonic-anki) - Have AI create effective mnemonics for your Anki cards.
+- [math-man-123/Auto-Mnemonic-Anki](https://github.com/math-man-123/Auto-Mnemonic-Anki) - Have AI create effective mnemonics for your Anki cards.
 - [zedless-editor/old-school-zedless](https://github.com/zedless-editor/old-school-zedless) - (old variant) Zed fork focused on privacy and being local-first
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [bitprophet/dotfiles](https://github.com/bitprophet/dotfiles) - My dotfiles (zsh, vim, tmux, etc etc)
