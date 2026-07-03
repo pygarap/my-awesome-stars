@@ -90,6 +90,7 @@
 
 ## Go 
 
+- [ejoffe/spr](https://github.com/ejoffe/spr) - Stacked Pull Requests on GitHub
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
@@ -287,6 +288,7 @@
 
 ## Kotlin 
 
+- [linux-china/jetbrains-just-plugin](https://github.com/linux-china/jetbrains-just-plugin) - JetBrains Just Command Runner Plugin
 - [InSyncWithFoo/ryecharm](https://github.com/InSyncWithFoo/ryecharm) - The all-in-one PyCharm plugin for Astral-backed Python tools
 - [koxudaxi/ruff-pycharm-plugin](https://github.com/koxudaxi/ruff-pycharm-plugin) - PyCharm plugin for ruff.  This plugin provides reformat code using ruff.
 
