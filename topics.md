@@ -2114,6 +2114,7 @@
 
 ## others 
 
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [linux-china/jetbrains-just-plugin](https://github.com/linux-china/jetbrains-just-plugin) - JetBrains Just Command Runner Plugin
 - [huggingface/tau](https://github.com/huggingface/tau) - a minimalist agent that teaches you to create coding agents
 - [ards-project/ard-spec](https://github.com/ards-project/ard-spec) - Agentic Resource Discovery (ARD) specification
