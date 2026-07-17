@@ -446,6 +446,7 @@
 
 ## Python 
 
+- [ya7010/turu-py](https://github.com/ya7010/turu-py) - Simple Database API for Typed Python
 - [warpdotdev/common-skills](https://github.com/warpdotdev/common-skills) - 
 - [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills) - Codebase harness + loop engineer
 - [breadMSA/pytest-tia](https://github.com/breadMSA/pytest-tia) - Test Impact Analysis for pytest: run only the tests your change actually affects. Method-level, tracks non-.py deps, CI-ready, and honest about its limits.
@@ -755,7 +756,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [pydantic/pydantic-settings](https://github.com/pydantic/pydantic-settings) - Settings management using pydantic
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) - Deprecated inference engine
+- [OpenRouterArchived/openrouter-runner](https://github.com/OpenRouterArchived/openrouter-runner) - Deprecated inference engine
 - [run-llama/llamacloud-mcp](https://github.com/run-llama/llamacloud-mcp) - 
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -1171,7 +1172,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [tursodatabase/libsql-python](https://github.com/tursodatabase/libsql-python) - Python bindings for the libSQL database library
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
 - [open-spaced-repetition/fsrs-rs-python](https://github.com/open-spaced-repetition/fsrs-rs-python) - Python bindings for fsrs-rs, hand-coded gradient, instead of pytorch. 2GB -&gt; 1MB, save your disk!
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
@@ -1195,7 +1196,7 @@
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [conikeec/mcp-probe](https://github.com/conikeec/mcp-probe) - A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interac
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A Codex-compatible coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [winfunc/blockoli](https://github.com/winfunc/blockoli) - Blockoli is a high-performance tool for code indexing, embedding generation and semantic search tool for use with LLMs.
 - [winfunc/stackwalk](https://github.com/winfunc/stackwalk) - Universal language-agnostic AST walking and accurate call stack generation with tree-sitter.
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
@@ -1239,6 +1240,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [sunflower-of-parchman/codex-hygiene](https://github.com/sunflower-of-parchman/codex-hygiene) - Codex skill for auditing and tuning Codex Desktop context/tool surfaces
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [robzilla1738/supergoal](https://github.com/robzilla1738/supergoal) - Plan and autonomously build a software task end-to-end. One ready-to-paste /goal, adaptive phase count, memory preload + writeback, 3-strike self-healing recovery. Works on Claude Code and Codex.
@@ -1285,6 +1287,7 @@
 
 ## Swift 
 
+- [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [GetStream/awesome-liquid-glass](https://github.com/GetStream/awesome-liquid-glass) - Liquid Glass animated examples and use cases for inspiration
