@@ -446,6 +446,7 @@
 
 ## Python 
 
+- [DetachHead/python-type-checker-comparison](https://github.com/DetachHead/python-type-checker-comparison) - 
 - [ya7010/turu-py](https://github.com/ya7010/turu-py) - Simple Database API for Typed Python
 - [warpdotdev/common-skills](https://github.com/warpdotdev/common-skills) - 
 - [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills) - Codebase harness + loop engineer
