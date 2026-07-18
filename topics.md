@@ -2138,6 +2138,7 @@
 
 ## others 
 
+- [DetachHead/python-type-checker-comparison](https://github.com/DetachHead/python-type-checker-comparison) - 
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [warpdotdev/common-skills](https://github.com/warpdotdev/common-skills) - 
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
