@@ -450,6 +450,7 @@
 - [warpdotdev/common-skills](https://github.com/warpdotdev/common-skills) - 
 - [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills) - Codebase harness + loop engineer
 - [breadMSA/pytest-tia](https://github.com/breadMSA/pytest-tia) - Test Impact Analysis for pytest: run only the tests your change actually affects. Method-level, tracks non-.py deps, CI-ready, and honest about its limits.
+- [sunflower-of-parchman/codex-hygiene](https://github.com/sunflower-of-parchman/codex-hygiene) - Codex skill for auditing and tuning Codex Desktop context/tool surfaces
 - [huggingface/tau](https://github.com/huggingface/tau) - a minimalist agent that teaches you to create coding agents
 - [ards-project/ard-spec](https://github.com/ards-project/ard-spec) - Agentic Resource Discovery (ARD) specification
 - [tiangolo/library-skills](https://github.com/tiangolo/library-skills) - Library Agent Skills
@@ -1241,7 +1242,6 @@
 ## Shell 
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [sunflower-of-parchman/codex-hygiene](https://github.com/sunflower-of-parchman/codex-hygiene) - Codex skill for auditing and tuning Codex Desktop context/tool surfaces
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [robzilla1738/supergoal](https://github.com/robzilla1738/supergoal) - Plan and autonomously build a software task end-to-end. One ready-to-paste /goal, adaptive phase count, memory preload + writeback, 3-strike self-healing recovery. Works on Claude Code and Codex.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
