@@ -446,6 +446,8 @@
 
 ## Python 
 
+- [vercel-labs/ai-python](https://github.com/vercel-labs/ai-python) - AI SDK for Python
+- [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 - [DetachHead/python-type-checker-comparison](https://github.com/DetachHead/python-type-checker-comparison) - 
 - [ya7010/turu-py](https://github.com/ya7010/turu-py) - Simple Database API for Typed Python
 - [warpdotdev/common-skills](https://github.com/warpdotdev/common-skills) - 
@@ -1324,6 +1326,7 @@
 
 ## TypeScript 
 
+- [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [superdesigndev/loopany-platform](https://github.com/superdesigndev/loopany-platform) - Run your company in loops, Loop Anything
