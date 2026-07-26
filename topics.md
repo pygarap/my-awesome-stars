@@ -2177,6 +2177,7 @@
 
 ## others 
 
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [henryiii/validate-pyproject-schema-store](https://github.com/henryiii/validate-pyproject-schema-store) - Daily automatic mirror of SchemaStore for validate-pyproject
 - [henryiii/skills](https://github.com/henryiii/skills) - Some agent skills that are useful for coding.
 - [horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema) - Fast JSON schema validator for Python.
