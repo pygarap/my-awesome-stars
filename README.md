@@ -334,6 +334,7 @@
 
 ## Others 
 
+- [provencher/codex-skills](https://github.com/provencher/codex-skills) - Reusable skills for ChatGPT work and Codex.
 - [Forward-Future/relay](https://github.com/Forward-Future/relay) - A public skill for routing work through planning -&gt; execution -&gt; review, optimizing cost and efficiency.
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [cleder/awesome-pre-commit-hooks](https://github.com/cleder/awesome-pre-commit-hooks) - A collection of awesome pre-commit/prek hooks
@@ -453,6 +454,8 @@
 
 ## Python 
 
+- [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith) - Tooling support for the Polylith Architecture in Python.
+- [abravalheri/validate-pyproject](https://github.com/abravalheri/validate-pyproject) - Validation library for simple check on `pyproject.toml`
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [henryiii/validate-pyproject-schema-store](https://github.com/henryiii/validate-pyproject-schema-store) - Daily automatic mirror of SchemaStore for validate-pyproject
 - [henryiii/skills](https://github.com/henryiii/skills) - Some agent skills that are useful for coding.
@@ -1385,7 +1388,7 @@
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
