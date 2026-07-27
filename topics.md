@@ -308,7 +308,6 @@
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
@@ -409,7 +408,7 @@
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
 - [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [agno-agi/dash](https://github.com/agno-agi/dash) - A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [codervisor/leanspec](https://github.com/codervisor/leanspec) - Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development
@@ -708,6 +707,7 @@
 
 ## chatbot 
 
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -717,7 +717,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
@@ -762,7 +761,6 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [FareedKhan-dev/claude-code-from-scratch](https://github.com/FareedKhan-dev/claude-code-from-scratch) - 23 Components of the Claude Code Architecture
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -796,7 +794,6 @@
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [FareedKhan-dev/claude-code-from-scratch](https://github.com/FareedKhan-dev/claude-code-from-scratch) - 23 Components of the Claude Code Architecture
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -1759,7 +1756,6 @@
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benc
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
@@ -1943,6 +1939,7 @@
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [KLR-Pattern/pydantic-resolve](https://github.com/KLR-Pattern/pydantic-resolve) - pydantic-resolve is a progressive data assembly framework which follows the stye of clean architecture
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
@@ -2129,7 +2126,6 @@
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [FareedKhan-dev/claude-code-from-scratch](https://github.com/FareedKhan-dev/claude-code-from-scratch) - 23 Components of the Claude Code Architecture
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 - [langstruct-ai/langstruct](https://github.com/langstruct-ai/langstruct) - Extract structured data from any content using LLMs.
@@ -2794,6 +2790,7 @@
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn) - An Intelligent Python Code Quality Analyzer
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [osprey-oss/migrate-to-uv](https://github.com/osprey-oss/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
@@ -3374,6 +3371,7 @@
 
 ## self-hosted 
 
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
