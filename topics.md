@@ -88,6 +88,7 @@
 - [game](#game)
 - [gaming](#gaming)
 - [generative-ai](#generative-ai)
+- [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -1367,8 +1368,13 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
+## gh-extension 
+
+- [tmchow/gh-smart-clone](https://github.com/tmchow/gh-smart-clone) - GitHub CLI extension for fork-aware owner/repo clone paths
+
 ## git 
 
+- [tmchow/gh-smart-clone](https://github.com/tmchow/gh-smart-clone) - GitHub CLI extension for fork-aware owner/repo clone paths
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [ejoffe/spr](https://github.com/ejoffe/spr) - Stacked Pull Requests on GitHub
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
@@ -2173,6 +2179,7 @@
 
 ## others 
 
+- [fastapicloud/skills](https://github.com/fastapicloud/skills) - 
 - [abravalheri/validate-pyproject](https://github.com/abravalheri/validate-pyproject) - Validation library for simple check on `pyproject.toml`
 - [provencher/codex-skills](https://github.com/provencher/codex-skills) - Reusable skills for ChatGPT work and Codex.
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
@@ -3578,7 +3585,6 @@
 
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-- [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
 - [serkanyersen/dotstate](https://github.com/serkanyersen/dotstate) - A modern, secure, and user-friendly dotfile manager built with Rust
