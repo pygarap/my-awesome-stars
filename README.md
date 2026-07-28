@@ -1350,6 +1350,7 @@
 
 ## TypeScript 
 
+- [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e
 - [jlevy/tbd](https://github.com/jlevy/tbd) - Beads, planning, and knowledge injection for AI coding agents
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) - 
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
