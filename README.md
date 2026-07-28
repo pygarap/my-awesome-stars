@@ -730,7 +730,7 @@
 - [philip-murray/reactive-manim](https://github.com/philip-murray/reactive-manim) - A component library for ManimCE, supporting component composition and automatic animation. Supports declarative syntax for writing components inspired by React.js.
 - [pydantic/genai-prices](https://github.com/pydantic/genai-prices) - Calculate prices for calling LLM inference APIs.
 - [google-gemini/genai-processors](https://github.com/google-gemini/genai-processors) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
-- [datalayer/fasta2a](https://github.com/datalayer/fasta2a) - Convert an AI Agent into a A2A server! ✨
+- [datalayer/fasta2a](https://github.com/datalayer/fasta2a) - 🤖 🤖 Convert an AI Agent into a A2A server.
 - [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) - Official Python SDK for the Agent2Agent (A2A) Protocol
 - [terminaldotshop/terminal-sdk-python](https://github.com/terminaldotshop/terminal-sdk-python) - 
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
@@ -1142,6 +1142,7 @@
 
 ## Rust 
 
+- [RustedBytes/rsloop](https://github.com/RustedBytes/rsloop) - An event loop for asyncio written in Rust
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
@@ -1312,6 +1313,7 @@
 
 ## Swift 
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
