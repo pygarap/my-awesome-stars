@@ -2191,6 +2191,7 @@
 
 ## others 
 
+- [15r10nk/matchify](https://github.com/15r10nk/matchify) - converts if-else code to match statements
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
 - [kunchenguid/dotfiles](https://github.com/kunchenguid/dotfiles) - Kun's dotfiles for agentic engineering
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e
