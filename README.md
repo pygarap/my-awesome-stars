@@ -1358,7 +1358,7 @@
 
 ## TypeScript 
 
-- [openai/codex-security](https://github.com/openai/codex-security) - SDKs and CLI for Codex Security
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e
 - [jlevy/tbd](https://github.com/jlevy/tbd) - Beads, planning, and knowledge injection for AI coding agents
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) - 
