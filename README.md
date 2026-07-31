@@ -456,6 +456,8 @@
 
 ## Python 
 
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
+- [regenrek/codex-lean-guardrails](https://github.com/regenrek/codex-lean-guardrails) - 
 - [15r10nk/matchify](https://github.com/15r10nk/matchify) - converts if-else code to match statements
 - [retracesoftware/retracesoftware](https://github.com/retracesoftware/retracesoftware) - Turn failed Python tests and CI runs into replayable debug sessions.
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith) - Tooling support for the Polylith Architecture in Python.
@@ -466,7 +468,7 @@
 - [horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema) - Fast JSON schema validator for Python.
 - [pydantic/pydantic-ai-harness](https://github.com/pydantic/pydantic-ai-harness) - Batteries for your Pydantic AI agent.
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [vercel-labs/ai-python](https://github.com/vercel-labs/ai-python) - AI SDK for Python
