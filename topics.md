@@ -2192,6 +2192,7 @@
 
 ## others 
 
+- [ArchAstro/scopey](https://github.com/ArchAstro/scopey) - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope
 - [regenrek/codex-lean-guardrails](https://github.com/regenrek/codex-lean-guardrails) - 
 - [15r10nk/matchify](https://github.com/15r10nk/matchify) - converts if-else code to match statements
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
