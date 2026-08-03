@@ -1998,6 +1998,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
@@ -2197,6 +2198,7 @@
 
 ## others 
 
+- [shreyashankar/error-discovery-skill](https://github.com/shreyashankar/error-discovery-skill) - Interactive error analysis skill for AI agents. Studies LLM trace datasets, builds a review UI, monitors annotations, categorizes failure modes, proposes new samples.
 - [docwriter-org/plain-writing-skill](https://github.com/docwriter-org/plain-writing-skill) - A plain-language writing skill for AI agents, with a revision view that shows what changed.
 - [asottile/lazy-static](https://github.com/asottile/lazy-static) - lazy module constants -- think lazy imports but for assignments
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
@@ -2592,7 +2594,6 @@
 - [hyunjun/bookmarks](https://github.com/hyunjun/bookmarks) - 
 - [brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns) - Source code behind the python-patterns.guide site by Brandon Rhodes
 - [gvanrossum/patma](https://github.com/gvanrossum/patma) - Pattern Matching
-- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [realpython/python-basics-exercises](https://github.com/realpython/python-basics-exercises) - Python Basics: A Practical Introduction to Python 3
 - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -3024,6 +3025,7 @@
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
