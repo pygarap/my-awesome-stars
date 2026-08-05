@@ -301,6 +301,7 @@
 
 ## Lua 
 
+- [rohaquinlop/dotfiles](https://github.com/rohaquinlop/dotfiles) - 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -337,11 +338,13 @@
 
 ## Others 
 
+- [rohaquinlop/spec-driven-framework](https://github.com/rohaquinlop/spec-driven-framework) - 
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [vstorm-co/awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) - An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.
 - [oxc-project/mirrors-oxlint](https://github.com/oxc-project/mirrors-oxlint) - 
 - [oxc-project/mirrors-oxfmt](https://github.com/oxc-project/mirrors-oxfmt) - 
-- [shreyashankar/error-discovery-skill](https://github.com/shreyashankar/error-discovery-skill) - Interactive error analysis skill for AI agents. Studies LLM trace datasets, builds a review UI, monitors annotations, categorizes failure modes, proposes new samples.
+- [ai-evals-course/error-discovery-skill](https://github.com/ai-evals-course/error-discovery-skill) - Interactive error analysis skill for AI agents. Studies LLM trace datasets, builds a review UI, monitors annotations, categorizes failure modes, proposes new samples.
 - [docwriter-org/plain-writing-skill](https://github.com/docwriter-org/plain-writing-skill) - A plain-language writing skill for AI agents, with a revision view that shows what changed.
 - [jnsahaj/skills](https://github.com/jnsahaj/skills) - Agent skills I use daily
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
@@ -465,6 +468,7 @@
 
 ## Python 
 
+- [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [asottile/lazy-static](https://github.com/asottile/lazy-static) - lazy module constants -- think lazy imports but for assignments
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
