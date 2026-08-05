@@ -2221,7 +2221,7 @@
 - [DanWahlin/learn-github-stacked-prs](https://github.com/DanWahlin/learn-github-stacked-prs) - Practical learning and adoption resource for GitHub Stacked PRs and the gh stack CLI
 - [oxc-project/mirrors-oxlint](https://github.com/oxc-project/mirrors-oxlint) - 
 - [oxc-project/mirrors-oxfmt](https://github.com/oxc-project/mirrors-oxfmt) - 
-- [shreyashankar/error-discovery-skill](https://github.com/shreyashankar/error-discovery-skill) - Interactive error analysis skill for AI agents. Studies LLM trace datasets, builds a review UI, monitors annotations, categorizes failure modes, proposes new samples.
+- [ai-evals-course/error-discovery-skill](https://github.com/ai-evals-course/error-discovery-skill) - Interactive error analysis skill for AI agents. Studies LLM trace datasets, builds a review UI, monitors annotations, categorizes failure modes, proposes new samples.
 - [docwriter-org/plain-writing-skill](https://github.com/docwriter-org/plain-writing-skill) - A plain-language writing skill for AI agents, with a revision view that shows what changed.
 - [asottile/lazy-static](https://github.com/asottile/lazy-static) - lazy module constants -- think lazy imports but for assignments
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
