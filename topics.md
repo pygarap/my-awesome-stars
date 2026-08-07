@@ -2243,6 +2243,8 @@
 
 ## others 
 
+- [kunchenguid/gh-axi](https://github.com/kunchenguid/gh-axi) - GitHub CLI for agents — designed with AXI (Agent eXperience Interface).
+- [kunchenguid/quota-axi](https://github.com/kunchenguid/quota-axi) - Allow your agents to see your LLM subscription quota windows.
 - [astral-sh/attest-action](https://github.com/astral-sh/attest-action) - Generates PEP 740 attestations for your Python package distributions.
 - [astral-sh/trusted-publishing-examples](https://github.com/astral-sh/trusted-publishing-examples) - A complete, self-contained example for trusted publishing with uv
 - [rohaquinlop/spec-driven-framework](https://github.com/rohaquinlop/spec-driven-framework) - 
