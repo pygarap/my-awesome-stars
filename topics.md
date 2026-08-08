@@ -1769,6 +1769,7 @@
 
 ## latex 
 
+- [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode) - This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
 
@@ -1976,6 +1977,7 @@
 
 ## markdown 
 
+- [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
 - [petergyang/human-review](https://github.com/petergyang/human-review) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
 - [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) - The best notepad for you and your agents
@@ -2251,6 +2253,11 @@
 
 ## others 
 
+- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
+- [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source agent built on local models, with its own inference engine. 100% private and offline
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at
 - [kunchenguid/gh-axi](https://github.com/kunchenguid/gh-axi) - GitHub CLI for agents — designed with AXI (Agent eXperience Interface).
 - [kunchenguid/quota-axi](https://github.com/kunchenguid/quota-axi) - Allow your agents to see your LLM subscription quota windows.
 - [astral-sh/attest-action](https://github.com/astral-sh/attest-action) - Generates PEP 740 attestations for your Python package distributions.
@@ -3716,6 +3723,7 @@
 
 ## typescript 
 
+- [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
