@@ -1427,6 +1427,7 @@
 
 ## gh-extension 
 
+- [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
 - [tmchow/gh-smart-clone](https://github.com/tmchow/gh-smart-clone) - GitHub CLI extension for fork-aware owner/repo clone paths
 
 ## git 
@@ -2253,6 +2254,8 @@
 
 ## others 
 
+- [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS
+- [microsoft/ProcexpForMac](https://github.com/microsoft/ProcexpForMac) - Process Explorer for MacOS
 - [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
 - [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app) - The best open source courseware to learn cloud engineering
 - [aashaexo/soundshuman](https://github.com/aashaexo/soundshuman) - 
