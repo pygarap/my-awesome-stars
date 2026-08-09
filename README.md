@@ -353,7 +353,6 @@
 - [oxc-project/mirrors-oxlint](https://github.com/oxc-project/mirrors-oxlint) - 
 - [oxc-project/mirrors-oxfmt](https://github.com/oxc-project/mirrors-oxfmt) - 
 - [ai-evals-course/error-discovery-skill](https://github.com/ai-evals-course/error-discovery-skill) - Interactive error analysis skill for AI agents. Studies LLM trace datasets, builds a review UI, monitors annotations, categorizes failure modes, proposes new samples.
-- [docwriter-org/plain-writing-skill](https://github.com/docwriter-org/plain-writing-skill) - A plain-language writing skill for AI agents, with a revision view that shows what changed.
 - [jnsahaj/skills](https://github.com/jnsahaj/skills) - Agent skills I use daily
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
 - [fastapicloud/skills](https://github.com/fastapicloud/skills) - 
@@ -483,6 +482,7 @@
 - [astral-sh/trusted-publishing-examples](https://github.com/astral-sh/trusted-publishing-examples) - A complete, self-contained example for trusted publishing with uv
 - [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [docwriter-org/plain-writing-skill](https://github.com/docwriter-org/plain-writing-skill) - A plain-language writing skill for AI agents, with a revision view that shows what changed.
 - [asottile/lazy-static](https://github.com/asottile/lazy-static) - lazy module constants -- think lazy imports but for assignments
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [regenrek/codex-lean-guardrails](https://github.com/regenrek/codex-lean-guardrails) - 
@@ -1392,6 +1392,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
 - [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) - Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
