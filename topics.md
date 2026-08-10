@@ -2254,6 +2254,7 @@
 
 ## others 
 
+- [owenlamont/lychee-pre-commit](https://github.com/owenlamont/lychee-pre-commit) - Pre-commit hook for lychee, the fast link checker (installs the prebuilt lychee-bin PyPI wheels; works on Windows, macOS, and Linux).
 - [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS
 - [microsoft/ProcexpForMac](https://github.com/microsoft/ProcexpForMac) - Process Explorer for MacOS
 - [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
