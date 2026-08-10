@@ -475,6 +475,7 @@
 
 ## Python 
 
+- [owenlamont/lychee-pre-commit](https://github.com/owenlamont/lychee-pre-commit) - Pre-commit hook for lychee, the fast link checker (installs the prebuilt lychee-bin PyPI wheels; works on Windows, macOS, and Linux).
 - [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app) - The best open source courseware to learn cloud engineering
 - [ncoevoet/claude-review-all](https://github.com/ncoevoet/claude-review-all) - Comprehensive multi-agent code review for Claude Code
 - [astral-sh/attest-action](https://github.com/astral-sh/attest-action) - Generates PEP 740 attestations for your Python package distributions.
