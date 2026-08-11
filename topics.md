@@ -2256,6 +2256,7 @@
 
 ## others 
 
+- [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids.
 - [OutThisLife/brooklyn-skills](https://github.com/OutThisLife/brooklyn-skills) - Skills that drive best-in-class engineering
 - [owenlamont/lychee-pre-commit](https://github.com/owenlamont/lychee-pre-commit) - Pre-commit hook for lychee, the fast link checker (installs the prebuilt lychee-bin PyPI wheels; works on Windows, macOS, and Linux).
@@ -2771,7 +2772,7 @@
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy) - The code coverage tool for Python
 - [spulec/freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
-- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
+- [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [csachs/pyproject-flake8](https://github.com/csachs/pyproject-flake8) - pyproject-flake8 (pflake8), a monkey patching wrapper to connect flake8 with pyproject.toml configuration
 - [Instagram/Fixit](https://github.com/Instagram/Fixit) - Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.
 - [rcamba/kanji_to_romaji](https://github.com/rcamba/kanji_to_romaji) - Tries to translate Kanji to Romaji with the help of JMdict
