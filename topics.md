@@ -408,6 +408,7 @@
 
 ## ai-agents 
 
+- [regenrek/codex-proofloop](https://github.com/regenrek/codex-proofloop) - Git-based test distillation for Codex agents: catch aggressively, commit reluctantly
 - [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins
 - [petergyang/human-review](https://github.com/petergyang/human-review) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
@@ -681,7 +682,6 @@
 ## backend 
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [nanotaboada/python-samples-fastapi-restful](https://github.com/nanotaboada/python-samples-fastapi-restful) - 🧪 Proof of Concept for a RESTful API built with Python 3 and FastAPI
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 
@@ -1168,6 +1168,7 @@
 
 ## developer-tools 
 
+- [regenrek/codex-proofloop](https://github.com/regenrek/codex-proofloop) - Git-based test distillation for Codex agents: catch aggressively, commit reluctantly
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
@@ -1250,7 +1251,7 @@
 - [Buuntu/fastapi-react](https://github.com/Buuntu/fastapi-react) - 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [nanotaboada/python-samples-fastapi-restful](https://github.com/nanotaboada/python-samples-fastapi-restful) - 🧪 Proof of Concept for a RESTful API built with Python 3 and FastAPI
 - [johnthagen/python-blueprint](https://github.com/johnthagen/python-blueprint) - 🗺️ Example Python project using best practices 🐍 https://github.com/johnthagen/python-blueprint
 
@@ -1336,7 +1337,7 @@
 - [fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities for FastAPI
 - [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine for hypermedia applications.
 - [volfpeter/fasthx](https://github.com/volfpeter/fasthx) - Declarative Python server-side rendering utility for FastAPI with built-in HTMX support.
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [nanotaboada/python-samples-fastapi-restful](https://github.com/nanotaboada/python-samples-fastapi-restful) - 🧪 Proof of Concept for a RESTful API built with Python 3 and FastAPI
 - [fastapi/fastapi-cli](https://github.com/fastapi/fastapi-cli) - Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
 - [Lancetnik/FastDepends](https://github.com/Lancetnik/FastDepends) - FastDepends - FastAPI Dependency Injection system extracted from FastAPI and cleared of all HTTP logic. Async and sync modes are both supported.
@@ -1400,7 +1401,6 @@
 
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 
 ## game 
 
@@ -1725,7 +1725,6 @@
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
 - [hugovk/pypi-tools](https://github.com/hugovk/pypi-tools) - Command-line Python scripts to do things with PyPI
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [alfaarghya/alfa-leetcode-api](https://github.com/alfaarghya/alfa-leetcode-api) - It's a custom leetcode api. This API provides endpoints to retrieve details about a user's profile, badges, solved questions, contest details, contest history, submissions, calendar and and also daily
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -2256,6 +2255,7 @@
 
 ## others 
 
+- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build a great interface.
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids.
 - [OutThisLife/brooklyn-skills](https://github.com/OutThisLife/brooklyn-skills) - Skills that drive best-in-class engineering
@@ -2271,7 +2271,7 @@
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source agent built on local models, with its own inference engine. 100% private and offline
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Your fully local, private agent. Runs models on your machine with its built-in inference engine. Works out of the box, on any hardware.
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at
 - [kunchenguid/gh-axi](https://github.com/kunchenguid/gh-axi) - GitHub CLI for agents — designed with AXI (Agent eXperience Interface).
 - [kunchenguid/quota-axi](https://github.com/kunchenguid/quota-axi) - Allow your agents to see your LLM subscription quota windows.
@@ -2847,7 +2847,7 @@
 ## postgresql 
 
 - [ya7010/turu-py](https://github.com/ya7010/turu-py) - Simple Database API for Typed Python
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 
 ## powershell 
@@ -3078,7 +3078,7 @@
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine for hypermedia applications.
 - [volfpeter/fasthx](https://github.com/volfpeter/fasthx) - Declarative Python server-side rendering utility for FastAPI with built-in HTMX support.
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [AnswerDotAI/fastprogress](https://github.com/AnswerDotAI/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console
 - [businho/pytest-ruff](https://github.com/businho/pytest-ruff) - 
@@ -3354,7 +3354,7 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [rahuldkjain/awesome-frontendmasters](https://github.com/rahuldkjain/awesome-frontendmasters) - 📚 List of awesome frontendmasters course resources
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - 
@@ -3612,6 +3612,7 @@
 
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) - Black Friday deals for developers and designers – templates, devtools, courses, books
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
 
 ## telegram-bot 
@@ -3679,6 +3680,7 @@
 
 ## testing 
 
+- [regenrek/codex-proofloop](https://github.com/regenrek/codex-proofloop) - Git-based test distillation for Codex agents: catch aggressively, commit reluctantly
 - [cleder/awesome-python-testing](https://github.com/cleder/awesome-python-testing) - Collection of awesome 😎️ Python resources for testing
 - [adamchainz/time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
 - [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
@@ -3758,7 +3760,7 @@
 - [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [rahuldkjain/awesome-frontendmasters](https://github.com/rahuldkjain/awesome-frontendmasters) - 📚 List of awesome frontendmasters course resources
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - 
