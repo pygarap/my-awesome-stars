@@ -500,7 +500,7 @@
 - [henryiii/validate-pyproject-schema-store](https://github.com/henryiii/validate-pyproject-schema-store) - Daily automatic mirror of SchemaStore for validate-pyproject
 - [henryiii/skills](https://github.com/henryiii/skills) - Some agent skills that are useful for coding.
 - [horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema) - Fast JSON schema validator for Python.
-- [pydantic/pydantic-ai-harness](https://github.com/pydantic/pydantic-ai-harness) - Batteries for your Pydantic AI agent.
+- [pydantic/pydantic-ai-harness](https://github.com/pydantic/pydantic-ai-harness) - The official capability library and harness for Pydantic AI
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
@@ -930,7 +930,7 @@
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 - [kennethreitz/simplechat](https://github.com/kennethreitz/simplechat) - A chat interface for AI models using Simplemind, with memory.
 - [kennethreitz/simplemind](https://github.com/kennethreitz/simplemind) - Python API client for AI providers that intends to replace LangChain and LangGraph for most common use cases.
