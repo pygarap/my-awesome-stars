@@ -611,7 +611,7 @@
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [DmytroLitvinov/awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - :octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 
 ## awesome-list 
 
@@ -959,7 +959,7 @@
 ## command-line 
 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
 - [c0rychu/uvlink](https://github.com/c0rychu/uvlink) - storing venv in a system-wise cache and symbolic link them back into project file
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1898,7 +1898,7 @@
 
 ## mac 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [steipete/VibeMeter](https://github.com/steipete/VibeMeter) - A project to measure costs for Cursor and other AI provider.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -1947,7 +1947,7 @@
 ## macos 
 
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [c0rychu/uvlink](https://github.com/c0rychu/uvlink) - storing venv in a system-wise cache and symbolic link them back into project file
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
@@ -2289,7 +2289,7 @@
 - [DanWahlin/learn-github-stacked-prs](https://github.com/DanWahlin/learn-github-stacked-prs) - Practical learning and adoption resource for GitHub Stacked PRs and the gh stack CLI
 - [oxc-project/mirrors-oxlint](https://github.com/oxc-project/mirrors-oxlint) - 
 - [oxc-project/mirrors-oxfmt](https://github.com/oxc-project/mirrors-oxfmt) - 
-- [ai-evals-course/error-discovery-skill](https://github.com/ai-evals-course/error-discovery-skill) - Interactive error analysis skill for AI agents. Studies LLM trace datasets, builds a review UI, monitors annotations, categorizes failure modes, proposes new samples.
+- [ai-evals-course/evals-skills](https://github.com/ai-evals-course/evals-skills) - Skills for building LLM evals. Starts with interactive error discovery: build a review app, sample diverse traces, and organize human annotations into failure modes.
 - [docwriter-org/plain-writing-skill](https://github.com/docwriter-org/plain-writing-skill) - A plain-language writing skill for AI agents, with a revision view that shows what changed.
 - [asottile/lazy-static](https://github.com/asottile/lazy-static) - lazy module constants -- think lazy imports but for assignments
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
@@ -3239,7 +3239,7 @@
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [reagento/adaptix](https://github.com/reagento/adaptix) - An extremely flexible and configurable data model conversion library.
 - [ltworf/typedload](https://github.com/ltworf/typedload) - MIGRATED TO CODEBERG. Python library to load dynamically typed data into statically typed data structures
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [wemake-services/wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -3524,7 +3524,7 @@
 
 ## shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [walkccc/dotfiles](https://github.com/walkccc/dotfiles) - Aim for minimalist dotfiles
