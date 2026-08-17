@@ -355,7 +355,7 @@
 - [vstorm-co/awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) - An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.
 - [oxc-project/mirrors-oxlint](https://github.com/oxc-project/mirrors-oxlint) - 
 - [oxc-project/mirrors-oxfmt](https://github.com/oxc-project/mirrors-oxfmt) - 
-- [ai-evals-course/evals-skills](https://github.com/ai-evals-course/evals-skills) - Skills for building LLM evals. Starts with interactive error discovery: build a review app, sample diverse traces, and organize human annotations into failure modes.
+- [ai-evals-course/evals-skills](https://github.com/ai-evals-course/evals-skills) - Skills that guide AI coding agents to help you build product-specific AI evals.
 - [jnsahaj/skills](https://github.com/jnsahaj/skills) - Agent skills I use daily
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
 - [fastapicloud/skills](https://github.com/fastapicloud/skills) - 
@@ -1058,6 +1058,7 @@
 - [onlyhavecans/jp-study-bitbar](https://github.com/onlyhavecans/jp-study-bitbar) - xBar Plugins for Japanese Study Sites
 - [boschresearch/pylife](https://github.com/boschresearch/pylife) - a general library for fatigue and reliability
 - [abantos/behave-restful](https://github.com/abantos/behave-restful) - BDD Framework to Test REST Services and APIs
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy) - The code coverage tool for Python
@@ -1402,6 +1403,7 @@
 
 ## TypeScript 
 
+- [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration.
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
 - [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
@@ -1535,7 +1537,6 @@
 - [zabirauf/AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
-- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 
 ## Vim Script 
 
