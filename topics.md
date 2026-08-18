@@ -2734,7 +2734,6 @@
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
 - [siddhantdubey/Senkovi](https://github.com/siddhantdubey/Senkovi) - Python script that fixes other Python programs with GPT-4.
-- [pchunky/PanoptoBookmarklet](https://github.com/pchunky/PanoptoBookmarklet) - A bookmarklet to download lecture videos from NUS' Panopto website.
 - [AvrahamRaviv/Deep-Learning-in-Hebrew](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) - ספר מלא בעברית על למידת מכונה ולמידה עמוקה
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [divamgupta/stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow) - Stable Diffusion in TensorFlow / Keras
