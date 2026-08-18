@@ -222,7 +222,6 @@
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [pchunky/PanoptoBookmarklet](https://github.com/pchunky/PanoptoBookmarklet) - A bookmarklet to download lecture videos from NUS' Panopto website.
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
 - [yudataguy/awesome-japanese](https://github.com/yudataguy/awesome-japanese) - Awesome Japanese Learning Resources
 - [mistval/unofficial-jisho-api](https://github.com/mistval/unofficial-jisho-api) - Encapsulates the official Jisho.org API and also provides kanji, example, and stroke diagram search.
