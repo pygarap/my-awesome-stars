@@ -522,7 +522,6 @@
 - [neonwatty/machine-learning-refined](https://github.com/neonwatty/machine-learning-refined) - Master the fundamentals of machine learning, deep learning, and mathematical optimization by building key concepts and models from scratch using Python.
 - [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)
 - [openclaw/agent-skills](https://github.com/openclaw/agent-skills) - Useful skills for agents and claws.
-- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [FareedKhan-dev/claude-code-from-scratch](https://github.com/FareedKhan-dev/claude-code-from-scratch) - 23 Components of the Claude Code Architecture
@@ -1430,6 +1429,7 @@
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) - The best notepad for you and your agents
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [Lex-Inc/roughdraft](https://github.com/Lex-Inc/roughdraft) - Review markdown docs in a nice interface that lets you leave comments
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
@@ -1550,6 +1550,7 @@
 
 ## Zig 
 
+- [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
