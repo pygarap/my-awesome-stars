@@ -478,6 +478,7 @@
 
 ## Python 
 
+- [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) - Scan MCP servers for potential threats & security findings.
 - [regenrek/codex-proofloop](https://github.com/regenrek/codex-proofloop) - Git-based test distillation for Codex agents: catch aggressively, commit reluctantly
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids.
 - [owenlamont/lychee-pre-commit](https://github.com/owenlamont/lychee-pre-commit) - Pre-commit hook for lychee, the fast link checker (installs the prebuilt lychee-bin PyPI wheels; works on Windows, macOS, and Linux).
