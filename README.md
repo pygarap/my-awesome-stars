@@ -349,6 +349,7 @@
 
 ## Others 
 
+- [ombharatiya/ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals.
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 - [OutThisLife/brooklyn-skills](https://github.com/OutThisLife/brooklyn-skills) - Skills that drive best-in-class engineering
 - [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins
@@ -505,7 +506,7 @@
 - [henryiii/validate-pyproject-schema-store](https://github.com/henryiii/validate-pyproject-schema-store) - Daily automatic mirror of SchemaStore for validate-pyproject
 - [henryiii/skills](https://github.com/henryiii/skills) - Some agent skills that are useful for coding.
 - [horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema) - Fast JSON schema validator for Python.
-- [pydantic/pydantic-ai-harness](https://github.com/pydantic/pydantic-ai-harness) - The official capability library and harness for Pydantic AI
+- [pydantic/pydantic-ai-harness](https://github.com/pydantic/pydantic-ai-harness) - Your agent's favorite harness, built on Pydantic AI
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
