@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [Batchfile](#batchfile)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -53,6 +54,10 @@
 
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
+## Bikeshed 
+
+- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
+
 ## C 
 
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
@@ -65,6 +70,7 @@
 
 ## C++ 
 
+- [domfarolino/algorithms](https://github.com/domfarolino/algorithms) - 💎 Documented algorithmic problems/solutions + datastructures
 - [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++23/Java/Python/MySQL/TypeScript (respect coding conventions)
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
@@ -520,7 +526,6 @@
 - [warpdotdev/common-skills](https://github.com/warpdotdev/common-skills) - 
 - [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills) - Codebase harness + loop engineer
 - [breadMSA/pytest-tia](https://github.com/breadMSA/pytest-tia) - Test Impact Analysis for pytest: run only the tests your change actually affects. Method-level, tracks non-.py deps, CI-ready, and honest about its limits.
-- [sunflower-of-parchman/codex-hygiene](https://github.com/sunflower-of-parchman/codex-hygiene) - Codex skill for auditing and tuning Codex Desktop context/tool surfaces
 - [huggingface/tau](https://github.com/huggingface/tau) - A Python port of Pi’s minimalist coding agent.
 - [ards-project/ard-spec](https://github.com/ards-project/ard-spec) - Agentic Resource Discovery (ARD) specification
 - [tiangolo/library-skills](https://github.com/tiangolo/library-skills) - Library Agent Skills
