@@ -2319,6 +2319,7 @@
 
 ## others 
 
+- [dhruvkb/oxc-py](https://github.com/dhruvkb/oxc-py) - Oxfmt and Oxlint distributed through PyPI
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
 - [ericlitman/open-pstack](https://github.com/ericlitman/open-pstack) - pstack for Claude Code and Codex, tracking Cursor pstack upstream
 - [kunchenguid/backpass](https://github.com/kunchenguid/backpass) - You don't write AGENTS.md. You train it with gradient descent.
