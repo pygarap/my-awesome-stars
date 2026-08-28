@@ -1197,7 +1197,7 @@
 
 ## Rust 
 
-- [rvben/upd](https://github.com/rvben/upd) - A fast dependency updater for Python and Node.js projects
+- [rvben/upd](https://github.com/rvben/upd) - Local-first dependency updates for polyglot repositories—Python, Node.js, Rust, Go, Ruby, .NET, Terraform, GitHub Actions, pre-commit, and Mise.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at
