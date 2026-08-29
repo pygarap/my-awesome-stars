@@ -1704,6 +1704,7 @@
 
 ## http 
 
+- [Kludex/zttp](https://github.com/Kludex/zttp) - Sans-IO HTTP parser for Python with a Zig core! :zap:
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
 - [karpetrosyan/httpx-aiohttp](https://github.com/karpetrosyan/httpx-aiohttp) - aiohttp-powered httpx client
@@ -2334,6 +2335,8 @@
 
 ## others 
 
+- [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
+- [asamarts/alint](https://github.com/asamarts/alint) - Language-agnostic linter for repository structure, files, and content
 - [dhruvkb/oxc-py](https://github.com/dhruvkb/oxc-py) - Oxfmt and Oxlint distributed through PyPI
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
 - [ericlitman/open-pstack](https://github.com/ericlitman/open-pstack) - pstack for Claude Code and Codex, tracking Cursor pstack upstream
@@ -2987,6 +2990,7 @@
 
 ## python 
 
+- [Kludex/zttp](https://github.com/Kludex/zttp) - Sans-IO HTTP parser for Python with a Zig core! :zap:
 - [rvben/upd](https://github.com/rvben/upd) - Local-first dependency updates for polyglot repositories—Python, Node.js, Rust, Go, Ruby, .NET, Terraform, GitHub Actions, pre-commit, and Mise.
 - [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
 - [vstorm-co/awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) - An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.
@@ -4003,6 +4007,7 @@
 
 ## zig 
 
+- [Kludex/zttp](https://github.com/Kludex/zttp) - Sans-IO HTTP parser for Python with a Zig core! :zap:
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
 
 ## zsh 
