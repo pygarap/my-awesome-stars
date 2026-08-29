@@ -488,6 +488,7 @@
 
 ## Python 
 
+- [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
 - [dhruvkb/oxc-py](https://github.com/dhruvkb/oxc-py) - Oxfmt and Oxlint distributed through PyPI
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
 - [feiskyer/codex-settings](https://github.com/feiskyer/codex-settings) - Curated skills, profiles, and config templates that supercharge Codex CLI — multi-model, deep research, image gen & browser automation.
@@ -1197,6 +1198,7 @@
 
 ## Rust 
 
+- [asamarts/alint](https://github.com/asamarts/alint) - Language-agnostic linter for repository structure, files, and content
 - [rvben/upd](https://github.com/rvben/upd) - Local-first dependency updates for polyglot repositories—Python, Node.js, Rust, Go, Ruby, .NET, Terraform, GitHub Actions, pre-commit, and Mise.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
@@ -1569,6 +1571,7 @@
 
 ## Zig 
 
+- [Kludex/zttp](https://github.com/Kludex/zttp) - Sans-IO HTTP parser for Python with a Zig core! :zap:
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
