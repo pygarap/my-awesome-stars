@@ -716,7 +716,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
-- [aiagenta2z/ai-agent-marketplace](https://github.com/aiagenta2z/ai-agent-marketplace) - AI Agent Marketplace | AI Agent Directory | AI Agent Index Repo for Public Available AI Agents Community
+- [aiagenta2z/ai-agent-marketplace](https://github.com/aiagenta2z/ai-agent-marketplace) - Open Source AI Agent Marketplace | AI Agent Directory for Exploration with searchable index for search engine and user discovery
 - [asottile-archive/dict-unpacking-at-home](https://github.com/asottile-archive/dict-unpacking-at-home) - can we have dict unpacking in python?
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [deepankarm/pyleak](https://github.com/deepankarm/pyleak) - Detect leaked asyncio tasks, threads, and event loop blocking with stack trace in Python. Inspired by goleak.
@@ -832,7 +832,7 @@
 - [xai-org/xai-sdk-python](https://github.com/xai-org/xai-sdk-python) - The official Python SDK for the xAI API
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [pydantic/pydantic-settings](https://github.com/pydantic/pydantic-settings) - Settings management using pydantic
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [OpenRouterArchived/openrouter-runner](https://github.com/OpenRouterArchived/openrouter-runner) - Deprecated inference engine
 - [run-llama/llamacloud-mcp](https://github.com/run-llama/llamacloud-mcp) - 
@@ -1198,6 +1198,7 @@
 
 ## Rust 
 
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [asamarts/alint](https://github.com/asamarts/alint) - Language-agnostic linter for repository structure, files, and content
 - [rvben/upd](https://github.com/rvben/upd) - Local-first dependency updates for polyglot repositories—Python, Node.js, Rust, Go, Ruby, .NET, Terraform, GitHub Actions, pre-commit, and Mise.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
@@ -1431,7 +1432,7 @@
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that profiles your hardware, recommends the best models for it, then downloads, tunes, and runs them. Use the built-in harness or connect OpenCode, Pi, Hermes, OpenClaw, C
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that profiles your hardware, recommends the best local models for it, then downloads, tunes, and runs them. Use the built-in harness or connect OpenCode, Pi, Hermes, OpenC
 - [kunchenguid/gh-axi](https://github.com/kunchenguid/gh-axi) - GitHub CLI for agents — designed with AXI (Agent eXperience Interface).
 - [kunchenguid/quota-axi](https://github.com/kunchenguid/quota-axi) - Allow your agents to see your LLM subscription quota windows.
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
@@ -1456,7 +1457,7 @@
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [rvben/rumdl-chrome-extension](https://github.com/rvben/rumdl-chrome-extension) - 
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
