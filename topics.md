@@ -2339,6 +2339,7 @@
 
 ## others 
 
+- [junnplus/awesome-python-books](https://github.com/junnplus/awesome-python-books) - :books: Directory of Python books
 - [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
 - [asamarts/alint](https://github.com/asamarts/alint) - Language-agnostic linter for repository structure, files, and content
 - [dhruvkb/oxc-py](https://github.com/dhruvkb/oxc-py) - Oxfmt and Oxlint distributed through PyPI
@@ -2388,7 +2389,7 @@
 - [kunchenguid/dotfiles](https://github.com/kunchenguid/dotfiles) - Kun's dotfiles for agentic engineering
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e
 - [RustedBytes/rsloop](https://github.com/RustedBytes/rsloop) - An event loop for asyncio written in Rust
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. 682r79Fjc3U2aMEZASFSbd5SW2u4bzqfVPAHofsipump
 - [fastapicloud/skills](https://github.com/fastapicloud/skills) - 
 - [abravalheri/validate-pyproject](https://github.com/abravalheri/validate-pyproject) - Validation library for simple check on `pyproject.toml`
 - [provencher/codex-skills](https://github.com/provencher/codex-skills) - Reusable skills for ChatGPT work and Codex.
