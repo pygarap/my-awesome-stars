@@ -339,7 +339,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [codervisor/leanspec](https://github.com/codervisor/leanspec) - Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
@@ -2344,6 +2344,7 @@
 
 ## others 
 
+- [rvben/upd-pre-commit](https://github.com/rvben/upd-pre-commit) - Pre-commit hooks for upd, a fast multi-ecosystem dependency updater
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
 - [githubnext/autoloop](https://github.com/githubnext/autoloop) - Loop anything in your repo: automate research, development and maintenance
 - [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows!
@@ -3022,7 +3023,7 @@
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
-- [ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn) - An Intelligent Python Code Quality Analyzer
+- [ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analysis for Python in the age of AI coding.
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
