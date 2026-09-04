@@ -2270,7 +2270,7 @@
 
 ## open-source 
 
-- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
@@ -2344,6 +2344,7 @@
 
 ## others 
 
+- [Parcha-ai/parcha-skills](https://github.com/Parcha-ai/parcha-skills) - Skills I use to execute long-running coding agents without breaking my back.
 - [rvben/upd-pre-commit](https://github.com/rvben/upd-pre-commit) - Pre-commit hooks for upd, a fast multi-ecosystem dependency updater
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
 - [githubnext/autoloop](https://github.com/githubnext/autoloop) - Loop anything in your repo: automate research, development and maintenance
@@ -2476,7 +2477,6 @@
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - 🍄 Give your Codex CLI an extra life
 - [m98/fluent](https://github.com/m98/fluent) - The AI Language Learning Kit for Claude Code and others
-- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [iannuttall/ralph](https://github.com/iannuttall/ralph) - A minimal, file‑based agent loop for autonomous coding.
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [gaauwe/fast-forward](https://github.com/gaauwe/fast-forward) - A window switcher for macOS built in Rust using the gpui framework
@@ -3026,6 +3026,7 @@
 - [ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analysis for Python in the age of AI coding.
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [osprey-oss/migrate-to-uv](https://github.com/osprey-oss/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
@@ -3523,6 +3524,7 @@
 - [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [ya7010/serde_valid](https://github.com/ya7010/serde_valid) - JSON Schema based validation tool using serde.
 - [osprey-oss/migrate-to-uv](https://github.com/osprey-oss/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
@@ -3703,7 +3705,7 @@
 
 ## swift 
 
-- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [GetStream/awesome-liquid-glass](https://github.com/GetStream/awesome-liquid-glass) - Liquid Glass animated examples and use cases for inspiration
