@@ -490,6 +490,7 @@
 
 ## Python 
 
+- [Parcha-ai/parcha-skills](https://github.com/Parcha-ai/parcha-skills) - Skills I use to execute long-running coding agents without breaking my back.
 - [rvben/upd-pre-commit](https://github.com/rvben/upd-pre-commit) - Pre-commit hooks for upd, a fast multi-ecosystem dependency updater
 - [githubnext/autoloop](https://github.com/githubnext/autoloop) - Loop anything in your repo: automate research, development and maintenance
 - [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
@@ -1389,7 +1390,7 @@
 
 ## Swift 
 
-- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS
 - [microsoft/ProcexpForMac](https://github.com/microsoft/ProcexpForMac) - Process Explorer for MacOS
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. CA: 682r79Fjc3U2aMEZASFSbd5SW2u4bzqfVPAHofsipump
