@@ -2354,6 +2354,7 @@
 
 ## others 
 
+- [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
 - [donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator) - Use Astra as orchestrator and Luna as implementor
 - [kitze/council](https://github.com/kitze/council) - 🏛 Agent skill: your coding agent must convene the other agent CLIs on your machine and deliberate for X turns before giving you a plan
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
