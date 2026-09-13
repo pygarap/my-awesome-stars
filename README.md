@@ -319,7 +319,6 @@
 
 ## Lua 
 
-- [rohaquinlop/dotfiles](https://github.com/rohaquinlop/dotfiles) - 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -1360,6 +1359,7 @@
 
 - [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
 - [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) - Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
+- [rohaquinlop/dotfiles](https://github.com/rohaquinlop/dotfiles) - 
 - [kunchenguid/dotfiles](https://github.com/kunchenguid/dotfiles) - Kun's dotfiles for agentic engineering
 - [tmchow/gh-smart-clone](https://github.com/tmchow/gh-smart-clone) - GitHub CLI extension for fork-aware owner/repo clone paths
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -1410,6 +1410,7 @@
 
 ## Swift 
 
+- [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [vinzdg/codenotch](https://github.com/vinzdg/codenotch) - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS
