@@ -493,7 +493,7 @@
 
 ## Python 
 
-- [thruwire/foreman](https://github.com/thruwire/foreman) - Software Factory Foreman based on TypeSafe Jev model
+- [thruwire/foreman](https://github.com/thruwire/foreman) - Software factory foreman based on TypeSafe's Jev model
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [mainmatter/rust-python-interoperability](https://github.com/mainmatter/rust-python-interoperability) - A self-paced course to write Python extensions in Rust, one exercise at a time.
 - [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) - A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.
@@ -565,7 +565,7 @@
 - [Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer) - Codex skill for safe codebase complexity analysis and performance optimization reports
 - [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 - [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices) - Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
-- [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
+- [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
 - [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
 - [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
@@ -620,7 +620,7 @@
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [15r10nk/format-dedent](https://github.com/15r10nk/format-dedent) - formats textwrap.dedent("""multiline string ...""")
-- [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Type hints → Web UI. Turn Python functions into web apps — standalone or mounted inside yours.
+- [offerrall/FuncToWeb](https://github.com/offerrall/FuncToWeb) - Turn typed Python functions into web interfaces.
 - [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types) - A Python library to map file extensions to MIME types without accessing the file data. #pypackage
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [lorien/domselect](https://github.com/lorien/domselect) - Universal interface to work with DOM built by different HTML parsing engines.
@@ -1456,6 +1456,7 @@
 
 ## TypeScript 
 
+- [ScriptedAlchemy/pstack-codex](https://github.com/ScriptedAlchemy/pstack-codex) - Codex-native port of Lauren Tan's pstack: 47 skills, 23 playbooks, agent personas, multi-agent workflows, and Benny automation adapters. Includes a Codex marketplace and installer.
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [clay-good/OpenLore](https://github.com/clay-good/OpenLore) - Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.
 - [LegendApp/legend-apps](https://github.com/LegendApp/legend-apps) - 
