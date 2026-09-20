@@ -357,6 +357,7 @@
 
 ## Others 
 
+- [typesafe-ai/skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks
 - [ludo-technologies/python-best-practices](https://github.com/ludo-technologies/python-best-practices) - Python best practices Skill for AI coding agents
 - [kitze/council](https://github.com/kitze/council) - 🏛 Agent skill: your coding agent must convene the other agent CLIs on your machine and deliberate for X turns before giving you a plan
@@ -493,6 +494,7 @@
 
 ## Python 
 
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness) - A repo-native coding-agent loop harness for Claude, Codex, Copilot, and other CLI agents. Agents can edit. Gates decide what lands. You set the plan in motion. The agents take a prompt, and each itera
 - [thruwire/foreman](https://github.com/thruwire/foreman) - Software factory foreman based on TypeSafe's Jev model
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -1220,6 +1222,7 @@
 
 ## Rust 
 
+- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box macOS terminal built for AI coding.
 - [ChristopherKahler/base](https://github.com/ChristopherKahler/base) - AI builder operating system. Turn Claude Code from a per-session tool into a workspace that remembers, maintains itself, and never goes stale. BASE = Builder's Automated State Engine.
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
