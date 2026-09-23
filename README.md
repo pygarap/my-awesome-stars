@@ -505,7 +505,7 @@
 - [regebro/pyroma](https://github.com/regebro/pyroma) - Rate your Python packages package friendliness
 - [duriantaco/skylos](https://github.com/duriantaco/skylos) - Open source local-first PR scanner that finds dead code, security bugs, secrets, quality regressions, and AI-code mistakes before merge. For first timers refer to https://duriantaco.github.io/skylos/r
 - [Sahir619/fable-method](https://github.com/Sahir619/fable-method) - The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.
-- [donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator) - Use Astra as orchestrator and Luna for subagents in Codex
+- [donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator) - Use Astra or Sol as orchestrator and Luna for subagents in Codex
 - [DannyMac180/astra-advisor](https://github.com/DannyMac180/astra-advisor) - GPT-6 Astra orchestration with dynamic Sol, Terra, and Luna subagents
 - [Parcha-ai/parcha-skills](https://github.com/Parcha-ai/parcha-skills) - Skills I use to execute long-running coding agents without breaking my back.
 - [rvben/upd-pre-commit](https://github.com/rvben/upd-pre-commit) - Pre-commit hooks for upd, a fast multi-ecosystem dependency updater
@@ -1483,7 +1483,7 @@
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or no
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AM
 - [kunchenguid/gh-axi](https://github.com/kunchenguid/gh-axi) - GitHub CLI for agents — designed with AXI (Agent eXperience Interface).
 - [kunchenguid/quota-axi](https://github.com/kunchenguid/quota-axi) - Allow your agents to see your LLM subscription quota windows.
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
