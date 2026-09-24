@@ -9,6 +9,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -440,6 +441,17 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+## ai-agent 
+
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
+- [aiagenta2z/ai-agent-marketplace](https://github.com/aiagenta2z/ai-agent-marketplace) - Open Source AI Agent Marketplace | AI Agent Directory for Exploration with searchable index for search engine and user discovery
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
+- [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 
 ## ai-agents 
 
@@ -2652,7 +2664,6 @@
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 - [fastapi/annotated-doc](https://github.com/fastapi/annotated-doc) - Document parameters, class attributes, return types, and variables inline, with Annotated.
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
@@ -2708,7 +2719,6 @@
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv) - 
 - [ninoseki/uv-dynamic-versioning](https://github.com/ninoseki/uv-dynamic-versioning) - Dynamic versioning based on VCS tags for uv/hatch project
-- [aiagenta2z/ai-agent-marketplace](https://github.com/aiagenta2z/ai-agent-marketplace) - Open Source AI Agent Marketplace | AI Agent Directory for Exploration with searchable index for search engine and user discovery
 - [adamritter/fasttag](https://github.com/adamritter/fasttag) - Library for extremely fast HTML generation from Python
 - [LeetCode-OpenSource/leetcode-cli](https://github.com/LeetCode-OpenSource/leetcode-cli) - A cli tool to enjoy leetcode!
 - [asottile-archive/dict-unpacking-at-home](https://github.com/asottile-archive/dict-unpacking-at-home) - can we have dict unpacking in python?
