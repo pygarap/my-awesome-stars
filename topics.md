@@ -295,7 +295,7 @@
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
+- [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills — Create, manage, and execute reusable code-based tool compositions for AI agents.
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [agentflare-ai/agentml](https://github.com/agentflare-ai/agentml) - Agent Markdown Language
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
@@ -354,7 +354,7 @@
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [ludo-technologies/add-skills](https://github.com/ludo-technologies/add-skills) - A Python-based CLI for managing AI agent Skills
-- [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
+- [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills — Create, manage, and execute reusable code-based tool compositions for AI agents.
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [marimo-team/modernaicourse](https://github.com/marimo-team/modernaicourse) - A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
@@ -487,7 +487,7 @@
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
-- [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills - Create, manage, and execute reusable code-based tool compositions for AI agents.
+- [datalayer/agent-skills](https://github.com/datalayer/agent-skills) - 🤖 🧰 Agent Skills — Create, manage, and execute reusable code-based tool compositions for AI agents.
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [agno-agi/dash](https://github.com/agno-agi/dash) - A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.
@@ -2464,6 +2464,8 @@
 
 ## others 
 
+- [cpojer/dotfiles](https://github.com/cpojer/dotfiles) - My dotfiles and VS Code setup.
+- [hardbeat920/monocode](https://github.com/hardbeat920/monocode) - A GUI for your coding agents
 - [restyler/awesome-sandbox](https://github.com/restyler/awesome-sandbox) - Awesome Code Sandboxing for AI
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) - A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
