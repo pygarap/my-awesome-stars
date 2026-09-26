@@ -504,7 +504,7 @@
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness) - A repo-native coding-agent loop harness for Claude, Codex, Copilot, and other CLI agents. Agents can edit. Gates decide what lands. You set the plan in motion. The agents take a prompt, and each itera
-- [thruwire/foreman](https://github.com/thruwire/foreman) - Software factory foreman based on TypeSafe's Jev model
+- [thruwire/foreman](https://github.com/thruwire/foreman) - An agent supervisor and software factory foreman powered by TypeSafe’s Jev model
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [mainmatter/rust-python-interoperability](https://github.com/mainmatter/rust-python-interoperability) - A self-paced course to write Python extensions in Rust, one exercise at a time.
 - [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) - A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.
@@ -1468,6 +1468,7 @@
 
 ## TypeScript 
 
+- [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
 - [hardbeat920/monocode](https://github.com/hardbeat920/monocode) - A GUI for your coding agents
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
