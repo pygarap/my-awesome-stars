@@ -821,6 +821,7 @@
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More. https://hol.org/plugins
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
@@ -872,6 +873,7 @@
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 - [ncoevoet/claude-review-all](https://github.com/ncoevoet/claude-review-all) - Comprehensive multi-agent code review for Claude Code
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. 
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
@@ -2012,6 +2014,7 @@
 - [ombharatiya/ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals.
 - [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) - Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [vstorm-co/awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) - An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -2475,6 +2478,7 @@
 
 ## others 
 
+- [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) - 
 - [sindresorhus/finder-alias](https://github.com/sindresorhus/finder-alias) - Resolve and create macOS Finder aliases
 - [gi0baro/pidrei](https://github.com/gi0baro/pidrei) - A Python port of Pi
 - [cpojer/dotfiles](https://github.com/cpojer/dotfiles) - My dotfiles and VS Code setup.
