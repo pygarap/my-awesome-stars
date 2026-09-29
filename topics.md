@@ -2478,6 +2478,7 @@
 
 ## others 
 
+- [tiangolo/latest-changes-app](https://github.com/tiangolo/latest-changes-app) - A GitHub App that updates release notes when a pull request is merged into a repository's default branch.
 - [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) - 
 - [sindresorhus/finder-alias](https://github.com/sindresorhus/finder-alias) - Resolve and create macOS Finder aliases
 - [gi0baro/pidrei](https://github.com/gi0baro/pidrei) - A Python port of Pi
