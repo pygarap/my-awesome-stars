@@ -499,6 +499,7 @@
 
 ## Python 
 
+- [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.
 - [tiangolo/latest-changes-app](https://github.com/tiangolo/latest-changes-app) - A GitHub App that updates release notes when a pull request is merged into a repository's default branch.
 - [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) - 
 - [gi0baro/pidrei](https://github.com/gi0baro/pidrei) - A Python port of Pi
@@ -1231,6 +1232,7 @@
 
 ## Rust 
 
+- [mitsuhiko/deser](https://github.com/mitsuhiko/deser) - Experimental rust serialization library
 - [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - High-performance AI coding agent CLI written in Rust with zero unsafe code
 - [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box macOS terminal built for AI coding.
@@ -1245,6 +1247,7 @@
 - [asamarts/alint](https://github.com/asamarts/alint) - Language-agnostic linter for repository structure, files, and content
 - [rvben/upd](https://github.com/rvben/upd) - Local-first dependency updates for polyglot repositories—Python, Node.js, Rust, Go, Ruby, .NET, Terraform, GitHub Actions, pre-commit, and Mise.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AM
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at
 - [ArchAstro/scopey](https://github.com/ArchAstro/scopey) - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope
@@ -1475,6 +1478,7 @@
 
 ## TypeScript 
 
+- [openai/mcp-extensions](https://github.com/openai/mcp-extensions) - Build plugins that feel like native, first-class features of ChatGPT.
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
 - [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
 - [hardbeat920/monocode](https://github.com/hardbeat920/monocode) - A GUI for your coding agents
@@ -1491,7 +1495,6 @@
 - [kentcdodds/kody](https://github.com/kentcdodds/kody) - 🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
 - [ericlitman/open-pstack](https://github.com/ericlitman/open-pstack) - pstack for Claude Code and Codex, tracking Cursor pstack upstream
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration.
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
