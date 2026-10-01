@@ -157,6 +157,7 @@
 
 ## HTML 
 
+- [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
 - [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) - Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [kennethreitz/pep8.org](https://github.com/kennethreitz/pep8.org) - PEP 8, for Humans.
@@ -193,6 +194,7 @@
 
 ## JavaScript 
 
+- [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb) - VibeCurb - Injects taste into AI workflows to stop agents from generating boring, AI slop.
 - [sindresorhus/finder-alias](https://github.com/sindresorhus/finder-alias) - Resolve and create macOS Finder aliases
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
@@ -1324,7 +1326,7 @@
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - 🆕 Sentry CLI ➡️ https://github.com/getsentry/cli
+- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - 
 - [conikeec/sniff](https://github.com/conikeec/sniff) - Sniff: Misalignment detection in Vibe Coding loops
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [uutils/sed](https://github.com/uutils/sed) - Rewrite of sed in Rust
@@ -1478,6 +1480,7 @@
 
 ## TypeScript 
 
+- [composio-community/open-dot](https://github.com/composio-community/open-dot) - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.
 - [openai/mcp-extensions](https://github.com/openai/mcp-extensions) - Build plugins that feel like native, first-class features of ChatGPT.
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
 - [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
