@@ -501,6 +501,9 @@
 
 ## Python 
 
+- [unclebob/mutator](https://github.com/unclebob/mutator) - Mutation testing for Clojure, Java, Go, TypeScript, Rust, and Python, in the snapshot uml-viewer reads.
+- [unclebob/crapper](https://github.com/unclebob/crapper) - CRAP scores for Clojure, Java, Go, TypeScript, Rust, and Python, in the snapshot uml-viewer reads.
+- [unclebob/dryer](https://github.com/unclebob/dryer) - 
 - [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approva
 - [tiangolo/latest-changes-app](https://github.com/tiangolo/latest-changes-app) - A GitHub App that updates release notes when a pull request is merged into a repository's default branch.
@@ -1438,12 +1441,13 @@
 
 ## Swift 
 
+- [peterfriese/Stratos](https://github.com/peterfriese/Stratos) - Stratos: AI Agent Skills for High-End API Design with Progressive Disclosure
 - [mpociot/claude-siri-ai](https://github.com/mpociot/claude-siri-ai) - Experimental macOS 27 App Intents model delegation provider backed by Claude Code
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [vinzdg/codenotch](https://github.com/vinzdg/codenotch) - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
-- [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS
-- [microsoft/ProcexpForMac](https://github.com/microsoft/ProcexpForMac) - Process Explorer for MacOS
+- [microsoft/Zoomit-Mac](https://github.com/microsoft/Zoomit-Mac) - Sysinternals ZoomIt for MacOS
+- [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) - Process Explorer for MacOS
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
