@@ -156,7 +156,6 @@
 
 ## HTML 
 
-- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
 - [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) - Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
@@ -194,6 +193,7 @@
 
 ## JavaScript 
 
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb) - VibeCurb - Injects taste into AI workflows to stop agents from generating boring, AI slop.
 - [sindresorhus/finder-alias](https://github.com/sindresorhus/finder-alias) - Resolve and create macOS Finder aliases
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
@@ -215,6 +215,7 @@
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [openai/codex-action](https://github.com/openai/codex-action) - 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [entropitor/dotenv-cli](https://github.com/entropitor/dotenv-cli) - A cli to load dotenv files
@@ -1567,7 +1568,6 @@
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [openai/codex-action](https://github.com/openai/codex-action) - 
 - [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
