@@ -2679,7 +2679,7 @@
 - [iannuttall/ralph](https://github.com/iannuttall/ralph) - A minimal, file‑based agent loop for autonomous coding.
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [gaauwe/fast-forward](https://github.com/gaauwe/fast-forward) - A window switcher for macOS built in Rust using the gpui framework
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x* faster Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew alternative
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
