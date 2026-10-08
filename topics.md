@@ -262,6 +262,8 @@
 
 ## agent-skills 
 
+- [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
+- [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
 - [docker/skills](https://github.com/docker/skills) - A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.
 - [Sahir619/fable-method](https://github.com/Sahir619/fable-method) - The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.
@@ -463,6 +465,7 @@
 
 ## ai-agents 
 
+- [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
 - [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
@@ -913,6 +916,8 @@
 
 ## claude-code 
 
+- [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
+- [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
 - [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
@@ -964,6 +969,7 @@
 
 ## claude-skills 
 
+- [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. 
@@ -972,6 +978,7 @@
 
 ## cli 
 
+- [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
 - [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - High-performance AI coding agent CLI written in Rust with zero unsafe code
@@ -1064,6 +1071,7 @@
 
 ## code-quality 
 
+- [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner
 - [kucherenko/basta](https://github.com/kucherenko/basta) - Dead code detector for JavaScript, TypeScript and Python — finds unused files, exports, declarations and imports. Rust engine, self-contained binary.
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [duriantaco/skylos](https://github.com/duriantaco/skylos) - Open source local-first PR scanner that finds dead code, security bugs, secrets, quality regressions, and AI-code mistakes before merge. For first timers refer to https://duriantaco.github.io/skylos/r
@@ -1079,6 +1087,7 @@
 
 ## code-review 
 
+- [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner
 - [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
 - [ludo-technologies/polyscan](https://github.com/ludo-technologies/polyscan) - Code quality analyzers for AI agents — dead code, clones, complexity, dependencies.
@@ -3722,6 +3731,7 @@
 
 ## rust 
 
+- [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
 - [mitsuhiko/deser](https://github.com/mitsuhiko/deser) - Experimental rust serialization library
 - [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - High-performance AI coding agent CLI written in Rust with zero unsafe code
@@ -3816,6 +3826,7 @@
 
 ## security 
 
+- [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner
 - [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [GitHubSecurityLab/gh-secure](https://github.com/GitHubSecurityLab/gh-secure) - A GitHub CLI extension to enable security features on repositories following best practices from GitHub Security Lab.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
@@ -3832,6 +3843,7 @@
 
 ## security-tools 
 
+- [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner
 - [GitHubSecurityLab/gh-secure](https://github.com/GitHubSecurityLab/gh-secure) - A GitHub CLI extension to enable security features on repositories following best practices from GitHub Security Lab.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
