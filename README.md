@@ -96,6 +96,8 @@
 
 ## Go 
 
+- [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files
+- [am-will/multi-codex-app](https://github.com/am-will/multi-codex-app) - Run several Codex desktop accounts side by side, each with its own separate profile and login.
 - [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [ludo-technologies/polyscan](https://github.com/ludo-technologies/polyscan) - Code quality analyzers for AI agents — dead code, clones, complexity, dependencies.
@@ -1241,6 +1243,7 @@
 
 ## Rust 
 
+- [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
 - [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
 - [mitsuhiko/deser](https://github.com/mitsuhiko/deser) - Experimental rust serialization library
@@ -1388,6 +1391,7 @@
 
 ## Shell 
 
+- [am-will/codex-skills](https://github.com/am-will/codex-skills) - 
 - [cpojer/dotfiles](https://github.com/cpojer/dotfiles) - My dotfiles and VS Code setup.
 - [kucherenko/gangsta](https://github.com/kucherenko/gangsta) - AI agentic skills framework for spec-driven development, built on the organizational model of mafia.
 - [GitHubSecurityLab/gh-secure](https://github.com/GitHubSecurityLab/gh-secure) - A GitHub CLI extension to enable security features on repositories following best practices from GitHub Security Lab.
