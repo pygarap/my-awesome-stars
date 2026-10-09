@@ -517,7 +517,7 @@
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCodek DSH, Kimi and More. https://hol.org/p
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [kucherenko/basta](https://github.com/kucherenko/basta) - Dead code detector for JavaScript, TypeScript and Python — finds unused files, exports, declarations and imports. Rust engine, self-contained binary.
-- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants can run.
 - [rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness) - A repo-native coding-agent loop harness for Claude, Codex, Copilot, and other CLI agents. Agents can edit. Gates decide what lands. You set the plan in motion. The agents take a prompt, and each itera
 - [thruwire/foreman](https://github.com/thruwire/foreman) - An agent supervisor and software factory foreman powered by TypeSafe’s Jev model
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -1249,7 +1249,7 @@
 - [mitsuhiko/deser](https://github.com/mitsuhiko/deser) - Experimental rust serialization library
 - [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - High-performance AI coding agent CLI written in Rust with zero unsafe code
 - [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.
-- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box macOS terminal built for AI coding.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A blazing-fast Mac terminal, built for coding with AI.
 - [ChristopherKahler/base](https://github.com/ChristopherKahler/base) - AI builder operating system. Turn Claude Code from a per-session tool into a workspace that remembers, maintains itself, and never goes stale. BASE = Builder's Automated State Engine.
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -1279,7 +1279,7 @@
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [gaauwe/fast-forward](https://github.com/gaauwe/fast-forward) - A window switcher for macOS built in Rust using the gpui framework
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew client
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -1405,7 +1405,7 @@
 - [robzilla1738/supergoal](https://github.com/robzilla1738/supergoal) - Plan and autonomously build a software task end-to-end. One ready-to-paste /goal, adaptive phase count, memory preload + writeback, 3-strike self-healing recovery.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [am-will/swarms](https://github.com/am-will/swarms) - Multi-agent orchestration skills for Claude Code and Codex
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
@@ -1513,7 +1513,7 @@
 - [clay-good/OpenLore](https://github.com/clay-good/OpenLore) - Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.
 - [LegendApp/legend-apps](https://github.com/LegendApp/legend-apps) - 
 - [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) - better agentic engineering
-- [kentcdodds/kody](https://github.com/kentcdodds/kody) - 🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.
+- [kentcdodds/kody](https://github.com/kentcdodds/kody) - 🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
 - [ericlitman/open-pstack](https://github.com/ericlitman/open-pstack) - pstack for Claude Code and Codex, tracking Cursor pstack upstream
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
