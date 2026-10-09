@@ -2504,6 +2504,10 @@
 
 ## others 
 
+- [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
+- [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files
+- [am-will/codex-skills](https://github.com/am-will/codex-skills) - 
+- [am-will/multi-codex-app](https://github.com/am-will/multi-codex-app) - Run several Codex desktop accounts side by side, each with its own separate profile and login.
 - [backnotprop/pstack](https://github.com/backnotprop/pstack) - Skills and principles for rigorous AI-assisted engineering
 - [antfu/pulls.review](https://github.com/antfu/pulls.review) - A better way for review GitHub Pull Requests
 - [unclebob/mutator](https://github.com/unclebob/mutator) - Mutation testing for Clojure, Java, Go, TypeScript, Rust, and Python, in the snapshot uml-viewer reads.
