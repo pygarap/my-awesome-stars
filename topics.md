@@ -152,6 +152,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opengl](#opengl)
@@ -286,6 +287,7 @@
 
 ## agents 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [backnotprop/bro](https://github.com/backnotprop/bro) - Useful skills.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [kucherenko/gangsta](https://github.com/kucherenko/gangsta) - AI agentic skills framework for spec-driven development, built on the organizational model of mafia.
@@ -916,6 +918,7 @@
 
 ## claude-code 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
 - [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
@@ -1087,6 +1090,7 @@
 
 ## code-review 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.
 - [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
@@ -1694,6 +1698,7 @@
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
@@ -2427,6 +2432,10 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [Atelier-Shiori/KaniManabu](https://github.com/Atelier-Shiori/KaniManabu) - An open source WaniKani style SRS Japanese Studying App for macOS
 
+## obsidian 
+
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+
 ## open-source 
 
 - [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approva
@@ -2505,6 +2514,7 @@
 
 ## others 
 
+- [crutchcorn/skills](https://github.com/crutchcorn/skills) - Have your agent engineer more like Corbin
 - [dorkitude/skimmer](https://github.com/dorkitude/skimmer) - Skim pages, files, and lists with Jev: keep only what helps with your goal. Saves agent tokens.  Built with go/cobra.
 - [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.
 - [pawamoy/failprint](https://github.com/pawamoy/failprint) - Run a command, print its output only if it fails.
@@ -2512,7 +2522,7 @@
 - [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [am-will/codex-skills](https://github.com/am-will/codex-skills) - 
 - [am-will/multi-codex-app](https://github.com/am-will/multi-codex-app) - Run several Codex desktop accounts side by side, each with its own separate profile and login.
-- [backnotprop/pstack](https://github.com/backnotprop/pstack) - Skills and principles for rigorous AI-assisted engineering
+- [backnotprop/pstack](https://github.com/backnotprop/pstack) - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering
 - [antfu/pulls.review](https://github.com/antfu/pulls.review) - A better way for review GitHub Pull Requests
 - [unclebob/mutator](https://github.com/unclebob/mutator) - Mutation testing for Clojure, Java, Go, TypeScript, Rust, and Python, in the snapshot uml-viewer reads.
 - [unclebob/crapper](https://github.com/unclebob/crapper) - CRAP scores for Clojure, Java, Go, TypeScript, Rust, and Python, in the snapshot uml-viewer reads.
@@ -3363,7 +3373,6 @@
 - [fasiha/ebisu](https://github.com/fasiha/ebisu) - Public-domain Python library for flashcard quiz scheduling using Bayesian statistics. (JavaScript, Java, Dart, and other ports available!)
 - [Zaloog/blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
