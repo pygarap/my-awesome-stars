@@ -131,6 +131,7 @@
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -196,6 +197,7 @@
 
 ## JavaScript 
 
+- [crutchcorn/skills](https://github.com/crutchcorn/skills) - Have your agent engineer more like Corbin
 - [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb) - VibeCurb - Injects taste into AI workflows to stop agents from generating boring, AI slop.
@@ -860,7 +862,6 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
@@ -1501,8 +1502,9 @@
 
 ## TypeScript 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.
-- [backnotprop/pstack](https://github.com/backnotprop/pstack) - Skills and principles for rigorous AI-assisted engineering
+- [backnotprop/pstack](https://github.com/backnotprop/pstack) - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering
 - [antfu/pulls.review](https://github.com/antfu/pulls.review) - A better way for review GitHub Pull Requests
 - [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) - Your always-on AI coworkers that move between text, calls, and Slack.
 - [composio-community/open-dot](https://github.com/composio-community/open-dot) - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.
