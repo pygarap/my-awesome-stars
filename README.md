@@ -162,6 +162,7 @@
 ## HTML 
 
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
+- [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
 - [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) - Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [kennethreitz/pep8.org](https://github.com/kennethreitz/pep8.org) - PEP 8, for Humans.
@@ -198,6 +199,7 @@
 
 ## JavaScript 
 
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 - [crutchcorn/skills](https://github.com/crutchcorn/skills) - Have your agent engineer more like Corbin
 - [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
@@ -511,6 +513,7 @@
 
 ## Python 
 
+- [context-dot-dev/sgrep](https://github.com/context-dot-dev/sgrep) - 
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [pawamoy/failprint](https://github.com/pawamoy/failprint) - Run a command, print its output only if it fails.
 - [pawamoy/keycut](https://github.com/pawamoy/keycut) - A command line tool that helps you remembering ALL the numerous keyboard shortcuts of ALL your favorite programs
@@ -527,9 +530,9 @@
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCodek DSH, Kimi and More. https://hol.org/p
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [kucherenko/basta](https://github.com/kucherenko/basta) - Dead code detector for JavaScript, TypeScript and Python — finds unused files, exports, declarations and imports. Rust engine, self-contained binary.
-- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants can run.
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.
 - [rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness) - A repo-native coding-agent loop harness for Claude, Codex, Copilot, and other CLI agents. Agents can edit. Gates decide what lands. You set the plan in motion. The agents take a prompt, and each itera
-- [thruwire/foreman](https://github.com/thruwire/foreman) - An agent supervisor and software factory foreman powered by TypeSafe’s Jev model
+- [thruwire/foreman](https://github.com/thruwire/foreman) - An agent supervisor and software factory foreman powered by decision models
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [mainmatter/rust-python-interoperability](https://github.com/mainmatter/rust-python-interoperability) - A self-paced course to write Python extensions in Rust, one exercise at a time.
 - [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) - A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.
@@ -570,7 +573,7 @@
 - [henryiii/validate-pyproject-schema-store](https://github.com/henryiii/validate-pyproject-schema-store) - Daily automatic mirror of SchemaStore for validate-pyproject
 - [henryiii/skills](https://github.com/henryiii/skills) - Some agent skills that are useful for coding.
 - [horejsek/python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema) - Fast JSON schema validator for Python.
-- [pydantic/pydantic-ai-harness](https://github.com/pydantic/pydantic-ai-harness) - Your agent's favorite harness, built on Pydantic AI
+- [pydantic/pydantic-ai-harness](https://github.com/pydantic/pydantic-ai-harness) - Batteries for your Pydantic AI agent.
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
@@ -851,7 +854,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 - [getsentry/pytest-responses](https://github.com/getsentry/pytest-responses) - py.test integration for responses
-- [get-convex/convex-py](https://github.com/get-convex/convex-py) - Python Client Library for Convex
+- [convex/convex-py](https://github.com/convex/convex-py) - Python Client Library for Convex
 - [fasiha/ebisu](https://github.com/fasiha/ebisu) - Public-domain Python library for flashcard quiz scheduling using Bayesian statistics. (JavaScript, Java, Dart, and other ports available!)
 - [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) - Python Package for FSRS Spaced Repetition
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
@@ -1251,6 +1254,7 @@
 
 ## Rust 
 
+- [jdx/wait-for-gh-rate-limit](https://github.com/jdx/wait-for-gh-rate-limit) - 
 - [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
 - [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
@@ -1340,7 +1344,6 @@
 - [PromptExecution/just-mcp](https://github.com/PromptExecution/just-mcp) - mcp server for just
 - [zedless-editor/old-school-zedless](https://github.com/zedless-editor/old-school-zedless) - (old variant) Zed fork focused on privacy and being local-first
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
-- [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [askama-rs/template-benchmark](https://github.com/askama-rs/template-benchmark) - Comparison of template engines written in and for Rust.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -1415,7 +1418,7 @@
 - [robzilla1738/supergoal](https://github.com/robzilla1738/supergoal) - Plan and autonomously build a software task end-to-end. One ready-to-paste /goal, adaptive phase count, memory preload + writeback, 3-strike self-healing recovery.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [am-will/swarms](https://github.com/am-will/swarms) - Multi-agent orchestration skills for Claude Code and Codex
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
@@ -1426,6 +1429,7 @@
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [tmatilai/direnv-1password](https://github.com/tmatilai/direnv-1password) - 1Password helpers for direnv
 - [walkccc/dotfiles](https://github.com/walkccc/dotfiles) - Aim for minimalist dotfiles
+- [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
 - [abereghici/dotfiles](https://github.com/abereghici/dotfiles) - 💻 My personal dotfiles: zsh, git, neovim, alacritty, wezterm, zellij, etc.
 - [zhaohongxuan/dotfiles](https://github.com/zhaohongxuan/dotfiles) - My Personal dotfiles include zsh,nvim,tmux,wezterm Managed by chezmoi🤖
 - [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
@@ -1458,6 +1462,7 @@
 
 ## Swift 
 
+- [mattt/iMCP](https://github.com/mattt/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
 - [peterfriese/Stratos](https://github.com/peterfriese/Stratos) - Stratos: AI Agent Skills for High-End API Design with Progressive Disclosure
 - [mpociot/claude-siri-ai](https://github.com/mpociot/claude-siri-ai) - Experimental macOS 27 App Intents model delegation provider backed by Claude Code
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
@@ -1504,6 +1509,7 @@
 
 ## TypeScript 
 
+- [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.
 - [backnotprop/pstack](https://github.com/backnotprop/pstack) - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering
@@ -1511,7 +1517,6 @@
 - [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) - Your always-on AI coworkers that move between text, calls, and Slack.
 - [composio-community/open-dot](https://github.com/composio-community/open-dot) - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.
 - [openai/mcp-extensions](https://github.com/openai/mcp-extensions) - Build plugins that feel like native, first-class features of ChatGPT.
-- [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
 - [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
 - [hardbeat920/monocode](https://github.com/hardbeat920/monocode) - A GUI for your coding agents
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
@@ -1527,7 +1532,7 @@
 - [kentcdodds/kody](https://github.com/kentcdodds/kody) - 🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
 - [ericlitman/open-pstack](https://github.com/ericlitman/open-pstack) - pstack for Claude Code and Codex, tracking Cursor pstack upstream
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration.
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
@@ -1623,7 +1628,7 @@
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 - [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [cameroncooke/reloaderoo](https://github.com/cameroncooke/reloaderoo) - Powerful MCP debugging proxy and CLI inspection tool.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
