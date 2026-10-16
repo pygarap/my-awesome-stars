@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 - [crutchcorn/skills](https://github.com/crutchcorn/skills) - Have your agent engineer more like Corbin
 - [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.
@@ -513,6 +514,7 @@
 
 ## Python 
 
+- [owenlamont/skills](https://github.com/owenlamont/skills) - Engineering standards skills for coding agents (Agent Skills format): Python, Rust, TypeScript, docs, PR review
 - [context-dot-dev/sgrep](https://github.com/context-dot-dev/sgrep) - 
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [pawamoy/failprint](https://github.com/pawamoy/failprint) - Run a command, print its output only if it fails.
@@ -1254,6 +1256,7 @@
 
 ## Rust 
 
+- [Krzysztof-Cieslak/fai](https://github.com/Krzysztof-Cieslak/fai) - Programming language for AI age
 - [jdx/wait-for-gh-rate-limit](https://github.com/jdx/wait-for-gh-rate-limit) - 
 - [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
 - [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
@@ -1344,6 +1347,7 @@
 - [PromptExecution/just-mcp](https://github.com/PromptExecution/just-mcp) - mcp server for just
 - [zedless-editor/old-school-zedless](https://github.com/zedless-editor/old-school-zedless) - (old variant) Zed fork focused on privacy and being local-first
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [askama-rs/template-benchmark](https://github.com/askama-rs/template-benchmark) - Comparison of template engines written in and for Rust.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -1429,7 +1433,6 @@
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [tmatilai/direnv-1password](https://github.com/tmatilai/direnv-1password) - 1Password helpers for direnv
 - [walkccc/dotfiles](https://github.com/walkccc/dotfiles) - Aim for minimalist dotfiles
-- [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
 - [abereghici/dotfiles](https://github.com/abereghici/dotfiles) - 💻 My personal dotfiles: zsh, git, neovim, alacritty, wezterm, zellij, etc.
 - [zhaohongxuan/dotfiles](https://github.com/zhaohongxuan/dotfiles) - My Personal dotfiles include zsh,nvim,tmux,wezterm Managed by chezmoi🤖
 - [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
