@@ -263,6 +263,8 @@
 
 ## agent-skills 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [voidmatcha/e2e-skills](https://github.com/voidmatcha/e2e-skills) - Playwright and Cypress skills for Claude Code and Codex: generate tests, catch false-green tests and test smells, debug failures.
 - [computerlovetech/agr](https://github.com/computerlovetech/agr) - Educational package-manager project for AI agent skills. Not actively maintained.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding
@@ -293,6 +295,7 @@
 
 ## agents 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [backnotprop/bro](https://github.com/backnotprop/bro) - Useful skills.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
@@ -344,6 +347,7 @@
 
 ## ai 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [kucherenko/gangsta](https://github.com/kucherenko/gangsta) - AI agentic skills framework for spec-driven development, built on the organizational model of mafia.
@@ -459,6 +463,8 @@
 
 ## ai-agent 
 
+- [momokun7/xgrep](https://github.com/momokun7/xgrep) - Ultra-fast indexed code search engine — faster than ripgrep on repeated searches, lighter than zoekt. Built-in MCP server for AI agents. Also does fast file finding (fd/find alternative).
+- [voidmatcha/e2e-skills](https://github.com/voidmatcha/e2e-skills) - Playwright and Cypress skills for Claude Code and Codex: generate tests, catch false-green tests and test smells, debug failures.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approva
@@ -473,6 +479,7 @@
 
 ## ai-agents 
 
+- [codex-yolo/codex-yolo](https://github.com/codex-yolo/codex-yolo) - Run parallel OpenAI Codex CLI agents in tmux with automatic permission approval. Auto-approves command execution, file edit, network access, and MCP tool prompts while preserving sandbox     protectio
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.
@@ -631,6 +638,7 @@
 
 ## automation 
 
+- [codex-yolo/codex-yolo](https://github.com/codex-yolo/codex-yolo) - Run parallel OpenAI Codex CLI agents in tmux with automatic permission approval. Auto-approves command execution, file edit, network access, and MCP tool prompts while preserving sandbox     protectio
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
 - [rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness) - A repo-native coding-agent loop harness for Claude, Codex, Copilot, and other CLI agents. Agents can edit. Gates decide what lands. You set the plan in motion. The agents take a prompt, and each itera
@@ -650,6 +658,7 @@
 
 ## awesome 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCodek DSH, Kimi and More. https://hol.org/p
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -789,6 +798,7 @@
 
 ## bash 
 
+- [codex-yolo/codex-yolo](https://github.com/codex-yolo/codex-yolo) - Run parallel OpenAI Codex CLI agents in tmux with automatic permission approval. Auto-approves command execution, file edit, network access, and MCP tool prompts while preserving sandbox     protectio
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
@@ -935,6 +945,7 @@
 
 ## claude-code 
 
+- [voidmatcha/e2e-skills](https://github.com/voidmatcha/e2e-skills) - Playwright and Cypress skills for Claude Code and Codex: generate tests, catch false-green tests and test smells, debug failures.
 - [anur4ag/pr-completion](https://github.com/anur4ag/pr-completion) - Autonomous PR preparation to verified merge readiness for Claude Code and Codex
 - [computerlovetech/agr](https://github.com/computerlovetech/agr) - Educational package-manager project for AI agent skills. Not actively maintained.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -1007,6 +1018,7 @@
 
 ## cli 
 
+- [momokun7/xgrep](https://github.com/momokun7/xgrep) - Ultra-fast indexed code search engine — faster than ripgrep on repeated searches, lighter than zoekt. Built-in MCP server for AI agents. Also does fast file finding (fd/find alternative).
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
@@ -1117,6 +1129,7 @@
 
 ## code-review 
 
+- [voidmatcha/e2e-skills](https://github.com/voidmatcha/e2e-skills) - Playwright and Cypress skills for Claude Code and Codex: generate tests, catch false-green tests and test smells, debug failures.
 - [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.
@@ -1363,6 +1376,8 @@
 
 ## developer-tools 
 
+- [momokun7/xgrep](https://github.com/momokun7/xgrep) - Ultra-fast indexed code search engine — faster than ripgrep on repeated searches, lighter than zoekt. Built-in MCP server for AI agents. Also does fast file finding (fd/find alternative).
+- [codex-yolo/codex-yolo](https://github.com/codex-yolo/codex-yolo) - Run parallel OpenAI Codex CLI agents in tmux with automatic permission approval. Auto-approves command execution, file edit, network access, and MCP tool prompts while preserving sandbox     protectio
 - [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
@@ -1767,6 +1782,7 @@
 
 ## hacktoberfest 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness) - A repo-native coding-agent loop harness for Claude, Codex, Copilot, and other CLI agents. Agents can edit. Gates decide what lands. You set the plan in motion. The agents take a prompt, and each itera
@@ -2248,6 +2264,7 @@
 
 ## markdown 
 
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
 - [petergyang/human-review](https://github.com/petergyang/human-review) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
@@ -2276,6 +2293,7 @@
 
 ## mcp 
 
+- [momokun7/xgrep](https://github.com/momokun7/xgrep) - Ultra-fast indexed code search engine — faster than ripgrep on repeated searches, lighter than zoekt. Built-in MCP server for AI agents. Also does fast file finding (fd/find alternative).
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
@@ -2434,6 +2452,7 @@
 
 ## nodejs 
 
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [rvben/upd](https://github.com/rvben/upd) - Local-first dependency updates for polyglot repositories—Python, Node.js, Rust, Go, Ruby, .NET, Terraform, GitHub Actions, pre-commit, and Mise.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
@@ -2496,6 +2515,7 @@
 
 ## openai 
 
+- [codex-yolo/codex-yolo](https://github.com/codex-yolo/codex-yolo) - Run parallel OpenAI Codex CLI agents in tmux with automatic permission approval. Auto-approves command execution, file edit, network access, and MCP tool prompts while preserving sandbox     protectio
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins
@@ -2725,7 +2745,7 @@
 - [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [mfranzon/tdd](https://github.com/mfranzon/tdd) - tdd skill for coding agents
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook) - All the links, books, and creators you need to follow to stay up to date with AI!
 - [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
 - [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent's work
@@ -3260,6 +3280,7 @@
 
 ## prompt-engineering 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
@@ -3278,6 +3299,7 @@
 
 ## python 
 
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
@@ -3802,6 +3824,8 @@
 
 ## rust 
 
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+- [momokun7/xgrep](https://github.com/momokun7/xgrep) - Ultra-fast indexed code search engine — faster than ripgrep on repeated searches, lighter than zoekt. Built-in MCP server for AI agents. Also does fast file finding (fd/find alternative).
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
@@ -4063,6 +4087,7 @@
 
 ## terminal 
 
+- [codex-yolo/codex-yolo](https://github.com/codex-yolo/codex-yolo) - Run parallel OpenAI Codex CLI agents in tmux with automatic permission approval. Auto-approves command execution, file edit, network access, and MCP tool prompts while preserving sandbox     protectio
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [tw93/Kaku](https://github.com/tw93/Kaku) - An AI-friendly Mac terminal with sensible defaults, ready out of the box.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
