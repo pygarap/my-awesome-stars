@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 - [crutchcorn/skills](https://github.com/crutchcorn/skills) - Have your agent engineer more like Corbin
@@ -516,6 +517,7 @@
 
 ## Python 
 
+- [voidmatcha/e2e-skills](https://github.com/voidmatcha/e2e-skills) - Playwright and Cypress skills for Claude Code and Codex: generate tests, catch false-green tests and test smells, debug failures.
 - [anur4ag/pr-completion](https://github.com/anur4ag/pr-completion) - Autonomous PR preparation to verified merge readiness for Claude Code and Codex
 - [computerlovetech/agr](https://github.com/computerlovetech/agr) - Educational package-manager project for AI agent skills. Not actively maintained.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
@@ -1263,6 +1265,8 @@
 
 ## Rust 
 
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+- [momokun7/xgrep](https://github.com/momokun7/xgrep) - Ultra-fast indexed code search engine — faster than ripgrep on repeated searches, lighter than zoekt. Built-in MCP server for AI agents. Also does fast file finding (fd/find alternative).
 - [Krzysztof-Cieslak/fai](https://github.com/Krzysztof-Cieslak/fai) - Programming language for AI age
 - [jdx/wait-for-gh-rate-limit](https://github.com/jdx/wait-for-gh-rate-limit) - 
 - [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
@@ -1414,6 +1418,7 @@
 
 ## Shell 
 
+- [codex-yolo/codex-yolo](https://github.com/codex-yolo/codex-yolo) - Run parallel OpenAI Codex CLI agents in tmux with automatic permission approval. Auto-approves command execution, file edit, network access, and MCP tool prompts while preserving sandbox     protectio
 - [entireio/skills](https://github.com/entireio/skills) - ✨ Cross-agent skills that help coding agents use Entire context from Checkpoints, sessions, and git history to search past work, explain code, and hand off sessions.
 - [am-will/codex-skills](https://github.com/am-will/codex-skills) - 
 - [cpojer/dotfiles](https://github.com/cpojer/dotfiles) - My dotfiles and VS Code setup.
@@ -1581,7 +1586,7 @@
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [rvben/rumdl-chrome-extension](https://github.com/rvben/rumdl-chrome-extension) - 
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) - 
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - 🍄 Give your Codex CLI an extra life
