@@ -517,6 +517,7 @@
 
 ## Python 
 
+- [python-semver/python-semver](https://github.com/python-semver/python-semver) - Python package to work with Semantic Versioning (https://semver.org/)
 - [voidmatcha/e2e-skills](https://github.com/voidmatcha/e2e-skills) - Playwright and Cypress skills for Claude Code and Codex: generate tests, catch false-green tests and test smells, debug failures.
 - [anur4ag/pr-completion](https://github.com/anur4ag/pr-completion) - Autonomous PR preparation to verified merge readiness for Claude Code and Codex
 - [computerlovetech/agr](https://github.com/computerlovetech/agr) - Educational package-manager project for AI agent skills. Not actively maintained.
@@ -1265,6 +1266,7 @@
 
 ## Rust 
 
+- [djinn-soul/CytoScnPy](https://github.com/djinn-soul/CytoScnPy) - Fast Python static analysis powered by Rust. Detects dead code, security issues (including taint analysis), and code quality metrics like complexity, Halstead, maintainability, and nesting depth.
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 - [Dicklesworthstone/xf](https://github.com/Dicklesworthstone/xf) - Search your X/Twitter data archive from the command line with sub-millisecond full-text queries via Tantivy and SQLite
 - [Dicklesworthstone/coding_agent_usage_tracker](https://github.com/Dicklesworthstone/coding_agent_usage_tracker) - Single CLI to monitor LLM provider usage across Codex, Claude, Gemini, Cursor, and Copilot: remaining quota, rate limits, and cost tracking in one place
