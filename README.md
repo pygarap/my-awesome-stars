@@ -109,7 +109,7 @@
 - [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.
 - [ejoffe/spr](https://github.com/ejoffe/spr) - Stacked Pull Requests on GitHub
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
@@ -205,7 +205,6 @@
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 - [crutchcorn/skills](https://github.com/crutchcorn/skills) - Have your agent engineer more like Corbin
-- [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb) - VibeCurb - Injects taste into AI workflows to stop agents from generating boring, AI slop.
 - [sindresorhus/finder-alias](https://github.com/sindresorhus/finder-alias) - Resolve and create macOS Finder aliases
@@ -518,6 +517,7 @@
 
 ## Python 
 
+- [sembr/skills](https://github.com/sembr/skills) - Agent skills for Semantic Line Breaks
 - [python-semver/python-semver](https://github.com/python-semver/python-semver) - Python package to work with Semantic Versioning (https://semver.org/)
 - [voidmatcha/e2e-skills](https://github.com/voidmatcha/e2e-skills) - Playwright and Cypress skills for Claude Code and Codex: generate tests, catch false-green tests and test smells, debug failures.
 - [anur4ag/pr-completion](https://github.com/anur4ag/pr-completion) - Autonomous PR preparation to verified merge readiness for Claude Code and Codex
@@ -1275,6 +1275,7 @@
 - [momokun7/xgrep](https://github.com/momokun7/xgrep) - Ultra-fast indexed code search engine — faster than ripgrep on repeated searches, lighter than zoekt. Built-in MCP server for AI agents. Also does fast file finding (fd/find alternative).
 - [Krzysztof-Cieslak/fai](https://github.com/Krzysztof-Cieslak/fai) - Programming language for AI age
 - [jdx/wait-for-gh-rate-limit](https://github.com/jdx/wait-for-gh-rate-limit) - 
+- [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.
 - [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
 - [skilld-dev/skilld](https://github.com/skilld-dev/skilld) - Open-source, privacy friendly skills.sh alternative for humans and agents.
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
