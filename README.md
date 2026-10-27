@@ -213,7 +213,6 @@
 - [sindresorhus/finder-alias](https://github.com/sindresorhus/finder-alias) - Resolve and create macOS Finder aliases
 - [ScriptedAlchemy/pstack-codex](https://github.com/ScriptedAlchemy/pstack-codex) - Codex-native port of Lauren Tan's pstack: 47 skills, 23 playbooks, agent personas, multi-agent workflows, and Benny automation adapters. Includes a Codex marketplace and installer.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins
 - [kunchenguid/backpass](https://github.com/kunchenguid/backpass) - You don't write AGENTS.md. You train it with gradient descent.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) - Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded
@@ -522,6 +521,8 @@
 
 ## Python 
 
+- [JetBrains/skills](https://github.com/JetBrains/skills) - Curated agent skills collection verified by JetBrains
+- [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -571,6 +572,7 @@
 - [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows!
 - [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
 - [dhruvkb/oxc-py](https://github.com/dhruvkb/oxc-py) - Oxfmt and Oxlint distributed through PyPI
+- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins
 - [feiskyer/codex-settings](https://github.com/feiskyer/codex-settings) - Curated skills, profiles, and config templates that supercharge Codex CLI — multi-model, deep research, image gen & browser automation.
 - [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) - Scan MCP servers for potential threats & security findings.
 - [OutThisLife/brooklyn-skills](https://github.com/OutThisLife/brooklyn-skills) - Skills that drive best-in-class engineering
@@ -892,7 +894,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [mildbyte/poetry-sudoku-solver](https://github.com/mildbyte/poetry-sudoku-solver) - Sudoku solver that uses Poetry's dependency resolver
 - [mildbyte/uv-wordle-solver](https://github.com/mildbyte/uv-wordle-solver) - Solve Wordle using uv's dependency resolver!
 - [IBM/mcp-cli](https://github.com/IBM/mcp-cli) - 
@@ -1278,13 +1280,12 @@
 
 ## Rust 
 
-- [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) - A Claude Code plugin that teaches Claude to write idiomatic, robust Rust
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) - Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured JSON, abstention, and local feedback. Requires a T
 - [djinn-soul/CytoScnPy](https://github.com/djinn-soul/CytoScnPy) - Fast Python static analysis powered by Rust. Detects dead code, security issues (including taint analysis), and code quality metrics like complexity, Halstead, maintainability, and nesting depth.
-- [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
+- [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 30+ providers (Codex, Claude Code, Gemini, Cursor, Aider, Copilot, and more) into one searchable timeline. Hybrid
 - [Dicklesworthstone/xf](https://github.com/Dicklesworthstone/xf) - Search your X/Twitter data archive from the command line with sub-millisecond full-text queries via Tantivy and SQLite
-- [Dicklesworthstone/coding_agent_usage_tracker](https://github.com/Dicklesworthstone/coding_agent_usage_tracker) - Single CLI to monitor LLM provider usage across Codex, Claude, Gemini, Cursor, and Copilot: remaining quota, rate limits, and cost tracking in one place
+- [Dicklesworthstone/coding_agent_usage_tracker](https://github.com/Dicklesworthstone/coding_agent_usage_tracker) - Single CLI to monitor LLM coding-agent usage across 16+ providers (Codex, Claude, Gemini, Cursor, Copilot, and more): remaining quota, rate limits, and credits as terminal tables or JSON/Markdown, plu
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [momokun7/xgrep](https://github.com/momokun7/xgrep) - Ultra-fast indexed code search engine — faster than ripgrep on repeated searches, lighter than zoekt. Built-in MCP server for AI agents. Also does fast file finding (fd/find alternative).
 - [Krzysztof-Cieslak/fai](https://github.com/Krzysztof-Cieslak/fai) - Programming language for AI age
@@ -1295,7 +1296,7 @@
 - [Dicklesworthstone/meta_skill](https://github.com/Dicklesworthstone/meta_skill) - Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
 - [mitsuhiko/deser](https://github.com/mitsuhiko/deser) - Experimental rust serialization library
 - [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - High-performance AI coding agent CLI written in Rust with zero unsafe code
-- [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Jev-compatible API server for open decision models. Ollama for decision models: pull and serve 25 model families (Laya, pplx-decider, Clef, Winnow, coba...) locally or self-hosted behind /v1/systemone
+- [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Jev-compatible API server for open decision models. Ollama for decision models: pull and serve 29 model families (Laya, pplx-decider, Clef, Winnow, coba...) locally or self-hosted behind /v1/systemone
 - [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, good-looking, AI-friendly terminal for the Mac.
 - [ChristopherKahler/base](https://github.com/ChristopherKahler/base) - AI builder operating system. Turn Claude Code from a per-session tool into a workspace that remembers, maintains itself, and never goes stale. BASE = Builder's Automated State Engine.
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
@@ -1309,13 +1310,13 @@
 - [rvben/upd](https://github.com/rvben/upd) - Local-first dependency updates for polyglot repositories—Python, Node.js, Rust, Go, Ruby, .NET, Terraform, GitHub Actions, pre-commit, and Mise.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at
 - [ArchAstro/scopey](https://github.com/ArchAstro/scopey) - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope
 - [RustedBytes/rsloop](https://github.com/RustedBytes/rsloop) - An event loop for asyncio written in Rust
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server with zsh support
 - [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -1439,6 +1440,7 @@
 
 ## Shell 
 
+- [JetBrains/context](https://github.com/JetBrains/context) - JetBrains Context: skills, mcp, hooks
 - [rvbug/.dotfiles](https://github.com/rvbug/.dotfiles) - To manage the .dotfiles
 - [codex-yolo/codex-yolo](https://github.com/codex-yolo/codex-yolo) - Run parallel OpenAI Codex CLI agents in tmux with automatic permission approval. Auto-approves command execution, file edit, network access, and MCP tool prompts while preserving sandbox     protectio
 - [entireio/skills](https://github.com/entireio/skills) - ✨ Cross-agent skills that help coding agents use Entire context from Checkpoints, sessions, and git history to search past work, explain code, and hand off sessions.
@@ -1546,6 +1548,7 @@
 
 ## TypeScript 
 
+- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 - [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
 - [upstash/skills](https://github.com/upstash/skills) - Collection of skills for Upstash
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
