@@ -205,9 +205,7 @@
 - [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 - [crutchcorn/skills](https://github.com/crutchcorn/skills) - Have your agent engineer more like Corbin
-- [backnotprop/pstack](https://github.com/backnotprop/pstack) - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb) - VibeCurb - Injects taste into AI workflows to stop agents from generating boring, AI slop.
 - [sindresorhus/finder-alias](https://github.com/sindresorhus/finder-alias) - Resolve and create macOS Finder aliases
@@ -521,6 +519,7 @@
 
 ## Python 
 
+- [t3dotgg/tstack](https://github.com/t3dotgg/tstack) - The agent skills I use every day. Works with Claude Code and Codex.
 - [JetBrains/skills](https://github.com/JetBrains/skills) - Curated agent skills collection verified by JetBrains
 - [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
@@ -1548,14 +1547,17 @@
 
 ## TypeScript 
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 - [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
 - [upstash/skills](https://github.com/upstash/skills) - Collection of skills for Upstash
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
 - [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source AI code review for coding agents. A separate reviewer checks every change your agent writes before you push, in Claude Code, Codex, Cursor and Cline. No account or key of its own.
+- [backnotprop/pstack](https://github.com/backnotprop/pstack) - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering
 - [antfu/pulls.review](https://github.com/antfu/pulls.review) - A better way for review GitHub Pull Requests
 - [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) - Your always-on AI coworkers that move between text, calls, and Slack.
 - [composio-community/open-dot](https://github.com/composio-community/open-dot) - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.
