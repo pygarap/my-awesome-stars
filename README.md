@@ -728,6 +728,7 @@
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [intellectronica/skillz](https://github.com/intellectronica/skillz) - An MCP server for loading skills (shim for non-claude clients).
 - [ttygroup/textual-tty](https://github.com/ttygroup/textual-tty) - A pure python terminal for textual
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
 - [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
 - [beartype/pytest-beartype](https://github.com/beartype/pytest-beartype) - Pytest plugin type-checking tests, fixtures, and/or your codebase with @beartype.
@@ -1463,7 +1464,6 @@
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
 - [agentflare-ai/agentml](https://github.com/agentflare-ai/agentml) - Agent Markdown Language
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [beartype/ipython-beartype](https://github.com/beartype/ipython-beartype) - Jupyter (IPython) extension for type-checking Jupyter notebooks and IPython environments with @beartype.
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
