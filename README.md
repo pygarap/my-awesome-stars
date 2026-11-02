@@ -1473,7 +1473,7 @@
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [tmatilai/direnv-1password](https://github.com/tmatilai/direnv-1password) - 1Password helpers for direnv
-- [abereghici/dotfiles](https://github.com/abereghici/dotfiles) - 💻 My macOS dotfiles: Zsh, Neovim (LazyVim), Ghostty, tmux and herdr for AI coding agents, lazygit, mise and AeroSpace, all in Rosé Pine.
+- [abereghici/dotfiles](https://github.com/abereghici/dotfiles) - My macOS dotfiles: Zsh, Neovim (LazyVim), Ghostty, tmux and herdr for AI coding agents, lazygit, mise and AeroSpace, all in Bereghici Dark and Light, following the macOS appearance.
 - [zhaohongxuan/dotfiles](https://github.com/zhaohongxuan/dotfiles) - My Personal dotfiles include zsh,nvim,tmux,wezterm Managed by chezmoi🤖
 - [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
 - [zpm-zsh/colors](https://github.com/zpm-zsh/colors) - Enhanced colors for zsh
@@ -1502,6 +1502,7 @@
 
 ## Swift 
 
+- [ThiloReintjes/tinybar](https://github.com/ThiloReintjes/tinybar) - A lighter, from-scratch alternative to CodexBar: Claude, Codex, Gemini, Cursor, OpenCode Go and Copilot limits, token history and API-equivalent cost. No WebKit, read-only logins.
 - [mattt/iMCP](https://github.com/mattt/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
 - [peterfriese/Stratos](https://github.com/peterfriese/Stratos) - Stratos: AI Agent Skills for High-End API Design with Progressive Disclosure
 - [mpociot/claude-siri-ai](https://github.com/mpociot/claude-siri-ai) - Experimental macOS 27 App Intents model delegation provider backed by Claude Code
