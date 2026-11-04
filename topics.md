@@ -2662,9 +2662,11 @@
 
 ## others 
 
+- [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools faster
+- [dmtrKovalenko/dotfiles](https://github.com/dmtrKovalenko/dotfiles) - 
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [jdx/jouet](https://github.com/jdx/jouet) - A toolkit CLI for coding agents.
+- [jdx/jouet](https://github.com/jdx/jouet) - [experimental] A toolkit CLI for coding agents.
 - [t3dotgg/tstack](https://github.com/t3dotgg/tstack) - The agent skills I use every day. Works with Claude Code and Codex.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [JetBrains/context](https://github.com/JetBrains/context) - JetBrains Context: skills, mcp, hooks
