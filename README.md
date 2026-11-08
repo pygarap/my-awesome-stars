@@ -1445,6 +1445,8 @@
 
 ## Shell 
 
+- [kunchenguid/headless](https://github.com/kunchenguid/headless) - Agent skill that sets up a headless Mac, Linux or Windows machine over SSH, step by step, without ever seeing the admin password.
+- [firecrawl/firecrawl-codex-plugin](https://github.com/firecrawl/firecrawl-codex-plugin) - Firecrawl plugin for OpenAI Codex: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents.
 - [oknozor/dotfiles](https://github.com/oknozor/dotfiles) - my dotfiles
 - [JetBrains/context](https://github.com/JetBrains/context) - JetBrains Context: skills, mcp, hooks
 - [rvbug/.dotfiles](https://github.com/rvbug/.dotfiles) - To manage the .dotfiles
