@@ -376,6 +376,7 @@
 
 ## Others 
 
+- [DavidVujic/my-eca-config](https://github.com/DavidVujic/my-eca-config) - My Eca setup with agents, instructions and skills
 - [caldoai/skills](https://github.com/caldoai/skills) - Caldo's skills
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [unclebob/ub-mode](https://github.com/unclebob/ub-mode) - 
