@@ -376,6 +376,7 @@
 
 ## Others 
 
+- [janestreet/agent_skills](https://github.com/janestreet/agent_skills) - Agent skills
 - [DavidVujic/my-eca-config](https://github.com/DavidVujic/my-eca-config) - My Eca setup with agents, instructions and skills
 - [caldoai/skills](https://github.com/caldoai/skills) - Caldo's skills
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -522,6 +523,7 @@
 
 ## Python 
 
+- [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
 - [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [t3dotgg/tstack](https://github.com/t3dotgg/tstack) - The agent skills I use every day. Works with Claude Code and Codex.
 - [JetBrains/skills](https://github.com/JetBrains/skills) - Curated agent skills collection verified by JetBrains
@@ -548,7 +550,7 @@
 - [unclebob/crapper](https://github.com/unclebob/crapper) - CRAP scores for Clojure, Java, Go, TypeScript, Rust, and Python, in the snapshot uml-viewer reads.
 - [unclebob/dryer](https://github.com/unclebob/dryer) - 
 - [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
-- [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) - Open-source, self-hosted alternative to Grok Bot, Claude Duet, OpenAI Dots, Meta Muse, Instinct, Manus Cue: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer
+- [Anil-matcha/suparagent](https://github.com/Anil-matcha/suparagent) - Open-source, self-hosted alternative to Grok Bot, Claude Duet, OpenAI Dots, Meta Muse, Instinct, Manus Cue: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer
 - [tiangolo/latest-changes-app](https://github.com/tiangolo/latest-changes-app) - A GitHub App that updates release notes when a pull request is merged into a repository's default branch.
 - [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) - Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions.
 - [gi0baro/pidrei](https://github.com/gi0baro/pidrei) - A Python port of Pi
