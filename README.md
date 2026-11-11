@@ -163,7 +163,6 @@
 
 ## HTML 
 
-- [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
 - [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) - Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026
@@ -200,6 +199,7 @@
 
 ## JavaScript 
 
+- [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
 - [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools faster
 - [michielhdoteth/awesome-ai-agent-tools](https://github.com/michielhdoteth/awesome-ai-agent-tools) - AI agent tools for coding assistants: skills, MCP servers, agent loops, subagents, hooks, plugins, and CLI tools. Machine-readable catalogs. Works with Claude Code, Cursor, Codex, Gemini CLI, and 30+ 
 - [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
@@ -216,6 +216,7 @@
 - [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) - Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 - [regenrek/codex-proofloop](https://github.com/regenrek/codex-proofloop) - Git-based test distillation for Codex agents: catch aggressively, commit reluctantly
+- [OutThisLife/brooklyn-skills](https://github.com/OutThisLife/brooklyn-skills) - Skills that drive best-in-class engineering
 - [aashaexo/soundshuman](https://github.com/aashaexo/soundshuman) - 
 - [petergyang/human-review](https://github.com/petergyang/human-review) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.
 - [refly-ai/refly-skills](https://github.com/refly-ai/refly-skills) - Refly skills repository
@@ -580,7 +581,6 @@
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins
 - [feiskyer/codex-settings](https://github.com/feiskyer/codex-settings) - Curated skills, profiles, and config templates that supercharge Codex CLI — multi-model, deep research, image gen & browser automation.
 - [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) - Scan MCP servers for potential threats & security findings.
-- [OutThisLife/brooklyn-skills](https://github.com/OutThisLife/brooklyn-skills) - Skills that drive best-in-class engineering
 - [owenlamont/lychee-pre-commit](https://github.com/owenlamont/lychee-pre-commit) - Pre-commit hook for lychee, the fast link checker (installs the prebuilt lychee-bin PyPI wheels; works on Windows, macOS, and Linux).
 - [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app) - The best open source courseware to learn cloud engineering
 - [ncoevoet/claude-review-all](https://github.com/ncoevoet/claude-review-all) - Comprehensive multi-agent code review for Claude Code
@@ -595,7 +595,7 @@
 - [regenrek/codex-lean-guardrails](https://github.com/regenrek/codex-lean-guardrails) - 
 - [15r10nk/matchify](https://github.com/15r10nk/matchify) - converts if-else code to match statements
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
-- [retracesoftware/retracesoftware](https://github.com/retracesoftware/retracesoftware) - Turn failed Python tests and CI runs into replayable debug sessions.
+- [retracesoftware/retracesoftware](https://github.com/retracesoftware/retracesoftware) - Open-source preview of Retrace (May 2026). Archived and not maintained. Current release: retracesoftware.com
 - [fastapicloud/skills](https://github.com/fastapicloud/skills) - 
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith) - Tooling support for the Polylith Architecture in Python.
 - [abravalheri/validate-pyproject](https://github.com/abravalheri/validate-pyproject) - Validation library for simple check on `pyproject.toml`
@@ -1448,11 +1448,11 @@
 
 ## Shell 
 
+- [intercom/2x-skills](https://github.com/intercom/2x-skills) - A collection of claude skills we think are generic enough to be useful to everyone
 - [kunchenguid/headless](https://github.com/kunchenguid/headless) - Agent skill that sets up a headless Mac, Linux or Windows machine over SSH, step by step, without ever seeing the admin password.
 - [firecrawl/firecrawl-codex-plugin](https://github.com/firecrawl/firecrawl-codex-plugin) - Firecrawl plugin for OpenAI Codex: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents.
 - [oknozor/dotfiles](https://github.com/oknozor/dotfiles) - my dotfiles
 - [JetBrains/context](https://github.com/JetBrains/context) - JetBrains Context: skills, mcp, hooks
-- [rvbug/.dotfiles](https://github.com/rvbug/.dotfiles) - To manage the .dotfiles
 - [codex-yolo/codex-yolo](https://github.com/codex-yolo/codex-yolo) - Run parallel OpenAI Codex CLI agents in tmux with automatic permission approval. Auto-approves command execution, file edit, network access, and MCP tool prompts while preserving sandbox     protectio
 - [entireio/skills](https://github.com/entireio/skills) - ✨ Cross-agent skills that help coding agents use Entire context from Checkpoints, sessions, and git history to search past work, explain code, and hand off sessions.
 - [am-will/codex-skills](https://github.com/am-will/codex-skills) - 
