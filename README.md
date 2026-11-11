@@ -163,6 +163,7 @@
 
 ## HTML 
 
+- [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
 - [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) - Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026
@@ -523,7 +524,6 @@
 
 ## Python 
 
-- [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
 - [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [t3dotgg/tstack](https://github.com/t3dotgg/tstack) - The agent skills I use every day. Works with Claude Code and Codex.
 - [JetBrains/skills](https://github.com/JetBrains/skills) - Curated agent skills collection verified by JetBrains
