@@ -2805,7 +2805,7 @@
 - [DannyMac180/skills](https://github.com/DannyMac180/skills) - AI agent skills created by me: Dan McAteer
 - [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) - Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
-- [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
+- [microsoft/waza](https://github.com/microsoft/waza) - CLI for testing and evaluating AI agent workflows, custom agents, and skills with repeatable scenarios, graders, evidence, and CI integration.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at
