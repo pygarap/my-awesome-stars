@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [subsy/gardener](https://github.com/subsy/gardener) - 
 - [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
 - [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools faster
 - [michielhdoteth/awesome-ai-agent-tools](https://github.com/michielhdoteth/awesome-ai-agent-tools) - AI agent tools for coding assistants: skills, MCP servers, agent loops, subagents, hooks, plugins, and CLI tools. Machine-readable catalogs. Works with Claude Code, Cursor, Codex, Gemini CLI, and 30+ 
