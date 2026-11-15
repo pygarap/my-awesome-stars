@@ -142,6 +142,7 @@
 - [mcp](#mcp)
 - [mcp-server](#mcp-server)
 - [microservices](#microservices)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -1858,6 +1859,7 @@
 ## gui 
 
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -2491,6 +2493,10 @@
 
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 
+## mobile 
+
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
 ## mongodb 
 
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
@@ -2705,6 +2711,7 @@
 
 ## others 
 
+- [subsy/gardener](https://github.com/subsy/gardener) - 
 - [intercom/2x-skills](https://github.com/intercom/2x-skills) - A collection of claude skills we think are generic enough to be useful to everyone
 - [janestreet/agent_skills](https://github.com/janestreet/agent_skills) - Agent skills
 - [DavidVujic/my-eca-config](https://github.com/DavidVujic/my-eca-config) - My Eca setup with agents, instructions and skills
