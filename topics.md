@@ -1907,7 +1907,6 @@
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [cleder/awesome-python-testing](https://github.com/cleder/awesome-python-testing) - Collection of awesome 😎️ Python resources for testing
 - [hougesen/mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite tools
-- [fredrikaverpil/creosote](https://github.com/fredrikaverpil/creosote) - Identify unused dependencies and avoid a bloated virtual environment.
 - [psincraian/pepy](https://github.com/psincraian/pepy) - pepy is a site to get statistics information about any Python package.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - High-performance Rust-powered logging library for Python.
