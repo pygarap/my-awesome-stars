@@ -1288,6 +1288,7 @@
 
 ## Rust 
 
+- [koxudaxi/heki](https://github.com/koxudaxi/heki) - A Python static checker for side effects and mutations across calls, written in Rust.
 - [dmtrKovalenko/dotfiles](https://github.com/dmtrKovalenko/dotfiles) - 
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [jdx/jouet](https://github.com/jdx/jouet) - [experimental] A toolkit CLI for coding agents.
