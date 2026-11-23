@@ -1107,7 +1107,7 @@
 
 ## cli 
 
-- [koxudaxi/heki](https://github.com/koxudaxi/heki) - A Python static checker for side effects and mutations across calls, written in Rust.
+- [koxudaxi/heki](https://github.com/koxudaxi/heki) - A Python static checker for side effects, mutations, and the architecture rules you declare, across calls. Written in Rust.
 - [progrmoiz/awesome-product-cli](https://github.com/progrmoiz/awesome-product-cli) - A curated list of command-line interfaces for SaaS products — making every product accessible to AI agents and developers
 - [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) - Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured JSON, abstention, and local feedback. Requires a T
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -3492,7 +3492,7 @@
 
 ## python 
 
-- [koxudaxi/heki](https://github.com/koxudaxi/heki) - A Python static checker for side effects and mutations across calls, written in Rust.
+- [koxudaxi/heki](https://github.com/koxudaxi/heki) - A Python static checker for side effects, mutations, and the architecture rules you declare, across calls. Written in Rust.
 - [python-semver/python-semver](https://github.com/python-semver/python-semver) - Python package to work with Semantic Versioning (https://semver.org/)
 - [djinn-soul/CytoScnPy](https://github.com/djinn-soul/CytoScnPy) - Fast Python static analysis powered by Rust. Detects dead code, security issues (including taint analysis), and code quality metrics like complexity, Halstead, maintainability, and nesting depth.
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
@@ -4304,7 +4304,6 @@
 ## swiftui 
 
 - [ThiloReintjes/tinybar](https://github.com/ThiloReintjes/tinybar) - A lighter, from-scratch alternative to CodexBar: Claude, Codex, Gemini, Cursor, OpenCode Go and Copilot limits, token history and API-equivalent cost. No WebKit, read-only logins.
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher built for productivity. Fast, lightweight, and open source.
 - [GetStream/awesome-liquid-glass](https://github.com/GetStream/awesome-liquid-glass) - Liquid Glass animated examples and use cases for inspiration
 - [Mobilecn-UI/swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui) - Beautiful and customizable SwiftUI components
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
