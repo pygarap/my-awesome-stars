@@ -163,6 +163,7 @@
 
 ## HTML 
 
+- [MeLlamoPablo/skills](https://github.com/MeLlamoPablo/skills) - Claude Code plugins with my skills
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for growing software farms: explore ideas, write specs, let agents build unattended, then curate what grew — weed, prune, and review. Works with Claude Code, Codex, and other 
 - [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) - Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026
