@@ -1325,7 +1325,7 @@
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that spreads models across your GPU, RAM, and SSD so they run on everyday Macs and PCs. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at
 - [ArchAstro/scopey](https://github.com/ArchAstro/scopey) - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope
 - [RustedBytes/rsloop](https://github.com/RustedBytes/rsloop) - An event loop for asyncio written in Rust
