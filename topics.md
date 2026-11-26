@@ -2754,6 +2754,7 @@
 
 ## others 
 
+- [marekkirejczyk/skills](https://github.com/marekkirejczyk/skills) - Agent skills: repo-presentation turns a codebase into an onboarding slide deck. Installable as a Claude Code plugin or with npx skills.
 - [MeLlamoPablo/skills](https://github.com/MeLlamoPablo/skills) - Claude Code plugins with my skills
 - [subsy/gardener](https://github.com/subsy/gardener) - 
 - [intercom/2x-skills](https://github.com/intercom/2x-skills) - A collection of claude skills we think are generic enough to be useful to everyone
@@ -2764,7 +2765,7 @@
 - [caldoai/skills](https://github.com/caldoai/skills) - Caldo's skills
 - [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools faster
 - [dmtrKovalenko/dotfiles](https://github.com/dmtrKovalenko/dotfiles) - 
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [jdx/jouet](https://github.com/jdx/jouet) - [experimental] A toolkit CLI for coding agents.
 - [t3dotgg/tstack](https://github.com/t3dotgg/tstack) - The agent skills I use every day. Works with Claude Code and Codex.
